@@ -1,0 +1,60 @@
+body {
+  /*background-image:url(../img/ainsley-wagoner-party-pattern.png);*/
+  background:#000;
+}
+
+header {
+  font-size: 2em;
+  background:url(../img/party-bg-blur-full.png);
+  color:#9929B8;
+}
+
+#sign-up {
+  margin: 20px auto 30px auto;
+  max-width: 600px;
+  padding: 30px 60px 50px;
+  background:rgba(0, 255, 32, 1);
+}
+
+.caps {
+  text-transform:uppercase;
+}
+
+body > header > h1 {
+  line-height: 1em !important;
+}
+.header h2  {
+  color:#F3EFDA;
+}
+body > header > h3 {
+  font-size:1em !important;
+}
+
+#where-when {
+
+}
+#party-people {
+  color:#FCF9F9;
+}
+
+#kindofparties {
+  padding:40px;
+  background:#571A74;
+}
+
+
+#sign-up > form > input {
+  font-size:2em;
+}
+#sign-up > form > button {
+  background: #E500D9;
+}
+
+#share-this {
+  color:#9929B8;
+  padding-top: 80px;
+  padding-bottom: 100px;
+  margin: 20px auto 30px auto;
+  max-width:800px;
+  font-size:1.5em;
+}

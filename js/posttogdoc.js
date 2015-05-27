@@ -21,7 +21,7 @@ function sendToGoogle () {
    };
 
    //update the view with a loading icon
-   $('#sign-up').html('<img src="img/loading.gif" />');
+   $('#sign-up').html('<div class="text-center"><img src="img/loading.gif" /></div>');
 
    //send the post to google docs
    $.ajax({
@@ -36,7 +36,7 @@ function sendToGoogle () {
           console.log('error, but it posted');
         },
      complete: function () {
-       $('#sign-up').html('<h1>Thanks for signing up!</h1>');
+       $('#sign-up').html('<div class="text-center"><h1>Thanks for signing up!</h1><img src="img/high-five.png" /><br /><h2>Got it! We will be in touch.</h2></div>');
      }
    });
 }

@@ -5,15 +5,15 @@ body {
 
 header {
   font-size: 2em;
-  background:url(../img/party-bg-blur-full.png);
-  color:#9929B8;
+  background:url(../img/triangle-bg.png) no-repeat #663399;
+  color:#663399;
 }
 
 #sign-up {
   margin: 20px auto 30px auto;
   max-width: 600px;
   padding: 30px 60px 50px;
-  background:rgba(0, 255, 32, 1);
+  background: #00ff33;
 }
 
 .caps {
@@ -23,11 +23,13 @@ header {
 body > header > h1 {
   line-height: 1em !important;
 }
-.header h2  {
-  color:#F3EFDA;
+body > header > h2  {
+  color:#ccccff;
+
 }
 body > header > h3 {
   font-size:1em !important;
+  color: #ccccff;
 }
 
 #where-when {
@@ -37,24 +39,60 @@ body > header > h3 {
   color:#FCF9F9;
 }
 
-#kindofparties {
-  padding:40px;
-  background:#571A74;
+#more-info {
+  padding: 80px 60px 80px 80px;
+  /*max-width: 600px;*/
+  background:url(../img/triangle-bg-inverse.png);
+  color: #ccccff;
+  font-size: 1.5em;
+  line-height: 1.2em;
 }
-
+.lead-in {
+  font-size:2em;
+  line-height: 1em;
+  color: #ccccff;
+  /*color:#F1BDFF;*/
+}
 
 #sign-up > form > input {
   font-size:2em;
 }
 #sign-up > form > button {
-  background: #E500D9;
+  background:#663399;
 }
 
 #share-this {
-  color:#9929B8;
+  color:#663399;
   padding-top: 80px;
   padding-bottom: 100px;
   margin: 20px auto 30px auto;
   max-width:800px;
   font-size:1.5em;
 }
+
+ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+
+img.star {
+width:30px;
+}
+
+.pad--3 {
+  padding: 3em;
+}
+
+
+footer {
+  background: #663399;
+  color:#ccccff;
+  text-align:center;
+}
+
+/*a:link,
+a:visited,
+a:active {
+  color:red;
+}*/

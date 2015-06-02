@@ -1,11 +1,15 @@
 body {
-  /*background-image:url(../img/ainsley-wagoner-party-pattern.png);*/
   background:#000;
 }
 
 header {
+  height: 100%;
+  background: url(../img/party-people-header.png) repeat-x fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   font-size: 2em;
-  background:url(../img/triangle-bg.png) no-repeat #663399;
   color:#663399;
 }
 
@@ -14,6 +18,7 @@ header {
   max-width: 600px;
   padding: 30px 60px 50px;
   background: #00ff33;
+  border: #ccccff 4px solid;
 }
 
 .caps {
@@ -95,4 +100,38 @@ footer {
   background: #663399;
   color:#ccccff;
   text-align:center;
+}
+
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 992px) and (min-width: 769px) {
+  header {
+    font-size: 1.75em;
+  }
+  #more-info {
+    font-size: 1em;
+    line-height: 1em;
+  }
+}
+
+@media (max-width: 768px) {
+  header {
+    font-size: 1.45em;
+    background: url(../img/party-people-header-no-ppl.png) repeat-x fixed;
+    height: auto;
+  }
+  #more-info {
+    font-size: 0.80em;
+    line-height: 0.90em;
+  }
+  .lead-in {
+    font-size: 1.5em;
+  }
+
+  .star {
+   visibility: hidden;
+  }
 }

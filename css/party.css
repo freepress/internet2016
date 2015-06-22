@@ -101,13 +101,25 @@ footer {
   color:#ccccff;
   text-align:center;
 }
+#video h1 {
+  color:#663399;
+}
 
+#coverage {
+  padding: 80px 60px 80px 80px;
+  background: #663399;
+  color:#ccccff;
+  text-align:center;
+}
 
 @media (max-width: 1200px) {
 
 }
 
 @media (max-width: 992px) and (min-width: 769px) {
+  .hide-it-sm {
+    display:none;
+  }
   header {
     font-size: 1.75em;
   }
@@ -118,6 +130,9 @@ footer {
 }
 
 @media (max-width: 768px) {
+  .hide-it-xs {
+    display:none;
+  }
   header {
     font-size: 1.45em;
     background: url(../img/party-people-header-no-ppl.png) repeat-x fixed;
@@ -134,4 +149,9 @@ footer {
   .star {
    visibility: hidden;
   }
+}
+
+#logos img {
+  max-height: 50px;
+  padding-right: 10px;
 }

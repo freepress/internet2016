@@ -60,10 +60,15 @@
 
     <h2>I want to come to the Internet party!</h2>
     <form id="signup-action" onsubmit="submitFormClick()">
-      <input type="text" id="name" placeholder="Your name" required>
-      <input type="email" id="email" placeholder="Email" required>
-      <input type="text" id="address" placeholder="Street address">
-      <input type="text" id="zipcode" placeholder="ZIP code" required>
+      <ul class="grid grid--2">
+      	<li><input type="text" id="name" placeholder="Your name" required></li>
+      	<li>      <input type="email" id="email" placeholder="Email" required></li>
+      </ul>
+      <ul class="grid grid--2">
+        <li><input type="text" id="address" placeholder="Street address"></li>
+        <li><input type="text" id="zipcode" placeholder="ZIP code" required></li>
+      </ul>
+
       <label><input type="checkbox" id="host-party" value="I want to host a party"> I want to host a party.</label>
       <label><input type="checkbox" id="org-partner" value="become partner"> My organization wants to get more involved.</label>
       <button type="submit" class="button full action" >Join the party!</button>

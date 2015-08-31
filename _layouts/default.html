@@ -16,140 +16,147 @@
 
       <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
       <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Oswald:400,700,300' rel='stylesheet' type='text/css'>
+      <!--
       <link rel="stylesheet" href="{{ site.css_dir }}prism.css">
       <link rel="stylesheet" href="{{ site.css_dir }}screen.css">
       <link rel="stylesheet" href="{{ site.css_dir }}library.css">
       <link rel="stylesheet" href="{{ site.css_dir }}party.css">
+      -->
+      <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,300,400italic,900' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="{{ site.css_dir }}bootstrap.min.css">
+      <link rel="stylesheet" href="{{ site.css_dir }}internet2016.css">
       <script src="{{ site.js_dir }}modernizr-2.6.2.min.js"></script>
       <script src="{{site.js_dir}}jquery.min.js"></script>
       <script src="{{site.js_dir}}bootstrap.min.js"></script>
-      <script src="{{ site.js_dir }}posttogdoc.js"></script>
+
   </head>
 
-  <body class="texture--black">
-    <header class="pad--3 text-center">
+  <body>
+  <header>
+    <nav class="navbar navbar-i16">
 
-      <h1 class="heading big caps">{{ site.title }}</h1>
-      <h2  class="heading caps">{{ site.tagline }}</h2>
-      <ul class="stars">
-        <li><img src="{{site.img_dir}}star.png" alt="" class="star img img-responsive" /></li>
-        <li><img src="{{site.img_dir}}star.png" alt="" class="star img img-responsive" /></li>
-        <li><img src="{{site.img_dir}}star.png" alt="" class="star img img-responsive" /></li>
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <span class="navbar-brand">{{site.title}}</span>
+            </div>
+        </nav>
+  </header>
+  <section id="title-bar">
+  <div class="row">
+    <div class="col-sm-6">
+      <h1>I #3 the internet <br> + I vote</h1>
+    </div>
+  </div>
+  </section>
+  <section id="call-to-action">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <h1>the internet parts</h1>
+          <p>
+            blah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blah
+          </p>
+          <p>
+            blah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blah
+          </p>
+          <p>
+            blah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blah
+          </p>
+          <p>
+            <strong>blah blahblah blahblah blahblah blahblah?</strong>
+          </p>
+        </div>
 
-      </ul>
+        <div class="col-sm-6">
+        <form id="form_id" action="index.html" method="post">
+          <input type="text" name="some_name" value=""><br><br>
+          <input type="text" name="some_name" value=""><br><br>
+          <input type="text" name="some_name" value=""><br><br>
+          <input type="text" name="some_name" value=""><br><br>
+          <br>
+          <button name="button" class="btn btn-primary btn-lg">Join the party</button>
+        </form>
+        </div>
+      </div>
+    </div>
+  </section>
 
 
-    </header>
-
-  <section id="sign-up">
-      <h1 class="caps text-center"><span class="digital-heart"></span> the Internet? <span class="digital-heart"></span> Parties? <br>Get Your Invite!</h1>
-
-      <div class="text-big">
-        <p>
-         The Internet touches every part of our lives &mdash; but too many politicians aren't doing what it takes to protect what makes it so great. That’s where we come in.
-        </p>
-        <p>
-          We'll show up where candidates are, organize high-visibility actions and events &mdash; and yes, throw Internet parties  &mdash; to amplify open Internet victories, raise awareness of key issues, and make sure no politician wants to be on the wrong side of the Internet.
-        </p>
-        <p>
-          Are you in?
+  <section id="featured">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="text-center">
+          <img src="{{site.img_dir}}heart-dude.jpg" alt="" />
+        </div>
+        <p style="text-align: justify">
+          Intro text, blah blah blah blah blah blah blah blah blah blah.
         </p>
       </div>
 
+      <div class="col-sm-4">
+        <div class="text-center">
+          <img src="{{site.img_dir}}heart-dude.jpg" alt="" />
+        </div>
+        <p style="text-align: justify">
+          Intro text, blah blah blah blah blah blah blah blah blah blah.
+        </p>
+      </div>
 
+      <div class="col-sm-4">
+        <div class="text-center">
+          <img src="{{site.img_dir}}heart-dude.jpg" alt="" />
+        </div>
+        <p style="text-align: justify">
+          Intro text, blah blah blah blah blah blah blah blah blah blah.
+        </p>
+      </div>
 
-    <h2>I want to come to the Internet party!</h2>
-    <form id="signup-action" onsubmit="submitFormClick()">
-      <ul class="grid grid--2">
-      	<li><input type="text" id="name" placeholder="Your name" required></li>
-      	<li>      <input type="email" id="email" placeholder="Email" required></li>
-      </ul>
-      <ul class="grid grid--2">
-        <li><input type="text" id="address" placeholder="Street address"></li>
-        <li><input type="text" id="zipcode" placeholder="ZIP code" required></li>
-      </ul>
-
-      <label><input type="checkbox" id="host-party" value="I want to host a party"> I want to host a party.</label>
-      <label><input type="checkbox" id="org-partner" value="become partner"> My organization wants to get more involved.</label>
-      <button type="submit" class="button full action" >Join the party!</button>
-    </form>
+    </div>
   </section>
 
-    <section id="more-info">
-      <p class="lead-in">
-        The open Internet is so much more than the network itself.
-      </p>
-      <p>
-        It’s used to change minds and build movements. We need the open Internet to speak for ourselves, earn a living, be entertained, learn what’s happening in our communities and organize for change.
-      </p>
-      <p>To protect the Internet we have to mobilize and make sure our leaders pay attention to our top priorities.
-      </p>
-      <p>We are united by the principles of <a href="https://webwewant.org/about_us" target="_blank"><em>free speech, access, privacy, choice</em> and <em>openness</em></a>, which we believe need to be the basis of all Internet policies.
-</p>
-    </section>
 
-    <section id="video" class="text-center hide-it-xs hide-it-sm">
-      <h1 class="heading big caps">The year of the Internet Voter?</h1>
-      <p>
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/Ex9S5XizShI" frameborder="0" allowfullscreen></iframe>
-      </p>
-      <p>
-        Watch Craig Aaron kick off Internet 2016 at the Personal Democracy Forum in New York.
-      </p>
-    </section>
+  <section id="spread-the-word" class="text-center">
+    <h1>Spread the word</h1>
+    <h2>#Internet2016 & #InternetVoter</h2>
+    <p>
+      A party is always better with friends
+    </p>
+    <img src="assets/img/socialmedia.png" alt="" />
 
-    <section id="coverage" class="text-center">
-      <p >
-        <h1 class="heading big caps">In The News</h1>
+  </section>
+
+  <footer>
+    <div class="row">
+      <div class="col-sm-3">
+        <h1>#3 Internet 2016</h1>
+      </div>
+      <div class="col-sm-3">
         <ul>
-          <li><a href="http://otherwords.org/the-year-of-the-internet-voter/">"The Year of the Internet Voter" in OtherWords</a></<ul class="list-group"></li>
-            <br>
-          <li><a href="http://motherboard.vice.com/en_ca/read/net-neutrality-activists-believe-the-internet-voter-is-a-new-political-force">"Net Neutrality Activists Believe the 'Internet Voter' Is a New Political Force" in VICE</a></li>
+          <li>Terms of Use</li>
+          <li>Blog</li>
+          <li>News</li>
         </ul>
-        <ul id="logos">
-          <li><a href="http://motherboard.vice.com/en_ca/read/net-neutrality-activists-believe-the-internet-voter-is-a-new-political-force"><img src="{{site.img_dir}}vice-logo-white.png" alt="" /></a></li>
-          <li><a href="http://otherwords.org/the-year-of-the-internet-voter/"><img src="{{site.img_dir}}other-words-logo.png" alt="" /></a></li>
+      </div>
+      <div class="col-sm-3">
+        <ul>
+          <li>Toolkits</li>
+          <li>Privacy Policy</li>
+          <li>Contact us</li>
         </ul>
-
-      </p>
-
-    </section>
-
-    <section id="share-this" class="text-center">
-      <h1 class="heading big caps">Spread the Word</h1>
-      <p>
-        A party's always better with friends.
-      </p>
-      <p >
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Finternet2016.net%2F" type="button" name="button" class="button"><span class="icon-facebook"></span> Facebook</a>
-        <a href="https://twitter.com/home?status=The%20Internet%20is%20winning!%20Get%20yr%20invite%20to%20the%20party%20and%20let's%20make%20our%20voices%20heard%20in%202016:%20http://internet2016.net" type="button" name="button"  class="button "><span class="icon-twitter"></span> Twitter</a>
-      </p>
-
-    </section>
-
-    <footer class="pad--2">
-      <p>Internet 2016 is not a political party and does not support or oppose candidates running for office. We do, however, throw parties.</p>
-      <br>
-      <p>Site built by <a href="http://www.freepress.net">Free Press Action Fund</a></p>
-    </footer>
-
-    <!-- Piwik -->
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-      _paq.push(["setCookieDomain", "*.internet2016.net"]);
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="//analytics.freepress.net/";
-        _paq.push(['setTrackerUrl', u+'piwik.php']);
-        _paq.push(['setSiteId', 7]);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <noscript><p><img src="//analytics.freepress.net/piwik.php?idsite=7" style="border:0;" alt="" /></p></noscript>
-    <!-- End Piwik Code -->
+      </div>
+    </div>
+    <br>
+    <br>
+    <p>
+      2015 Free Press Action Fund <br>
+      Internet 2016 is not a political party and does not support or oppose candidates running for office. We do, however, throw parties.
+    </p>
+  </footer>
 
   </body>
 </html>

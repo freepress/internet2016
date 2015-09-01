@@ -151,3 +151,60 @@ footer ul {
   min-height: 350px;
   background-position:center;
 }
+
+.digital-heart:before {
+  background: url(../img/digital-heart-black.svg);
+  width: .75em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: .75em;
+  content: " ";
+}
+.digital-heart-yellow:before {
+  background: url(../img/digital-heart-yellow.svg);
+  width: .75em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: .75em;
+  content: " ";
+}
+.digital-heart-white:before {
+  background: url(../img/digital-heart-white.svg);
+  width: .75em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: .75em;
+  content: " ";
+}
+
+
+.fb-icon:before {
+  background: url(../img/facebook-53x53.png);
+  width: .75em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: .75em;
+  content: " ";
+}
+
+.twitter-icon:before {
+  background: url(../img/twitter-53x53.png);
+  width: .75em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: .75em;
+  content: " ";
+}
+.instagram-icon:before {
+  background: url(../img/instagram-53x53.png);
+  width: .75em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: .75em;
+  content: " ";
+}
+
+
+.spread-the-word-icons {
+  font-size: 6em;
+}

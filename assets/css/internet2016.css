@@ -11,19 +11,20 @@
   margin:0px;
   border-radius: 0px;
 }
-
 .navbar-brand {
   font-size: 28px;
 }
 
 #title-bar {
-  height:826px;
-  background: url('../img/placeholder-dude.jpg') no-repeat;
+  background: url('../img/placeholder-dude.jpg') no-repeat #383838;
   color:#FFFF00;
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
 }
 
 #title-bar h1 {
-  font-size: 200px;
+  text-transform: uppercase;
 }
 
 #call-to-action {
@@ -37,7 +38,7 @@
 }
 
 section {
-  padding:20px;
+  padding:30px;
 }
 
 footer {
@@ -48,4 +49,105 @@ footer {
 
 footer ul {
     list-style-type: none;
+}
+
+.input-lg {
+  border-radius: 0px;
+}
+#call-to-action input[type=text] {
+  color:#000;
+  width:100%;
+}
+
+#call-to-action button {
+  border-radius: 0px;
+  width: 100%;
+  text-transform: uppercase;
+  padding: 20px;
+  background-color: #663399;
+  border-color: #fff;
+}
+
+#call-to-action button:hover {
+  background-color: #8c53c6;
+}
+
+#featured button {
+  border-radius: 0px;
+  width: 100%;
+  text-transform: uppercase;
+  padding: 10px;
+  background-color: #FFFF00;
+  border-color: #000;
+  color:#000;
+}
+
+#featured button:hover {
+  background-color: #FFFFB1;
+}
+
+@media(max-width:767px){
+  #title-bar h1 {
+    font-size: 5em;
+  }
+  #featured button {
+    font-size: 1.2em;
+  }
+  #call-to-action button {
+    font-size: 1.6em;
+  }
+
+}
+@media(min-width:768px){
+  #title-bar h1 {
+    font-size: 6em;
+  }
+  #featured button {
+    font-size: 1.2em;
+  }
+  #call-to-action button {
+    font-size: 2em;
+  }
+
+}
+@media(min-width:992px){
+  #title-bar h1 {
+    font-size: 8em;
+  }
+
+  #featured button {
+    font-size: 1.6em;
+  }
+  #call-to-action button {
+    font-size: 2.5em;
+  }
+
+}
+@media(min-width:1200px){
+  #title-bar h1 {
+    font-size: 10em;
+  }
+  #featured button {
+    font-size: 2em;
+  }
+  #call-to-action button {
+    font-size: 3em;
+  }
+}
+
+#spread-the-word > h1 {
+  text-transform: uppercase;
+  font-size: 4em;
+}
+
+
+
+
+#toolkit-header-bar {
+  background: url('../img/1300x350.png') no-repeat #383838;
+  color:#FFFF00;
+  background-repeat:no-repeat;
+  /*background-size:contain;*/
+  min-height: 350px;
+  background-position:center;
 }

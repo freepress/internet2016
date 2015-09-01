@@ -4,7 +4,7 @@ fullurl: "http://internet2016.net" #used for fb share content
 fbsharetext: "The Internet is winning! Get your invite to the party and let's make our voices heard in 2016: internet2016.net"
 fbshareimg: "http://internet2016.net/img/internet2016-party-party-party.png"
 collections:
-  projects:
+  toolkits:
 permalink: /:categories/:title
 img_dir: "/assets/img/"
 js_dir: "/assets/js/"

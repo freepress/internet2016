@@ -9,9 +9,10 @@ icon: news-icon.png
 
   <section class="container" id="">
     <img class="toolkit-single-main-icon img-responsive" src="{{site.img_dir}}icons/{{page.icon}}" alt="" />
-    <h1 class="text-center">{{page.title}}</h1>
+    <h1 class="text-center single-page-title">{{page.title}}</h1>
 
     <section>
+
       <ul>
         {% for post in site.categories['press'] %}
         <li>
@@ -22,6 +23,8 @@ icon: news-icon.png
         </li>
         {% endfor %}
       </ul>
+
+
     </section>
-    
+
   </section>

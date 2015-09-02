@@ -1,15 +1,66 @@
 ---
 layout: default
 title: Toolkits
+icon: news-icon.png
+intro_text: "This is where we have all of our toolkits. Aren't they great?"
 ---
-        <ul class="entries">
-          {% for post in site.categories['projects'] %}
-          <li class="col-1-2">
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              <img src="{{ site.baseurl }}/assets/img/projects/{{ post.thumbnail }}" />
-              <h3>{{ post.title }}</h3>
-            </a>
-          </li>
+<section id="toolkit-header-bar">
+</section>
 
-          {% endfor %}
-        </ul>
+<main id="toolkits-list-main">
+<div class="container">
+
+<img class="toolkit-single-main-icon img-responsive" src="{{site.img_dir}}icons/{{page.icon}}" alt="" />
+
+<h1 class="text-center single-page-title">{{page.title}}</h1>
+
+  <section class="container">
+    <p class="text-center" style="padding-bottom: 4em;">
+      {{page.intro_text}}
+    </p>
+    <div class="row">
+      {% for post in site.categories['toolkits'] limit: 2 offset: 0 %}
+      <div class="col-md-2 col-md-offset-1">
+        <img src="{{site.img_dir}}icons/{{post.icon}}" class="pull-left" />
+      </div>
+      <div class="col-md-3">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>
+          {{ post.teaser }}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="row">
+      {% for post in site.categories['toolkits'] limit: 2 offset: 2 %}
+      <div class="col-md-2 col-md-offset-1">
+        <img src="{{site.img_dir}}icons/{{post.icon}}" class="pull-left" />
+      </div>
+      <div class="col-md-3">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>
+          {{ post.teaser }}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="row">
+      {% for post in site.categories['toolkits'] limit: 2 offset: 4 %}
+      <div class="col-md-2 col-md-offset-1">
+        <img src="{{site.img_dir}}icons/{{post.icon}}" class="pull-left" />
+      </div>
+      <div class="col-md-3">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>
+          {{ post.teaser }}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+
+
+  </section>
+</div>
+</main>

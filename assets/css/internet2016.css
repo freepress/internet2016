@@ -1,3 +1,7 @@
+body {
+  font-size: 16px;
+}
+
 .navbar-i16 {
   background-color:#663399;
   border-color:#663399;
@@ -230,6 +234,17 @@ footer ul {
 
 #toolkits-list-main {
   background-color:#FFFF00;
-  margin: 0px;
-  padding: 0px;
+  padding-bottom: 10%;
+}
+
+footer h1 {
+  font-size: 3em;
+}
+
+#toolkit-list-intro-text {
+   padding-bottom: 5%;
+}
+
+.toolkit-list-icons {
+  padding-top:2%
 }

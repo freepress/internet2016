@@ -7,6 +7,7 @@ thumbnail: jekyll.jpg
 categories:
 - toolkits
 tags: [tech]
+icon: toolkit-icon.png
 ---
 
 ## Here are the steps you need to take to ask a candidate a question:

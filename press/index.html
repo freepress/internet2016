@@ -1,32 +1,27 @@
 ---
-layout: in_the_news
+layout: default
 title: In the News
+icon: news-icon.png
 ---
 
   <section id="toolkit-header-bar">
   </section>
-  <div class="container">
 
+  <section class="container" id="">
     <img class="toolkit-single-main-icon img-responsive" src="{{site.img_dir}}icons/{{page.icon}}" alt="" />
-
     <h1 class="text-center">{{page.title}}</h1>
 
-    <section class="toolkit-body">
-
-      <ul class="entries">
+    <section>
+      <ul>
         {% for post in site.categories['press'] %}
-
-        <li class="col-1-3">
+        <li>
+          {{post.outlet}} {{post.publish_date}} <br>
           <a href="{{ site.baseurl }}{{ post.url }}">
-            <img src="{{site.img_dir}}{{ post.thumbnail }}" />
-            <h3>{{ post.title }}</h3>
+            {{ post.title }}
           </a>
         </li>
-
         {% endfor %}
       </ul>
-
     </section>
-
-
-  </div>
+    
+  </section>

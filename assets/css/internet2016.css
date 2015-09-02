@@ -179,7 +179,7 @@ footer ul {
 
 
 .fb-icon:before {
-  background: url(../img/facebook-53x53.png);
+  background: url(../img/icons/facebook.svg);
   width: .75em;
   display: inline-block;
   background-size: 100% 100%;
@@ -188,7 +188,7 @@ footer ul {
 }
 
 .twitter-icon:before {
-  background: url(../img/twitter-53x53.png);
+  background: url(../img/icons/twitter.svg);
   width: .75em;
   display: inline-block;
   background-size: 100% 100%;
@@ -196,7 +196,7 @@ footer ul {
   content: " ";
 }
 .instagram-icon:before {
-  background: url(../img/instagram-53x53.png);
+  background: url(../img/icons/instagram.svg);
   width: .75em;
   display: inline-block;
   background-size: 100% 100%;
@@ -204,6 +204,14 @@ footer ul {
   content: " ";
 }
 
+.creativecommons-icon:before {
+  background: url(../img/icons/cc.svg);
+  width: .75em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: .75em;
+  content: " ";
+}
 
 .spread-the-word-icons {
   font-size: 6em;
@@ -213,4 +221,8 @@ footer ul {
 .toolkit-single-main-icon {
   padding: 20px;
   margin: 0 auto;
+}
+
+#toolkit-header-bar h1 {
+  text-transform: uppercase;
 }

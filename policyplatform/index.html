@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+  <!-- <nav id="parallax-nav">
+    <ul>
+      <li id="parallax-nav-item-vision"><a href="#vision"><span class="nav-title">We can end police violence in america</span></a></li>
+      <li id="parallax-nav-item-campaign"><a href="#campaign"><span class="nav-title">The Campaign</span></a></li>
+    </ul>
+  </nav> -->
+
+    {% for post in site.categories['policy_platform'] %}
+
+    <section id="policy-{{post.slug}}">
+      <section class="policy-big-img-heading text-center"  style="padding-top:12em;background: url('{{site.img_dir}}{{post.headerimg}}') no-repeat #383838;background-size: cover;background-position:center;" class="text-center">
+        <h1 style="text-transform:uppercase;">{{post.title}}</h1>
+        <div class="glyphicon glyphicon-chevron-down"></div>
+      </section>
+
+
+      <section class="container policy-wrapper">
+        <div class="text-center">
+          <h2>{{post.title}}{% if post.subtitle %}: {{post.subtitle}}{% endif %} </h2>
+        </div>
+
+        <div class="policy-body">
+          {{post.content}}
+        </div>
+      </section>
+
+    </section><!-- "policy-free-speech" -->
+
+    {% endfor %}

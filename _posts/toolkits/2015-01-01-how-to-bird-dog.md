@@ -31,7 +31,7 @@ If you need help or have any questions, please feel free to email us at info@fre
 ## Sample Questions
 The best questions will come from you, so we encourage you to come up with your own. Be concise and ask for a specific response. Make sure your question is easy to remember and practice asking it out loud in advance.
 
-Here are a few questions to help you brainstorm your own:
+** are a few questions to help you brainstorm your own:**
 
  * Phone and cable companies claim they have the right to censor Internet users. What will you do to stop them?
  * Nearly 30 percent of U.S. households don’t have high-speed Internet. What will you do to ensure access for everyone?

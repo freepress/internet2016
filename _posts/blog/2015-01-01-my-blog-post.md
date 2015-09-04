@@ -10,7 +10,6 @@ categories:
 - blog
 ---
 
-
 Candidates running for office need to hear from you. Telling them what’s important to you and asking questions about the issues you care about most are great ways to hold them accountable.
 
 Check out these ways to make your voice heard:

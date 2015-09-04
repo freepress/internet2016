@@ -1,6 +1,15 @@
 body {
   font-size: 16px;
 }
+a, a:link, a:visited {
+  color: #cc99cc;
+}
+a:hover {
+  color:#cc99cc;
+}
+#form-more-info {
+  display: none;
+}
 
 .navbar-i16 {
   background-color:#663399;
@@ -21,10 +30,11 @@ body {
 
 #title-bar {
   background: url('../img/placeholder-dude.jpg') no-repeat #383838;
+  background-size: cover;
   color:#FFFF00;
   background-repeat:no-repeat;
-  background-size:contain;
   background-position:center;
+  background-size: cover;
 }
 
 #title-bar h1 {
@@ -41,8 +51,8 @@ body {
   color: #000;
 }
 
-section {
-  padding:30px;
+#call-to-action, #featured, #spread-the-word, #blog-post-single {
+  padding:4em;
 }
 
 footer {
@@ -76,7 +86,7 @@ footer ul {
   background-color: #8c53c6;
 }
 
-#featured button {
+#featured a.btn {
   border-radius: 0px;
   width: 100%;
   text-transform: uppercase;
@@ -86,7 +96,7 @@ footer ul {
   color:#000;
 }
 
-#featured button:hover {
+#featured a:hover.btn {
   background-color: #FFFFB1;
 }
 
@@ -145,13 +155,11 @@ footer ul {
 }
 
 
-
-
-#toolkit-header-bar {
+#toolkit-header-bar, #bloglist-header-bar {
   background: url('../img/1300x350.png') no-repeat #383838;
   color:#FFFF00;
   background-repeat:no-repeat;
-  /*background-size:contain;*/
+  background-size: cover;
   min-height: 350px;
   background-position:center;
 }
@@ -208,6 +216,37 @@ footer ul {
   content: " ";
 }
 
+
+.fb-icon-white:before {
+  background: url(../img/icons/facebook-white.svg);
+  width: 1em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: 1em;
+  content: " ";
+
+}
+
+.twitter-icon-white:before {
+  background: url(../img/icons/twitter-white.svg);
+  width: 1em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: 1em;
+  content: " ";
+
+}
+.instagram-icon-white:before {
+  background: url(../img/icons/instagram-white.svg);
+  width: 1em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: 1em;
+  content: " ";
+}
+
+
+
 .creativecommons-icon:before {
   background: url(../img/icons/cc.svg);
   width: .75em;
@@ -247,4 +286,66 @@ footer h1 {
 
 .toolkit-list-icons {
   padding-top:2%
+}
+
+.bloglist-image-preview {
+  min-height: 200px;
+  padding-top: 10px;
+}
+
+.bloglist-posts {
+  padding-bottom: 4%;
+}
+
+.blog-post-single-body {
+  text-align: justify;
+}
+
+.list-of-tags {
+  padding-top: 2em;
+  color: #828282;
+}
+
+.featured-teaser {
+  text-align: justify;
+  min-height: 4em;
+}
+
+#featured h2 {
+  min-height: 2.3em;
+}
+#featured a.btn {
+  margin-bottom: 2em;
+}
+
+#policy-free-speech  {
+  padding: 0px;
+  margin: 0px;
+}
+
+.policy-big-img-heading {
+  height: 700px;
+  color:#FFF;
+}
+
+.policy-wrapper {
+  padding-top: 4%;
+  padding-bottom: 6%;
+}
+
+.policy-body {
+  text-align: justify;
+}
+
+
+#policy-big-img-heading > h1 {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 5em;
+}
+
+#policy-big-img-heading > div.glyphicon {
+  font-size: 4em;
+  padding-top: 1em;
 }

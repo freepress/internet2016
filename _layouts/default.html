@@ -15,19 +15,14 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
 
       <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-      <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Oswald:400,700,300' rel='stylesheet' type='text/css'>
-      <!--
-      <link rel="stylesheet" href="{{ site.css_dir }}prism.css">
-      <link rel="stylesheet" href="{{ site.css_dir }}screen.css">
-      <link rel="stylesheet" href="{{ site.css_dir }}library.css">
-      <link rel="stylesheet" href="{{ site.css_dir }}party.css">
-      -->
-      <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,300,400italic,900' rel='stylesheet' type='text/css'>
+      <!-- <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Oswald:400,700,300' rel='stylesheet' type='text/css'> -->
+      <link href='https://fonts.googleapis.com/css?family=Roboto:100,400,700,300,400italic,900' rel='stylesheet' type='text/css'>
       <link rel="stylesheet" href="{{ site.css_dir }}bootstrap.min.css">
       <link rel="stylesheet" href="{{ site.css_dir }}internet2016.css">
       <script src="{{ site.js_dir }}modernizr-2.6.2.min.js"></script>
       <script src="{{site.js_dir}}jquery.min.js"></script>
       <script src="{{site.js_dir}}bootstrap.min.js"></script>
+      <script src="{{ site.js_dir }}misc-internet2016.js"></script>
 
   </head>
 
@@ -42,7 +37,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <span class="navbar-brand">{{site.title}}</span>
+              <span class="navbar-brand"><a href="/">{{site.title}}</a></span>
             </div>
         </nav>
   </header>
@@ -75,6 +70,13 @@
     <p>
       2015 Free Press Action Fund // <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="creativecommons-icon"></span> CC BY-NC-SA 4.0</a><br>
       Internet 2016 is not a political party and does not support or oppose candidates running for office. We do, however, throw parties.
+      <span class="pull-right">
+        <a href="https://facebook.com/{{site.socialmedia.fb}}"><span class="fb-icon-white"></span></a>
+        <a href="https://twitter.com/{{site.socialmedia.twitter}}"><span class="twitter-icon-white"></span></a>
+      </span>
+
+
+
     </p>
     </div>
   </footer>

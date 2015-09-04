@@ -13,6 +13,6 @@ icon: toolkit-icon.png
  1. Stage an action with friends in a high-traffic location. LINK TO VISIBILITY BELOW
  1. Throw a party: Distribute info and make plans for action. LINK TO THROW A PARTY, BELOW
  1. Decorate. Put out a lawn sign and slap a bumper sticker on your car, water bottle, laptop, etc. Email us and we’ll get you some materials.
- 1. Donate — and encourage others to fund the fight. The Free Press Action Fund doesn’t take a cent from business, government or political parties, so your contribution makes a big difference — and helps us stay independent.
+ 1. [Donate](https://act.freepress.net/donate/single/?source=internet2016) — and encourage others to fund the fight. The Free Press Action Fund doesn’t take a cent from business, government or political parties, so your contribution makes a big difference — and helps us stay independent.
 
 Have fun! Let us know what you’re planning and we’ll do our best to provide support.

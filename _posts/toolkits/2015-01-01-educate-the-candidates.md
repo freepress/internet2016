@@ -14,12 +14,12 @@ Candidates running for office need to hear from you. Telling them what’s impor
 
 Check out these ways to make your voice heard:
 
- 1. <a href="meet">Set up an in-person meeting.</a> 
- 1. <a href="call">Call the candidates’ offices and tell them what you think.</a>
- 1. <a href="ask">Ask a question at the next event you go to.</a> 
+ 1. <a href="#meet">Set up an in-person meeting.</a> 
+ 1. Call the candidates’ offices and tell them what you think.
+ 1. <a href="#ask">Ask a question at the next event you go to.</a> 
 
 ***
-## <a name="#meet">How to Schedule a Meeting with the Candidates</a>
+## <a name="meet">How to Schedule a Meeting with the Candidates</a>
 
 **Set Up Your Meeting**
 
@@ -49,7 +49,7 @@ Plan a preparation meeting with your fellow participants. This should take place
  1. <a href="mailto:info@freepress.net">Follow up with us</a> if you have any questions.
 
 ***
-<a name="#ask"></a>
+<a name="ask"></a>
 ## Bird Dogging: How to Ask the Candidates Questions
 
 Asking candidates tough questions in person is a great way to push them to take action. 
@@ -59,7 +59,7 @@ Here are the steps you need to take to ask a candidate a question:
  1. **Find an event.** Sign up for candidates’ email lists to find out about upcoming events near you. Look for other popular events where politicians are likely to show up like community BBQs, ribbon-cutting ceremonies, fairs, town-hall meetings, fundraisers, etc. Check out the [Governing Under the Influence](http://gui.afsc.org/) site for info on candidate appearances in Iowa and New Hampshire. 
  1. **Invite a couple of friends to join you.** It’s always more fun to partner with friends and having multiple people prepared to ask questions increases the likelihood that you’ll get called on (especially if you split up once you arrive).
  1. **Do some research.** Learn the candidate’s position on the issue you’d like to ask them about. Find out if there are instructions for asking questions at the particular event you’re attending.
- 1. [**Pick a question.**](LINK) Be concise and ask for a specific response. Make sure your question is easy to remember and practice asking it out loud. 
+ 1. <a href="#questions">**Pick a question.**</a> Be concise and ask for a specific response. Make sure your question is easy to remember and practice asking it out loud. 
  1. **Tell us about your plans.** We’ll let you know if we can invite people to join you. We can also provide feedback on your questions. Email us at <a href="mailto:info@freepress.net">info@freepress.net</a>. 
  1. **Arrive early.** Get to the event early so you can be in a position where the presenter can see you and potentially call on you.
  1. **Ask your question.** Ask your question early, and be prepared to follow up if needed. Stand up so you can be seen and heard. If there’s a microphone, use it. If not, be sure to project. If there’s an opportunity to shake hands or speak with the lawmaker one on one, get in line and ask your question. 
@@ -72,7 +72,7 @@ Here are the steps you need to take to ask a candidate a question:
 If you need help or have any questions, please feel free to email us at <a href="mailto:info@freepress.net">info@freepress.net</a>. We’re happy to help out!
 
 ***
-<a name="#questions"></a>
+<a name="questions"></a>
 ##Sample Questions
 
 The best questions will come from you, so we encourage you to come up with your own. Be concise and ask for a specific response. Make sure your question is easy to remember and practice asking it out loud in advance. 

@@ -5,6 +5,7 @@ title: "We Stand With #Black Lives Matter"
 teaser: "Here's why we stand with Black Lives Matter, and why you should too"
 thumbnail: icons/cc.svg
 author: Craig Aaron
+publish_date: Aug. 14, 2015
 tags: [tech, activism, idk, hey dude, yeah]
 categories:
 - blog

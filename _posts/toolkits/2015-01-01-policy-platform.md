@@ -7,7 +7,7 @@ thumbnail: jekyll.jpg
 categories:
 - toolkits
 tags: [tech]
-icon: toolkit-icons-Policy_platform
+icon: toolkit-icons-Policy-Platform.svg
 ---
 
 ##

@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: subhead_image_Purple.png
+headerimg: blog-voter
 title: "What the Internet 2016 Campaign Is All About"
 teaser: "In the battle of good vs. evil (aka people vs. mega-corporations), the people are winning."
 thumbnail: icons/cc.svg

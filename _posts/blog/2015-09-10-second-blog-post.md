@@ -20,7 +20,7 @@ As we head into the election cycle, one thing is clear: We need leaders who will
 
 Lots of critical issues, from the environment to police brutality, will be in the spotlight in the 2016 presidential campaign. But we also want to see the candidates talking about the future of the greatest tool in history for organizing, commerce and communication: the Internet. 
 
-The Internet 2016 campaign seeks to ensure that anyone who ends up in the Oval Office advances policies that promote five core principles: access, choice, free speech, openness and privacy. These are the building blocks for public policies that protect and promote the public interest.
+The Internet 2016 campaign seeks to ensure that anyone who ends up in the Oval Office and other key elected offices advances policies that promote five core principles: access, choice, free speech, openness and privacy. These are the building blocks for public policies that protect and promote the public interest.
 
 Over the next year, we’ll mobilize the millions of people who spoke out for real Net Neutrality, stopped Comcast from taking over Time Warner Cable and are fighting to keep the Internet free from unchecked mass government surveillance.
 

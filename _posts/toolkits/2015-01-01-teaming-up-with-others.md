@@ -6,7 +6,7 @@ teaser: "Something, something, something"
 thumbnail: jekyll.jpg
 categories:
 - toolkits
-icon: toolkit-icon.png
+icon: toolkit-icons-Team_Up.svg
 ---
 
 There are a lot of people working to change our world and that’s great — we need it. From time to time we’ll find ourselves doing similar work in similar spaces with other movement leaders. That provides us with an opportunity to work together toward our shared goals of making change.

@@ -6,7 +6,7 @@ teaser: "Something, something, something"
 thumbnail: jekyll.jpg
 categories:
 - toolkits
-icon: toolkit-icons-Team_Up.svg
+icon: toolkit-icons-Team-Up.svg
 ---
 
 ## Teaming Up With Others

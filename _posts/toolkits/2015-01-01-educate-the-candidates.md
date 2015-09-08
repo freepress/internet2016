@@ -6,7 +6,7 @@ teaser: "Candidates running for office need to hear from you."
 thumbnail: jekyll.jpg
 categories:
 - toolkits
-icon: toolkit-icon.png
+icon: toolkit-icons-Educate.svg
 ---
 # Educate the Candidates
 

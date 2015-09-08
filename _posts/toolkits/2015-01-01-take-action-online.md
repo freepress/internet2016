@@ -1,6 +1,6 @@
 ---
 layout: toolkit_single
-headerimg:
+headerimg: subhead_image_Yellow.png
 title: "Take action online"
 teaser: "Here are a few ways to show that you care about the future of the Internet"
 thumbnail: jekyll.jpg

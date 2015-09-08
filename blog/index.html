@@ -30,9 +30,9 @@ intro_text: "Here are our blog posts. They're nice right?"
         <p>
           <a href="{{ post.url }}">read more</a>
         </p>
-          {% for tag in post.tags %}
-            {{tag}}
-          {% endfor %}
+        <p>
+          {{post.publish_date}}
+        </p>
       </div>
     </div>
     {% endfor %}

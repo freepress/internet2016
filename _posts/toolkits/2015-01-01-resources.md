@@ -6,7 +6,7 @@ teaser: "The best activism comes from your heart and is based on what works wher
 thumbnail: jekyll.jpg
 categories:
 - toolkits
-icon: toolkit-icons-Resources.svg
+icon: toolkit-icon-resources2.svg
 ---
 # Resources
 

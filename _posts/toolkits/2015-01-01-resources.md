@@ -1,6 +1,6 @@
 ---
 layout: toolkit_single
-headerimg:
+headerimg: subhead_image_Yellow.png
 title: "Resources"
 teaser: "The best activism comes from your heart and is based on what works where you live."
 thumbnail: jekyll.jpg

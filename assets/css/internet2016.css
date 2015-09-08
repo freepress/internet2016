@@ -385,3 +385,20 @@ main {
   font-size: 2em;
   padding-bottom: 0.5em;
 }
+
+.policy-wrapper h4 {
+  text-transform: uppercase;
+}
+
+.policy-nav-icon:hover {
+  background:#8c53c6;
+}
+
+.policy-nav-icon a, .policy-nav-icon a:visited, .policy-nav-icon a:link {
+  text-decoration: none;
+  color: #000;
+}
+
+.policy-intro-nav {
+  padding:2%;
+}

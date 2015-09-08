@@ -25,4 +25,4 @@ The Internet 2016 campaign seeks to ensure that anyone who ends up in the Oval O
 
 Over the next year, we’ll mobilize the millions of people who spoke out for real Net Neutrality, stopped Comcast from taking over Time Warner Cable and are fighting to keep the Internet free from unchecked mass government surveillance.
 
-I recently spoke to a bunch of activists in Iowa and New Hampshire about this campaign and they had a lot to say. As the election season heats up we need to elevate the voices of people who are looking for leaders who care about the future of the Internet — and have the vision to create policies any #InternetVoter can get behind. 
+As the election season heats up we need to elevate the [voices of people](internet2016.net/blog/internet-2016-all-about) who are looking for leaders who care about the future of the Internet — and have the vision to create policies any #InternetVoter can get behind. 

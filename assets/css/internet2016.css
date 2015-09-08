@@ -273,7 +273,6 @@ footer ul {
 
 #toolkits-list-main {
   background-color:#FFFF00;
-  padding-bottom: 10%;
 }
 
 footer h1 {
@@ -348,4 +347,13 @@ footer h1 {
 #policy-big-img-heading > div.glyphicon {
   font-size: 4em;
   padding-top: 1em;
+}
+
+
+.yellow-bg {
+  background: #FFFF00;
+}
+
+main {
+  padding-bottom: 10%;
 }

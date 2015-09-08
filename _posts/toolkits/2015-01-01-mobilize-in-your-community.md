@@ -8,6 +8,7 @@ categories:
 - toolkits
 icon: toolkit-icon.png
 ---
+# Mobilize Your Community
 
  1. Write a letter to the editor of your local paper. Share opinions with your neighbors and candidates running for office at the same time. 
  1. Stage an action with friends in a high-traffic location. 

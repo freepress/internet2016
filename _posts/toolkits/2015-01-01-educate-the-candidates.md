@@ -1,6 +1,6 @@
 ---
 layout: toolkit_single
-headerimg:
+headerimg: subhead_image_Yellow.png
 title: "Educate the candidates"
 teaser: "Candidates running for office need to hear from you."
 thumbnail: jekyll.jpg

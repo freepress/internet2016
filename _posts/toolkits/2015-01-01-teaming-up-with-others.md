@@ -1,6 +1,6 @@
 ---
 layout: toolkit_single
-headerimg:
+headerimg: subhead_image_Yellow.png
 title: "Teaming up with others "
 teaser: "Something, something, something"
 thumbnail: jekyll.jpg

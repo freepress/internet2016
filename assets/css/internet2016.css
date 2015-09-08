@@ -156,16 +156,7 @@ footer ul {
 }
 
 
-#blog-header-bar {
-  background: url('../img/subhead_image_Yellow.png') no-repeat #FFFF00;
-  color:#663399;
-  background-repeat:no-repeat;
-  background-size: cover;
-  min-height: 350px;
-  background-position:center;
-}
-
-#toolkit-header-bar {
+#blog-header-bar, #toolkit-header-bar {
 background: url('../img/subhead_image_Purple.png') no-repeat #383838;
 color:#FFFF00;
 background-repeat:no-repeat;

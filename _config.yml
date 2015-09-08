@@ -6,9 +6,9 @@ fbshareimg: "http://internet2016.net/img/internet2016-party-party-party.png"
 collections:
   toolkits:
 permalink: /:categories/:title
-img_dir: "/assets/img/"
-js_dir: "/assets/js/"
-css_dir: "/assets/css/"
+img_dir: "assets/img/"
+js_dir: "assets/js/"
+css_dir: "assets/css/"
 socialmedia:
   fb: internet2016
   twitter: internet_2016

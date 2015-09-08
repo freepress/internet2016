@@ -93,9 +93,9 @@ layout: default
 
         </div>
 
-        <input type="checkbox" name="whatever" id="whatever" required> <label for="whatever">I agree to a a privacy thing</label> <br>
-        <br>
         <button id="call-to-action-submit" name="button" class="btn btn-primary btn-lg">Sign the pledge</button>
+        <div id="privacy-policy-text">By submitting your pledge, you are agreeing to the privacy policy.</div>
+        <br>
       </form>
       </div>
     </div>
@@ -108,7 +108,7 @@ layout: default
     <div class="row">
       <div class="col-sm-4">
         <div class="text-center">
-          <img src="{{site.img_dir}}heart-preview-01.png" alt="" />
+          <img src="{{site.baseurl}}{{site.img_dir}}heart-preview-01.png" alt="" />
         </div>
         <h2>
           What Internet Voters Want
@@ -121,7 +121,7 @@ layout: default
 
       <div class="col-sm-4">
         <div class="text-center">
-          <img src="{{site.img_dir}}heart-preview-02.png" alt="" />
+          <img src="{{site.baseurl}}{{site.img_dir}}heart-preview-02.png" alt="" />
         </div>
         <h2>
           Ask the Candidates
@@ -129,18 +129,18 @@ layout: default
         <p class="featured-teaser">
           Internet voters everywhere are showing up at candidate appearances to ask tough questions. You can too.
         </p>
-        <a href="/toolkits/educate-the-candidates/" class="btn btn-block btn-lg btn-default">Check out the guide</a>
+        <a href="{{site.baseurl}}/toolkits/educate-the-candidates/" class="btn btn-block btn-lg btn-default">Check out the guide</a>
       </div>
 
       <div class="col-sm-4">
         <div class="text-center">
-          <img src="{{site.img_dir}}heart-preview-03.png" alt="" />
+          <img src="{{site.baseurl}}{{site.img_dir}}heart-preview-03.png" alt="" />
         </div>
         <h2>Get the Toolkit</h2>
         <p class="featured-teaser">
           From visibility to parties find out how you can mobilize in your community to put Internet issues on the agenda in 2016.
         </p>
-        <a href="/toolkits" class="btn btn-block btn-lg btn-default">Get the toolkit</a>
+        <a href="{{site.baseurl}}/toolkits" class="btn btn-block btn-lg btn-default">Get the toolkit</a>
       </div>
 
     </div>

@@ -17,12 +17,12 @@
       <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
       <!-- <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Oswald:400,700,300' rel='stylesheet' type='text/css'> -->
       <link href='https://fonts.googleapis.com/css?family=Roboto:100,400,700,300,400italic,900' rel='stylesheet' type='text/css'>
-      <link rel="stylesheet" href="{{ site.css_dir }}bootstrap.min.css">
-      <link rel="stylesheet" href="{{ site.css_dir }}internet2016.css">
-      <script src="{{ site.js_dir }}modernizr-2.6.2.min.js"></script>
-      <script src="{{site.js_dir}}jquery.min.js"></script>
-      <script src="{{site.js_dir}}bootstrap.min.js"></script>
-      <script src="{{ site.js_dir }}misc-internet2016.js"></script>
+      <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}{{site.css_dir}}bootstrap.min.css">
+      <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}{{site.css_dir}}internet2016.css">
+      <script src="{{site.url}}{{site.baseurl}}{{site.baseurl}}{{site.js_dir}}modernizr-2.6.2.min.js"></script>
+      <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}jquery.min.js"></script>
+      <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}bootstrap.min.js"></script>
+      <script src="{{site.url}}{{site.baseurl}}{{site.baseurl}}{{site.js_dir}}misc-internet2016.js"></script>
 
   </head>
 
@@ -37,7 +37,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <span class="navbar-brand"><a href="/">{{site.title}}</a></span>
+              <span class="navbar-brand"><a href="{{site.baseurl}}">{{site.title}}</a></span>
             </div>
         </nav>
   </header>
@@ -45,7 +45,7 @@
 
   {{content}}
 
-  <footer >
+  <footer>
     <div class="container">
     <div class="row">
       <div class="col-sm-4">
@@ -53,17 +53,20 @@
       </div>
       <div class="col-sm-4">
         <ul>
-          <li><a href="/blog">Blog</a></li>
-          <li><a href="/press">Press coverage</a></li>
-          <li><a href="/toolkits">Toolkits</a></li>
+          <li><a href="{{site.baseurl}}/blog">Blog</a></li>
+          <li><a href="{{site.baseurl}}/press">Press coverage</a></li>
+          <li><a href="{{site.baseurl}}/toolkits">Toolkits</a></li>
+          <li><a href="https://act.freepress.net/donate/single/?source=internet_2016">Donate</a></li>
         </ul>
       </div>
       <div class="col-sm-4">
-        <ul>
-          <!-- <li>Privacy Policy</li>
-          <li>Contact us</li> -->
-        </ul>
+        <img src="{{site.baseurl}}{{site.img_dir}}fp-logo_actionfund_white.png" alt="" class="pull-right" />
+        <!-- <ul>
+          <li>Privacy Policy</li>
+          <li>Contact us</li>
+        </ul> -->
       </div>
+
     </div>
     <br>
     <br>

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<main>
 
   <section id="toolkit-header-bar">
   </section>
@@ -9,12 +10,13 @@ layout: default
 
     <div class="container">
 
-      <img class="toolkit-single-main-icon img-responsive" src="{{site.img_dir}}{{page.headerimg}}" />
+      <img class="toolkit-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}{{page.headerimg}}" />
 
       <section>
         <h1>{{page.title}}</h1>
         <p>
           by: {{page.author}}
+          <br>
         </p>
         <p>
           {{page.publish_date}}
@@ -33,3 +35,5 @@ layout: default
 
     </div>
   </section>
+
+</main>

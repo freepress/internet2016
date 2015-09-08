@@ -12,7 +12,7 @@ layout: default
     {% for post in site.categories['policy_platform'] %}
 
     <section id="policy-{{post.slug}}">
-      <section class="policy-big-img-heading text-center"  style="padding-top:12em;background: url('{{site.img_dir}}{{post.headerimg}}') no-repeat #383838;background-size: cover;background-position:center;" class="text-center">
+      <section class="policy-big-img-heading text-center"  style="padding-top:12em;background: url('{{site.baseurl}}{{site.img_dir}}{{post.headerimg}}') no-repeat #383838;background-size: cover;background-position:center;" class="text-center">
         <h1 style="text-transform:uppercase;">{{post.title}}</h1>
         <div class="glyphicon glyphicon-chevron-down"></div>
       </section>

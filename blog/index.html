@@ -2,10 +2,11 @@
 layout: default
 title: Blog Posts
 intro_text: "Here are our blog posts. They're nice right?"
+
 ---
 
 
-<section id="bloglist-header-bar">
+<section id="blog-header-bar">
 </section>
 
 <main>
@@ -24,13 +25,13 @@ intro_text: "Here are our blog posts. They're nice right?"
         <img src="{{site.baseurl}}{{site.img_dir}}{{post.thumbnail}}" class="img-responsive bloglist-image-preview pull-right" />
       </div>
       <div class="col-xs-8">
-        <a href="{{ post.url }}"><h1>{{ post.title }}</h1></a>
+	<a href="{{site.baseurl}}{{ post.url }}"><h1>{{ post.title }}</h1></a>
         <h2>by {{post.author}}</h2>
         <p class="blog-list">
           {{post.teaser}}
         </p>
         <p>
-          <a href="{{ post.url }}">read more</a>
+	  <a href="{{site.baseurl}}{{ post.url }}">read more</a>
         </p>
         <p>
           {{post.publish_date}}

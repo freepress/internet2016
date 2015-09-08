@@ -1,5 +1,6 @@
 body {
   font-size: 16px;
+  font-family: 'Roboto', sans-serif;
 }
 a, a:link, a:visited {
   color: #cc99cc;
@@ -29,7 +30,7 @@ a:hover {
 }
 
 #title-bar {
-  background: url('../img/placeholder-dude.jpg') no-repeat #383838;
+  background: url('../img/front_page_header_image_bw.png') no-repeat #383838;
   background-size: cover;
   color:#FFFF00;
   background-repeat:no-repeat;
@@ -155,14 +156,24 @@ footer ul {
 }
 
 
-#toolkit-header-bar, #bloglist-header-bar {
-  background: url('../img/1300x350.png') no-repeat #383838;
-  color:#FFFF00;
+#blog-header-bar {
+  background: url('../img/subhead_image_Yellow.png') no-repeat #FFFF00;
+  color:#663399;
   background-repeat:no-repeat;
   background-size: cover;
   min-height: 350px;
   background-position:center;
 }
+
+#toolkit-header-bar {
+background: url('../img/subhead_image_Purple.png') no-repeat #383838;
+color:#FFFF00;
+background-repeat:no-repeat;
+background-size: cover;
+min-height: 350px;
+background-position:center;
+}
+
 
 .digital-heart:before {
   background: url(../img/digital-heart-black.svg);
@@ -358,9 +369,28 @@ main {
   padding-bottom: 10%;
 }
 
-
-
 #privacy-policy-text {
   font-size: .75em;
   text-align: center;
+}
+
+.policy-heading-icon {
+  width:200px;
+}
+
+.policy-big-img-heading > h1 {
+  font-weight: 100;
+  font-size: 4em;
+}
+
+.policy-wrapper h2 {
+  font-weight: 400;
+  font-size: 3em;
+  text-transform: uppercase;
+}
+
+.policy-wrapper h3 {
+  font-weight: 700;
+  font-size: 2em;
+  padding-bottom: 0.5em;
 }

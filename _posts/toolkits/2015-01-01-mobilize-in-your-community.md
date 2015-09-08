@@ -1,6 +1,6 @@
 ---
 layout: toolkit_single
-headerimg:
+headerimg: subhead_image_Yellow.png
 title: "Mobilize your community "
 teaser: "Get together with your friends and take action"
 thumbnail: jekyll.jpg

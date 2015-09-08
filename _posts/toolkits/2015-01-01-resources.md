@@ -2,12 +2,13 @@
 layout: toolkit_single
 headerimg:
 title: "Resources"
-teaser: "Here are some resources"
+teaser: "The best activism comes from your heart and is based on what works where you live."
 thumbnail: jekyll.jpg
 categories:
 - toolkits
 icon: toolkit-icons-Resources.svg
 ---
+# Resources
 
 The best activism comes from your heart and is based on what works where you live. We've given you a few ideas in this guide and we encourage you to take them and make them your own. 
 

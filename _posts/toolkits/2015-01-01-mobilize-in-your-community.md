@@ -6,7 +6,7 @@ teaser: "Get together with your friends and take action"
 thumbnail: jekyll.jpg
 categories:
 - toolkits
-icon: toolkit-icon.png
+icon: toolkit-icons-mobilize.svg
 ---
 
  1. Write a letter to the editor of your local paper. Share opinions with your neighbors and candidates running for office at the same time. LINK TO LTE BELOW

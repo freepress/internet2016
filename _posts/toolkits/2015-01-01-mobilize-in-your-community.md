@@ -6,7 +6,7 @@ teaser: "Get together with your friends and take action"
 thumbnail: jekyll.jpg
 categories:
 - toolkits
-icon: toolkit-icons-Mobilize.png
+icon: toolkit-icons-Mobilize.svg
 ---
 # Mobilize Your Community
 

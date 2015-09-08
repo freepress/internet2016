@@ -18,3 +18,7 @@ icon: toolkit-icons-Take_Action.svg
 
 ***
 ## Share Your Story
+
+<script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
+<link href="//assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
+<ul class="juicer-feed" data-feed-id="internet-2016"></ul>

@@ -6,7 +6,7 @@ teaser: "Here are a few ways to show that you care about the future of the Inter
 thumbnail: jekyll.jpg
 categories:
 - toolkits
-icon: toolkit-icon.png
+icon: toolkit-icons-Take_Action.svg
 ---
 
 # Here are a few ways to show that you care about the future of the Internet:

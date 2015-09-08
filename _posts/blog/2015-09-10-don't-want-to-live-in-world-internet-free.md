@@ -5,8 +5,8 @@ title: "'I Don't Want to Live in a World Where the Internet Isn't Free'"
 subtitle:
 teaser: "People are fired up about the future of the Internet — and they’re using their voices to create change."
 thumbnail: icons/cc.svg
-author: Mary Alice
 publish_date: Sept. 10, 2015
+author: Mary Alice Crim
 tags: [tech, activism, idk]
 categories:
 - blog

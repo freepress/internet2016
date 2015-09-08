@@ -357,3 +357,10 @@ footer h1 {
 main {
   padding-bottom: 10%;
 }
+
+
+
+#privacy-policy-text {
+  font-size: .75em;
+  text-align: center;
+}

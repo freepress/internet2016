@@ -13,7 +13,7 @@ icon: toolkit-icons-Team_Up.svg
 
 There are a lot of people working to change our world and that’s great — we need it. From time to time we’ll find ourselves doing similar work in similar spaces with other movement leaders. That provides us with an opportunity to work together toward our shared goals of making change.
 
-Here are some tips on how to collaborate with others. LINK TO HOW TO BE A GOOD PARTNER, BELOW
+Here are some <a href="#collaborate">tips on how to collaborate with others</a>. 
 
 One of the most visible movements today is the movement for black lives. Activists are pressuring candidates to speak out and we will likely be doing similar work in similar spaces.
 
@@ -21,7 +21,7 @@ We believe that it’s impossible to achieve any kind of social justice without 
 
 ***
 
-## How To Be A Good Partner
+## <a name="collaborate">How To Be A Good Partner</a>
 
 From time to time we’ll find ourselves doing similar work in similar spaces with other movement leaders. That gives us an opportunity to work together toward our shared goals of making change. 
 

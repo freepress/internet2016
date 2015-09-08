@@ -6,7 +6,7 @@ teaser: "Here are a few ways to show that you care about the future of the Inter
 thumbnail: jekyll.jpg
 categories:
 - toolkits
-icon: toolkit-icons-Take_Action.svg
+icon: toolkit-icons-Take-Action.svg
 ---
 
 # Take Action Online

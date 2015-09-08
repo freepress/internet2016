@@ -1,6 +1,7 @@
 body {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
+  font-weight: 400;
 }
 a, a:link, a:visited {
   color: #cc99cc;
@@ -341,7 +342,6 @@ footer h1 {
 
 #policy-big-img-heading > h1 {
   text-transform: uppercase;
-  font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 5em;
 }
@@ -372,6 +372,7 @@ main {
 .policy-big-img-heading > h1 {
   font-weight: 100;
   font-size: 4em;
+  text-transform: uppercase;
 }
 
 .policy-wrapper h2 {
@@ -401,4 +402,13 @@ main {
 
 .policy-intro-nav {
   padding:2%;
+}
+
+.chevron-down:before {
+  background: url(../img/icons/chevron-down.png);
+  width: .75em;
+  display: inline-block;
+  background-size: 100% 100%;
+  height: .75em;
+  content: " ";
 }

@@ -9,7 +9,7 @@ icon: toolkit-icons-Take-Action.png
 ---
 1. <a href="http://internet2016.net/#pledge">Become an #InternetVoter.</a>
 1. <a href="#story">Share your story.</a> Why does the Internet matter to you?
-1. Engage your networks on Facebook and Twitter. (LINK TO PRE POPULATED LANGUAGE)
+1. Engage your networks on Facebook and [Twitter](https://twitter.com/home?status=The%20Internet%20is%20winning!%20Sign%20this%20pledge%20and%20let's%20make%20our%20voices%20heard%20in%202016%3A%20http%3A//internet2016.net/%20via%20%40internet_2016). (LINK TO PRE POPULATED LANGUAGE)
 1. Stay up to date via [our blog.](http://www.internet2016.net/blog)
 
 ***

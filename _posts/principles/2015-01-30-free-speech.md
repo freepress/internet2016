@@ -8,7 +8,6 @@ teaser: "Freedom of expression online and offline. Don’t censor the Internet."
 icon: icons/policy-platform-icon-speech.png
 thumbnail:
 categories:
-icon:
 - policy_platform
 ---
 

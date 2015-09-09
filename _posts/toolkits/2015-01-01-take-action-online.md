@@ -2,7 +2,7 @@
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
 title: "Take Action Online"
-teaser: "Here are a few ways to show that you care about the future of the Internet"
+teaser: "Here are a few ways to show that you care about the future of the Internet."
 categories:
 - toolkits
 icon: toolkit-icons-Take-Action.png

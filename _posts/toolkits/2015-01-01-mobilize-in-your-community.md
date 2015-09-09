@@ -2,7 +2,7 @@
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
 title: "Mobilize Your Community "
-teaser: "Get together with your friends and take action"
+teaser: "Get together with your friends and take action."
 categories:
 - toolkits
 icon: toolkit-icons-Mobilize.png

@@ -1,15 +1,12 @@
 ---
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
-title: "Take action online"
+title: "Take Action Online"
 teaser: "Here are a few ways to show that you care about the future of the Internet"
 categories:
 - toolkits
 icon: toolkit-icons-Take-Action.png
 ---
-
-# Take Action Online
-
 1. <a href="http://internet2016.net/#pledge">Become an #InternetVoter.</a>
 1. <a href="#story">Share your story.</a> Why does the Internet matter to you?
 1. Engage your networks on Facebook and Twitter. (LINK TO PRE POPULATED LANGUAGE)

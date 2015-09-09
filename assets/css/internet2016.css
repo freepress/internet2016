@@ -4,11 +4,25 @@ body {
   font-weight: 400;
 }
 a, a:link, a:visited {
-  color: #cc99cc;
+  /*color: #cc99cc;*/
+  color: #e5cce5;
+  text-decoration: none;
 }
 a:hover {
-  color:#cc99cc;
+  /*color:#cc99cc;*/
+  color: #e5cce5;
+  text-decoration: underline;
 }
+main a, main a:link, main a:visited {
+  color: #663399;
+  text-decoration: none;
+}
+main a:hover {
+  color:#663399;
+  text-decoration: underline;
+}
+
+
 #form-more-info {
   display: none;
 }

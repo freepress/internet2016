@@ -3,14 +3,13 @@ layout: toolkit_single
 headerimg: subhead_image_Yellow.png
 title: "Resources"
 teaser: "The best activism comes from your heart and is based on what works where you live."
-thumbnail: jekyll.jpg
 categories:
 - toolkits
 icon: toolkit-icon-resources2.svg
 ---
 # Resources
 
-The best activism comes from your heart and is based on what works where you live. We've given you a few ideas in this guide and we encourage you to take them and make them your own. 
+The best activism comes from your heart and is based on what works where you live. We've given you a few ideas in this guide and we encourage you to take them and make them your own.
 
 Here are some other excellent resources. Check them out and share them with your networks!
 
@@ -31,4 +30,3 @@ Here are some other excellent resources. Check them out and share them with your
 1. [Media Mobilizing Project](http://mediamobilizing.org/)
 1. [New America Foundation's Open Technology Institute](https://www.newamerica.org/oti/)
 1. [Public Knowledge](https://www.publicknowledge.org/)
-

@@ -6,7 +6,7 @@ teaser: By working together we can ensure that anyone who gets into office advan
 categories:
 - toolkits
 tags: [tech]
-icon: toolkit-icons-Policy-Platform.png
+icon: toolkit-icons-Policy-Platform2.png
 ---
 
 ##

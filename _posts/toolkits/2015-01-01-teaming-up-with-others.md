@@ -5,7 +5,7 @@ title: "Teaming up with others "
 teaser: "Something, something, something"
 categories:
 - toolkits
-icon: toolkit-icons-Team-Up.png
+icon: toolkit-icons-Team-Up2.png
 ---
 
 ## Teaming Up With Others

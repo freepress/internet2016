@@ -1,14 +1,12 @@
 ---
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
-title: "Mobilize your community "
+title: "Mobilize Your Community "
 teaser: "Get together with your friends and take action"
 categories:
 - toolkits
 icon: toolkit-icons-Mobilize.png
 ---
-# Mobilize Your Community
-
  1. <a href="#LTE">Write a letter to the editor of your local paper</a>. Share opinions with your neighbors and candidates running for office at the same time.
  1. <a href="#visibility">Stage an action with friends in a high-traffic location.</a>
  1. <a href="#party">Throw a party</a>: Distribute info and make plans for action.

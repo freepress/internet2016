@@ -26,14 +26,14 @@ intro_text: "Here are our blog posts. They're nice right?"
       </div>
       <div class="col-xs-8">
 	<a href="{{site.baseurl}}{{ post.url }}"><h1>{{ post.title }}</h1></a>
-        <h2>by {{post.author}}</h2>
+	<p class="roboto-light">by {{post.author}}</p>
         <p class="blog-list">
           {{post.teaser}}
         </p>
         <p>
 	  <a href="{{site.baseurl}}{{ post.url }}">read more</a>
         </p>
-        <p>
+	<p class="roboto-light">
           {{post.publish_date}}
         </p>
       </div>

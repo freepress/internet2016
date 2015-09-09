@@ -431,3 +431,10 @@ main {
   height: .75em;
   content: " ";
 }
+
+.roboto-bold {
+  font-weight: 600;
+}
+.roboto-light {
+  font-weight: 100;
+}

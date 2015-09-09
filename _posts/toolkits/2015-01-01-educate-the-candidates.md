@@ -1,14 +1,12 @@
 ---
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
-title: "Educate the candidates"
+title: "Educate the Candidates"
 teaser: "Candidates running for office need to hear from you."
 categories:
 - toolkits
 icon: toolkit-icons-Educate.png
 ---
-# Educate the Candidates
-
 Candidates running for office need to hear from you. Telling them what’s important to you and asking questions about the issues you care about most are great ways to hold them accountable.
 
 Check out these ways to make your voice heard:

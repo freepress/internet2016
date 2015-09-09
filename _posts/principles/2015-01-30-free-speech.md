@@ -2,6 +2,7 @@
 layout: default
 headerimg: policy_platform/FreePress_PolicyPlatform_Free_Speech_notext.png
 title: "Free Speech"
+slug: speech
 subtitle: "Freedom of Expression Online and Offline"
 teaser: "Freedom of expression online and offline. Don’t censor the Internet."
 icon: icons/policy-platform-icon-speech.png

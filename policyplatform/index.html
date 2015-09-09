@@ -11,15 +11,15 @@ layout: default
 
     {% for post in site.categories['policy_platform'] %}
 
-    <a name="{{post.url | slugify}}"></a>
-    <section id="policy-{{post.url | slugify}}">
+    <a name="{{post.slug | slugify}}"></a>
+    <section id="{{post.slug | slugify}}">
       <section class="policy-big-img-heading text-center"  style="padding-top:12em;background: url('{{site.baseurl}}{{site.img_dir}}{{post.headerimg}}') no-repeat #383838;background-size: cover;background-position:center;" class="text-center">
-        <h1 style="text-transform:uppercase;">{{post.title}}</h1>
-        <div class="glyphicon glyphicon-chevron-down"></div>
+	<h1>{{post.title}}</h1>
+	<h1 style="padding-top:1em;"> <span class="chevron-down"></span> </h1>
       </section>
 
 
-      <a name="{{post.url | slugify}}-text"></a>
+      <a name="{{post.slug | slugify}}-text"></a>
       <section class="container policy-wrapper">
 	<div class="text-center">
 	  {% if post.icon %}
@@ -36,6 +36,6 @@ layout: default
         </div>
       </section>
 
-    </section><!-- "policy-free-speech" -->
+    </section><!-- "policy-section" -->
 
     {% endfor %}

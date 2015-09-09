@@ -5,7 +5,7 @@ title: "Resources"
 teaser: "The best activism comes from your heart and is based on what works where you live."
 categories:
 - toolkits
-icon: toolkit-icon-resources2.svg
+icon: toolkit-icon-resources3.svg
 ---
 # Resources
 

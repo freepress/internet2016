@@ -7,8 +7,6 @@ categories:
 - toolkits
 icon: toolkit-icon-resources3.svg
 ---
-# Resources
-
 The best activism comes from your heart and is based on what works where you live. We've given you a few ideas in this guide and we encourage you to take them and make them your own.
 
 Here are some other excellent resources. Check them out and share them with your networks!

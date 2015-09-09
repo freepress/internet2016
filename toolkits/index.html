@@ -22,7 +22,9 @@ Here are some ideas to get you started."
     <div class="row">
       {% for post in site.categories['toolkits'] limit: 2 offset: 0 %}
       <div class="col-sm-2 col-sm-offset-1 toolkit-list-icons">
-	<img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
+	<a href="{{site.baseurl}}{{ post.url }}">
+	  <img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
+	</a>
       </div>
       <div class="col-sm-3">
 	<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
@@ -36,7 +38,9 @@ Here are some ideas to get you started."
     <div class="row">
       {% for post in site.categories['toolkits'] limit: 2 offset: 2 %}
       <div class="col-sm-2 col-sm-offset-1 toolkit-list-icons">
-	<img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
+	<a href="{{site.baseurl}}{{ post.url }}">
+	 <img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
+       </a>
       </div>
       <div class="col-sm-3">
 	<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
@@ -50,7 +54,9 @@ Here are some ideas to get you started."
     <div class="row">
       {% for post in site.categories['toolkits'] limit: 2 offset: 4 %}
       <div class="col-sm-2 col-sm-offset-1 toolkit-list-icons">
-	<img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
+	<a href="{{site.baseurl}}{{ post.url }}">
+	  <img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
+	</a>
       </div>
       <div class="col-sm-3">
 	<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>

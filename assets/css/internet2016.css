@@ -282,6 +282,12 @@ background-position:center;
   width: 25%;
 }
 
+.bloglist-single-main-icon {
+  padding: 3%;
+  margin: 0 auto;
+}
+
+
 .single-page-title {
   text-transform: uppercase;
 }

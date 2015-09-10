@@ -11,7 +11,7 @@ This is the website for [Internet2016](http://Internet2016.net), a campaign to p
   1. [Can my organization join?](#user-content-can-my-organization-join)
 
 ## Tech details
-This is a [jekyll](https://jekyllrb.com/) website hosted on [github pages](https://pages.github.com/). Jekyll is a static site generator that uses the [Liquid templating system](https://github.com/Shopify/liquid/wiki). Content is written in markdown and there are layout templates that jekyll uses to generate static pages.
+This is a [jekyll](https://jekyllrb.com/) website hosted on [github pages](https://pages.github.com/). Jekyll is a static site generator that uses the [Liquid templating system](https://github.com/Shopify/liquid/wiki). Content is written in markdown and there are layout templates that jekyll uses to generate static pages. `gh-page` is the main branch and any code pushed to it will end up on the live site.
 
 ### How to run this website locally
 Running this project locally allows you to make changes and preview them before you push them to the live site.

@@ -489,3 +489,6 @@ main {
 #press-coverage-list {
   padding-top: 3%;
 }
+#press-coverage-list li {
+  padding-bottom: 2%;
+}

@@ -2,7 +2,7 @@ title: "Internet 2016"
 tagline: "Take the Pledge: Become an Internet Voter"
 fullurl: "http://internet2016.net" #used for fb share content
 fbsharetext: "Calling all hashtaggers, retweeters, creators, uploaders, organizers and voters! The 2016 presidential campaign is well underway and the future of the Internet is at stake. Sign the pledge and make sure your voice is heard."
-fbshareimg: "http://internet2016.net/img/i-heart-the-internet-lawn-sign-tablet-fb.png"
+fbshareimg: "http://internet2016.net/assets/img/i-heart-the-internet-lawn-sign-tablet-fb.png"
 collections:
   toolkits:
 permalink: /:categories/:title

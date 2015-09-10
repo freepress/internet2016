@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<div id="policy-parallax-nav" role="navigation">
+<div id="policy-parallax-nav" role="navigation" class="hidden-xs hidden-sm">
   <ul class="nav">
   {% for post in site.categories['policy_platform'] %}
     <li><a href="#{{post.slug | slugify}}">{{post.slug}}</a></li>
@@ -44,5 +44,5 @@ layout: default
     {% endfor %}
   </main>
   <script type="text/javascript">
-    $('body').scrollspy({ target: '#policy-parallax-nav' })
+    $('body').scrollspy({ target: '#policy-parallax-nav', offset: 100})
   </script>

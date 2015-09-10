@@ -311,7 +311,7 @@ footer h1 {
 }
 
 .bloglist-image-preview {
-  min-height: 200px;
+  width: 150px;
   padding-top: 10px;
 }
 
@@ -481,4 +481,9 @@ main {
 
 #policy-parallax-nav .nav>li>a  {
   padding:0px;
+}
+
+
+#featured h2 {
+  text-align: center;
 }

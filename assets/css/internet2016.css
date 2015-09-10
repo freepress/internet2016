@@ -15,6 +15,10 @@ a:hover {
   text-decoration: underline;
 }
 
+hr {
+ border-top: 1px solid #663399;
+}
+
 nav a, nav a:link, nav a:visited {
   color:#FFFF00;
 }

@@ -6,9 +6,9 @@ Site made by [Drew Wilson](https://github.com/drewrwilson) as a Ford Foundation 
 ## Table of Contents
 
   1. [Tech details](#tech-details)
-  1. [How do I give feedback & suggest changes?]()
-  1. [Can I contribute code?]
-  1. [Can my organization join?]
+  1. [How do I give feedback & suggest changes?](#how-to-run-this-website-locally)
+  1. [Can I contribute code?](#user-content-how-do-i-give-feedback--suggest-changes)
+  1. [Can my organization join?](#user-content-can-my-organization-join)
 
 ## Tech details
 This is a [jekyll](https://jekyllrb.com/) website hosted on [github pages](https://pages.github.com/). Jekyll is a static site generator that uses the [Liquid templating system](https://github.com/Shopify/liquid/wiki). Content is written in markdown and there are layout templates that jekyll uses to generate static pages.

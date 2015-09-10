@@ -1,6 +1,6 @@
 ---
 layout: default
-outlet: <em>OtherWords</em>
+outlet: OtherWords
 title: "The Year of the Internet Voter"
 link: http://otherwords.org/the-year-of-the-internet-voter/
 logo: press/otherwords.png

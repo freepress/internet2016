@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'BLACK CIRCLE' (U+25CF)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M148.3594 277.875 Q148.3594 303.4688 130.1484 321.6094 Q111.9375 339.75 86.3438 339.75 Q60.8906 339.75 42.6797 321.6094 Q24.4688 303.4688 24.4688 277.875 Q24.4688 252.1406 42.6094 234.0703 Q60.75 216 86.3438 216 Q111.9375 216 130.1484 234.1406 Q148.3594 252.2812 148.3594 277.875 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

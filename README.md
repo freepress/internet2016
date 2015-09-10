@@ -1,7 +1,7 @@
 # Internet 2016
 This is the website for [Internet2016](http://Internet2016.net), a campaign to put Internet issues on the national agenda during 2016 US presidential elections. No matter who is elected, we need the next president of the US to voice his or her support for the free and open Internet.
 
-Site made by [Drew Wilson](https://github.com/drewrwilson) as a Ford Foundation & Mozilla Foundation [Open Web Fellow](https://advocacy.mozilla.org/open-web-fellows/) and is a project of [Free Press Action Fund](https://github.com/freepress).
+*This was made by [Drew Wilson](https://github.com/drewrwilson) as a Ford Foundation & Mozilla Foundation [Open Web Fellow](https://advocacy.mozilla.org/open-web-fellows/) and is a project of [Free Press Action Fund](https://github.com/freepress).*
 
 ## Table of Contents
 

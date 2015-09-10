@@ -19,7 +19,7 @@ icon: news-icon.png
         {% for post in site.categories['press'] %}
         <li>
           {{post.outlet}} {{post.publish_date}} <br>
-          <a href="{{ site.baseurl }}{{ post.url }}">
+          <a href="{{ site.baseurl }}{{ post.link }}">
             {{ post.title }}
           </a>
         </li>

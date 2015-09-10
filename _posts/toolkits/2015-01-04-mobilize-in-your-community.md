@@ -69,7 +69,8 @@ Here are some ways to get visible in your community and spread the message about
  1. **Know the rules.** Determine whether a permit is necessary. A good place to start is your town or city hall.
 
 ***
-## <a name="party">Throw A Party</a>
+
+## <a name="party"></a>Throw A Party
 
 Parties are great ways to meet like-minded people, educate folks who are new to the issues and fight for your rights to connect and communicate.
 

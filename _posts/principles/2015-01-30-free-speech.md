@@ -4,15 +4,12 @@ headerimg: policy_platform/FreePress_PolicyPlatform_Free_Speech_notext.png
 title: "Free Speech"
 slug: speech
 subtitle: "Freedom of Expression Online and Offline"
-teaser: "Freedom of expression online and offline. Don’t censor the Internet."
+teaser: "Freedom of Expression Online and Offline. Don’t Censor the Internet."
 icon: icons/policy-platform-icon-speech.png
 thumbnail:
 categories:
 - policy_platform
 ---
-
-###Freedom of Expression Online and Offline. Don’t Censor the Internet.
-
 The First Amendment is the foundation of a healthy democracy in the United States. The Constitution recognizes that an open exchange of ideas is essential to our survival as a democratic society. That’s a value that seems even more relevant at a time when more than 200 million people in the United States are not only reading, watching and listening to the media, but creating new content and communicating their own ideas via interconnected digital platforms. 
 
 The sheer scale of free speech today is without precedent in history. But too often the companies that control the platforms and networks we use to communicate restrict or outright block our ability to speak freely.<sup>[2](#2)</sup> At various points in history, governments around the world have sought to control the flow of information, to silence and discriminate against protesters, and to prosecute whistleblowers — who today use the Internet to expose harmful and illegal activities by authorities. 

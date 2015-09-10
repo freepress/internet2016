@@ -30,16 +30,28 @@ Here are some ideas to get you started."
 	    </div>
 	{% endif %}
 
-
 	    <div class="col-sm-2 toolkit-list-icons">
-		<a href="{{site.baseurl}}{{ post.url }}">
+	{% if post.redirect_override != null %}
+	<a href="/{{site.baseurl}}{{post.redirect_override}}">
+	{% else %}
+	<a href="{{site.baseurl}}{{ post.url }}">
+	{% endif %}
 		   <img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
 		</a>
 	    </div>
 	    <div class="col-sm-3">
-	      <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+
+	<h2>
+	  {% if post.redirect_override != null %}
+	  <a href="/{{site.baseurl}}{{post.redirect_override}}">
+	  {% else %}
+	  <a href="{{site.baseurl}}{{ post.url }}">
+	  {% endif %}
+	    {{ post.title }}
+	  </a>
+	</h2>
 	      <p>
-		{{ post.teaser }}
+		      {{ post.teaser }}
 	      </p>
 	    </div>
 

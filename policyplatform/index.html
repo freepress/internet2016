@@ -2,16 +2,19 @@
 layout: default
 ---
 
-  <!-- <nav id="parallax-nav">
-    <ul>
-      <li id="parallax-nav-item-vision"><a href="#vision"><span class="nav-title">We can end police violence in america</span></a></li>
-      <li id="parallax-nav-item-campaign"><a href="#campaign"><span class="nav-title">The Campaign</span></a></li>
-    </ul>
-  </nav> -->
+
+<div id="policy-parallax-nav" role="navigation" class="hidden-xs hidden-sm">
+  <ul class="nav">
+  {% for post in site.categories['policy_platform'] %}
+    <li><a href="#{{post.slug | slugify}}">{{post.slug}}</a></li>
+  {% endfor %}
+  </ul>
+</div>
+
+  <main>
 
     {% for post in site.categories['policy_platform'] %}
 
-    <a name="{{post.slug | slugify}}"></a>
     <section id="{{post.slug | slugify}}">
       <section class="policy-big-img-heading text-center"  style="padding-top:12em;background: url('{{site.baseurl}}{{site.img_dir}}{{post.headerimg}}') no-repeat #383838;background-size: cover;background-position:center;" class="text-center">
 	<h1>{{post.title}}</h1>
@@ -23,7 +26,7 @@ layout: default
       <section class="container policy-wrapper">
 	<div class="text-center">
 	  {% if post.icon %}
-	  <img class="policy-heading-icon" src="{{site.baseurl}}{{site.img_dir}}{{post.icon}}" alt="" />
+		  <img class="policy-heading-icon" src="{{site.baseurl}}{{site.img_dir}}{{post.icon}}" alt="" />
 	  {% endif %}
 	  <h2>{{post.title}}</h2>
 	  {% if post.subtitle %}
@@ -39,3 +42,7 @@ layout: default
     </section><!-- "policy-section" -->
 
     {% endfor %}
+  </main>
+  <script type="text/javascript">
+    $('body').scrollspy({ target: '#policy-parallax-nav', offset: 100})
+  </script>

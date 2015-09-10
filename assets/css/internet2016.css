@@ -482,3 +482,8 @@ main {
 #policy-parallax-nav .nav>li>a  {
   padding:0px;
 }
+
+
+#featured h2 {
+  text-align: center;
+}

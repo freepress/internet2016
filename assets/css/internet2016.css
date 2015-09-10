@@ -455,7 +455,7 @@ main {
 
 #policy-parallax-nav ul {
   list-style-type: none;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.4);
   padding: 5%;
 }
 #policy-parallax-nav li {

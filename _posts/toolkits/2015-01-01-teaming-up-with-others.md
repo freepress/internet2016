@@ -5,7 +5,7 @@ title: "Teaming Up With Others "
 teaser: "How to work together with other movements to make change."
 categories:
 - toolkits
-icon: toolkit-icons-Team-Up2.png
+icon: toolkit-icons-Team-Up3.png
 ---
 There are a lot of people working to change our world and that’s great — we need it. From time to time we’ll find ourselves doing similar work in similar spaces with other movement leaders. That provides us with an opportunity to work together toward our shared goals of making change.
 

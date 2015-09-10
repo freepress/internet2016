@@ -1,10 +1,10 @@
 ---
 layout: default
-outlet: OtherWords
+outlet: <em>OtherWords</em>
 title: "The Year of the Internet Voter"
 link: http://otherwords.org/the-year-of-the-internet-voter/
 logo: press/otherwords.png
-publish_date: 6/17/2015
+publish_date: June 17, 2015
 categories: [press]
 ---
 

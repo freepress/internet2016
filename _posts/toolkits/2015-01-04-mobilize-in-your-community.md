@@ -49,7 +49,8 @@ Express your feelings, but don’t get mean. Stick to the facts and remember tha
 * **Sign the letter.** Provide your full name, mailing address, email address and phone number (many outlets will want to contact you before publishing). Include any relevant organizational affiliation.
 
 ***
-## <a name="visibility">Visibility</a>
+
+## <a name="visibility"></a>Visibility
 
 Here are some ways to get visible in your community and spread the message about #Internet2016:
 

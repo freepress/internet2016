@@ -17,7 +17,7 @@ Check out these ways to make your voice heard:
 
 ***
 
-##How to Schedule a Meeting with the Candidates [meet]
+## <a name="meet"></a>How to Schedule a Meeting with the Candidates
 
 **Set Up Your Meeting**
 
@@ -47,8 +47,8 @@ Plan a preparation meeting with your fellow participants. This should take place
  1. <a href="mailto:info@freepress.net">Follow up with us</a> if you have any questions.
 
 ***
-<a name="ask"></a>
-## Bird Dogging: How to Ask the Candidates Questions
+
+## <a name="ask"></a>Bird Dogging: How to Ask the Candidates Questions
 
 Asking candidates tough questions in person is a great way to push them to take action.
 
@@ -70,8 +70,8 @@ Here are the steps you need to take to ask a candidate a question:
 If you need help or have any questions, please feel free to email us at <a href="mailto:info@freepress.net">info@freepress.net</a>. We’re happy to help out!
 
 ***
-<a name="questions"></a>
-##Sample Questions
+
+##<a name="questions"></a>Sample Questions
 
 The best questions will come from you, so we encourage you to come up with your own. Be concise and ask for a specific response. Make sure your question is easy to remember and practice asking it out loud in advance.
 

@@ -13,11 +13,11 @@ Here are some <a href="#collaborate">tips on how to collaborate with others</a>.
 
 One of the most visible movements today is the movement for black lives. Activists are pressuring candidates to speak out and we will likely be doing similar work in similar spaces.
 
-We believe that it’s impossible to achieve any kind of social justice without first addressing and dismantling systemic racism. Here is the [Free Press Action Fund’s statement in support of #BlackLivesMatter](http://internet2016/blog/we-stand-blacklivesmatter/). 
+We believe that it’s impossible to achieve any kind of social justice without first addressing and dismantling systemic racism. Here is the [Free Press Action Fund’s statement in support of #BlackLivesMatter](http://internet2016/blog/we-stand-blacklivesmatter/).
 
 ***
 
-## <a name="collaborate">How To Be A Good Partner</a>
+## <a name="collaborate"></a>How To Be A Good Partner
 
 From time to time we’ll find ourselves doing similar work in similar spaces with other movement leaders. That gives us an opportunity to work together toward our shared goals of making change.
 

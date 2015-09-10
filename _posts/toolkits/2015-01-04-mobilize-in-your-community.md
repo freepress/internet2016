@@ -17,7 +17,7 @@ Have fun! <a href="mailto:info@freepress.net?subject=Internet 2016 planning supp
 
 ***
 
-## <a name="LTE">Writing Letters to the Editor</a>
+## <a name="LTE"></a>Writing Letters to the Editor
 
 **Why Do Letters to the Editor Matter?**
 

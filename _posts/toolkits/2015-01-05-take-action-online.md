@@ -13,7 +13,8 @@ icon: toolkit-icons-Take-Action.png
 1. Stay up to date via [our blog.](http://www.internet2016.net/blog)
 
 ***
-## <a name="story">Share Your Story</a>
+
+## <a name="story"></a>Share Your Story
 
 <script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
 <link href="//assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />

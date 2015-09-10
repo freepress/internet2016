@@ -461,7 +461,7 @@ main {
 #policy-parallax-nav li {
   padding-right: 20px;
 }
-#policy-parallax-nav a, a:link, a:visited {
+#policy-parallax-nav a, #policy-parallax-nav a:link, #policy-parallax-nav a:visited {
   color: #000;
   font-weight: 100;
   text-decoration: none;

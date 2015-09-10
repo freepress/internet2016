@@ -483,7 +483,9 @@ main {
   padding:0px;
 }
 
-
 #featured h2 {
   text-align: center;
+}
+#press-coverage-list {
+  padding-top: 3%;
 }

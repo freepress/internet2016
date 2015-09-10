@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-nn-victory.jpg
+headerimg: blog-nn-victory2.jpg
 title: "'I Don't Want to Live in a World Where the Internet Isn't Free'"
 subtitle:
 teaser: "People are fired up about the future of the Internet — and they’re using their voices to create change."

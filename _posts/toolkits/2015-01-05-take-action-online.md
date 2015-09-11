@@ -15,6 +15,11 @@ icon: toolkit-icons-Take-Action.png
 ***
 
 ## <a name="story"></a>Share Your Story
+Candidates running for office need to hear your voice and your opinions about media and technology issues. You can move them to take a stand. Will you share your story?
+
+Share on Facebook, Twitter or Instagram with the tag #InternetVoter or #Internet2016
+
+Don't do social media? <a href="mailto:info@freepress.net?subject=Share your story submission">Email us</a> your story and we'll share it!
 
 <script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
 <link href="//assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />

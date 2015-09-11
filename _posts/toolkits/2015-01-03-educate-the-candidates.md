@@ -24,7 +24,7 @@ Check out these ways to make your voice heard:
  1. Reach out to your local campaign office and ask for a meeting to discuss Internet issues.
  1. Follow up with the office within three days to confirm they got your request.
  1. Create a list of 5–10 people you can invite to join you at this meeting and email them within five days.
- 1. Confirm your meeting with the office and <a href="mailto:info@freepress.net">tell us it’s happening</a>. If needed, send a follow-up request to the office and confirm with us as soon as you’ve got a date.
+ 1. Confirm your meeting with the office and <a href="mailto:info@freepress.net?subject=Internet 2016 in-district meeting follow up">tell us it’s happening</a>. If needed, send a follow-up request to the office and confirm with us as soon as you’ve got a date.
  1. Review our [issue briefs](LINKTK) about free speech, access, privacy, choice and openness. Share them with your invitees.
 
 **Prepare Your Attendees**
@@ -38,13 +38,13 @@ Plan a preparation meeting with your fellow participants. This should take place
 
 1. Arrive at the meeting location 15 minutes before your scheduled meeting time. Gather with other attendees and enter the meeting together.
 1. Tell your story in the meeting. Make sure everyone has enough time to speak. Take lots of photos, including a group one of everyone assembled.
-1. After the meeting, ask everyone to share notes, photos and reflections with each other over email. <a href="mailto:info@freepress.net">Share this info with us</a>
+1. After the meeting, ask everyone to share notes, photos and reflections with each other over email. <a href="mailto:info@freepress.net?subject=Internet 2016 in-district meeting follow up">Share this info with us</a>
 1. Send a thank-you note to the person you met with and thank your attendees for joining you.
 
 **After the Meeting**
 
  1. Celebrate! You just urged a candidate to become a champion for your rights to connect and communicate.
- 1. <a href="mailto:info@freepress.net">Follow up with us</a> if you have any questions.
+ 1. <a href="mailto:info@freepress.net?subject=Internet 2016 in-district meeting follow up">Follow up with us</a> if you have any questions.
 
 ***
 
@@ -58,16 +58,16 @@ Here are the steps you need to take to ask a candidate a question:
  1. **Invite a couple of friends to join you.** It’s always more fun to partner with friends and having multiple people prepared to ask questions increases the likelihood that you’ll get called on (especially if you split up once you arrive).
  1. **Do some research.** Learn the candidate’s position on the issue you’d like to ask them about. Find out if there are instructions for asking questions at the particular event you’re attending.
  1. <a href="#questions">**Pick a question.**</a> Be concise and ask for a specific response. Make sure your question is easy to remember and practice asking it out loud.
- 1. **Tell us about your plans.** We’ll let you know if we can invite people to join you. We can also provide feedback on your questions. Email us at <a href="mailto:info@freepress.net">info@freepress.net</a>.
+ 1. **Tell us about your plans.** We’ll let you know if we can invite people to join you. We can also provide feedback on your questions. Email us at <a href="mailto:info@freepress.net?subject=Internet 2016 bird dogging inquiry">info@freepress.net</a>.
  1. **Arrive early.** Get to the event early so you can be in a position where the presenter can see you and potentially call on you.
  1. **Ask your question.** Ask your question early, and be prepared to follow up if needed. Stand up so you can be seen and heard. If there’s a microphone, use it. If not, be sure to project. If there’s an opportunity to shake hands or speak with the lawmaker one on one, get in line and ask your question.
  1. **Be polite, clear and concise.** Keep your tone positive.
- 1. **Document.** Ask one of your friends to take photos and video of the exchange between you and the candidate so you can share it later. If you get someone on camera, tweet it out with the #Internet2016 hashtag and send it to us at <a href="mailto:info@freepress.net">info@freepress.net</a>. If you’re unable to use photos or video write down your question and the response and send both to us.
+ 1. **Document.** Ask one of your friends to take photos and video of the exchange between you and the candidate so you can share it later. If you get someone on camera, tweet it out with the #Internet2016 hashtag and send it to us at <a href="mailto:info@freepress.net?subject=Internet 2016 bird dogging follow up">info@freepress.net</a>. If you’re unable to use photos or video write down your question and the response and send both to us.
  1. **Talk to the media.** If members of the media are present, aim to share your question with them. Tell them why you wanted to ask it and what you want the candidate to do.
  1. **Follow up.** Follow up with the candidate’s staff after the event by calling, emailing or visiting their office. Each situation will be different, but you might want to thank them for responding, press them for a more specific answer, repeat the question or tell the staffer you have a question that you didn’t get to ask. (Don’t forget to thank your friends for joining you too!)
  1. **Determine your next steps.** Promote the photos and video via social media. Make plans to ask the same question or a related one at the next event.
 
-If you need help or have any questions, please feel free to email us at <a href="mailto:info@freepress.net">info@freepress.net</a>. We’re happy to help out!
+If you need help or have any questions, please feel free to email us at <a href="mailto:info@freepress.net?subject=Educate the candidates inquiry">info@freepress.net</a>. We’re happy to help out!
 
 ***
 

@@ -1,0 +1,68 @@
+---
+layout: default
+title: Toolkits
+icon: toolkit-icon.png
+intro_text: "The 2016 election will determine whether the Internet’s benefits reach everyone — or whether a few giant corporations lock the network down for their own benefit. By working together we can ensure that anyone who gets into office advances policies that promote free speech, access, privacy, choice and openness.
+Here are some ideas to get you started."
+---
+<section id="toolkit-header-bar">
+</section>
+
+<main id="toolkits-list-main" class="main-section-single">
+<div class="container">
+
+<img class="toolkit-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}icons/{{page.icon}}" alt="" />
+
+<h1 class="text-center single-page-title">{{page.title}}</h1>
+
+  <section class="container">
+    <p class="text-center" id="toolkit-list-intro-text">
+      {{page.intro_text}}
+    </p>
+
+
+
+      {% for post in site.categories['toolkits'] %}
+      {% assign oddeven = forloop.index | modulo:2 %}
+	{% if oddeven == 0 %}
+	  <div class="row">
+	    <div class="col-sm-1">
+	    </div>
+	{% endif %}
+
+	    <div class="col-sm-2 toolkit-list-icons">
+	{% if post.redirect_override != null %}
+	<a href="/{{site.baseurl}}{{post.redirect_override}}">
+	{% else %}
+	<a href="{{site.baseurl}}{{ post.url }}">
+	{% endif %}
+		   <img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
+		</a>
+	    </div>
+	    <div class="col-sm-3">
+
+	<h2>
+	  {% if post.redirect_override != null %}
+	  <a href="/{{site.baseurl}}{{post.redirect_override}}">
+	  {% else %}
+	  <a href="{{site.baseurl}}{{ post.url }}">
+	  {% endif %}
+	    {{ post.title }}
+	  </a>
+	</h2>
+	      <p>
+		      {{ post.teaser }}
+	      </p>
+	    </div>
+
+	    {% if oddeven == 0 %}
+	    </div>
+	    {% endif %}
+
+      {% endfor %}
+    </div>
+
+
+  </section>
+</div>
+</main>

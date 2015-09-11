@@ -1,0 +1,35 @@
+---
+layout: default
+title: In the News
+icon: news-icon.png
+---
+
+
+  <section id="toolkit-header-bar">
+  </section>
+
+<main id="press-coverage">
+  <section class="container">
+    <img class="toolkit-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}icons/{{page.icon}}" alt="" />
+    <h1 class="text-center single-page-title">{{page.title}}</h1>
+
+    <section  id="press-coverage-list">
+
+      <ul>
+        {% for post in site.categories['press'] %}
+        <li>
+          {{post.outlet}} {{post.publish_date}} <br>
+	  <a href="{{ site.baseurl }}{{ post.link }}">
+
+            {{ post.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+
+
+    </section>
+
+  </section>
+
+</main>

@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<main>
+
+  <section id="blog-header-bar">
+  </section>
+
+  <section id="blog-post-single">
+
+    <div class="container">
+      {% if page.headerimg %}
+      <img class="bloglist-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}{{page.headerimg}}" />
+      {% endif %}
+
+      <section>
+        <h1>{{page.title}}</h1>
+
+	{% if page.author %}
+        <p>
+          by: {{page.author}}
+          <br>
+        </p>
+	{% endif %}
+
+	{% if page.publish_date %}
+        <p>
+          {{page.publish_date}}
+        </p>
+	{% endif %}
+      </section>
+
+      <section class="blog-post-single-body">
+        {{content}}
+      </section>
+
+      {% if page.tags %}
+      <section class="list-of-tags">
+        {% for tag in page.tags %}
+          {{tag}}
+        {% endfor %}
+      </section>
+      {% endif %}
+
+    </div>
+  </section>
+
+</main>

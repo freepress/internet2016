@@ -1,0 +1,46 @@
+---
+layout: default
+title: Blog Posts
+intro_text:
+
+---
+
+
+<section id="blog-header-bar">
+</section>
+
+<main>
+<div class="container">
+
+<h1 class="text-center single-page-title">{{page.title}}</h1>
+
+  <section class="container">
+    <p class="text-center" id="toolkit-list-intro-text">
+      {{page.intro_text}}
+    </p>
+
+    {% for post in site.categories['blog'] %}
+    <div class="row bloglist-posts">
+      <div class="col-xs-2 col-xs-offset-1">
+        <img src="{{site.baseurl}}{{site.img_dir}}{{post.thumbnail}}" class="img-responsive bloglist-image-preview pull-right" />
+      </div>
+      <div class="col-xs-8">
+	<a href="{{site.baseurl}}{{ post.url }}"><h1>{{ post.title }}</h1></a>
+	<p class="roboto-light">by {{post.author}}</p>
+        <p class="roboto-light">
+         {{post.publish_date}}
+       </p>
+
+        <p class="blog-list">
+          {{post.teaser}}
+        </p>
+        <p>
+	  <a href="{{site.baseurl}}{{ post.url }}">read more</a>
+        </p>
+      </div>
+    </div>
+    {% endfor %}
+
+  </section>
+</div>
+</main>

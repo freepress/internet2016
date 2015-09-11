@@ -35,7 +35,7 @@ Free Press Action Fund offers several electronic mailing lists. If you choose to
 
 There are a number of ways to subscribe to Free Press Action Fund's electronic mailing lists, including submitting a form on our website, opting in when you engage in online or offline activism, or mailing or completing a sign-up form from a paper petition, brochure or flier. When you subscribe, you will typically receive a confirmation message welcoming you.
 
-You may unsubscribe from any of our lists at any time. If you wish to update your information, delete or otherwise make changes to your relationship with us, or remove yourself entirely from our list(s), [click here](http://act2.freepress.net/unsubscribe/unsubscribe_freepress/).
+You may unsubscribe from any of our lists at any time. If you wish to update your information, delete or otherwise make changes to your relationship with us, or remove yourself entirely from our list(s), [click here](http://act.freepress.net/unsubscribe/unsubscribe_fpaf/).
 
 Lists Free Press Action Fund maintains for electronic mailings are exclusively “opt-in” lists. We do not purchase information from third-party sources or gather personal data from the Web (known as spidering) for inclusion in our email lists.
 

@@ -59,7 +59,7 @@ Here are some ways to get visible in your community and spread the message about
 
  1. **Find prime locations.** Even the smallest town has a high-traffic intersection. Consider places like farmers’ markets, public parks and town halls.
 
- 1. **Bring signs.** Your signs should include a minimal amount of text so that people walking or driving by can easily read them. Some ideas: “Honk if you <3 the Internet!” and “I Vote + I <3 the Internet.” Go big, go bold!
+ 1. **Bring signs.** Your signs should include a minimal amount of text so that people walking or driving by can easily read them. Some ideas: “Honk if you <3 the Internet!” and “I <3 the Internet + I Vote.” Go big, go bold!
 
  1. **Pass out information.** Passing out flyers or other takeaways like stickers is a great way to get your message out. Flyers can include more text than signs but it’s still important to be concise. Try printing flyers on colorful paper to make them stand out.
 

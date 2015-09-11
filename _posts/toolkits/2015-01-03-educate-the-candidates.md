@@ -38,7 +38,7 @@ Plan a preparation meeting with your fellow participants. This should take place
 
 1. Arrive at the meeting location 15 minutes before your scheduled meeting time. Gather with other attendees and enter the meeting together.
 1. Tell your story in the meeting. Make sure everyone has enough time to speak. Take lots of photos, including a group one of everyone assembled.
-1. After the meeting, ask everyone to share notes, photos and reflections with each other over email. <a href="mailto:info@freepress.net?subject=Internet 2016 in-district meeting follow up">Share this info with us</a>
+1. After the meeting, ask everyone to share notes, photos and reflections with each other over email. <a href="mailto:info@freepress.net?subject=Internet 2016 in-district meeting follow up">Share this info with us</a>.
 1. Send a thank-you note to the person you met with and thank your attendees for joining you.
 
 **After the Meeting**

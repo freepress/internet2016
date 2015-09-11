@@ -27,14 +27,15 @@ intro_text:
       <div class="col-xs-8">
 	<a href="{{site.baseurl}}{{ post.url }}"><h1>{{ post.title }}</h1></a>
 	<p class="roboto-light">by {{post.author}}</p>
+        <p class="roboto-light">
+         {{post.publish_date}}
+       </p>
+
         <p class="blog-list">
           {{post.teaser}}
         </p>
         <p>
 	  <a href="{{site.baseurl}}{{ post.url }}">read more</a>
-        </p>
-	<p class="roboto-light">
-          {{post.publish_date}}
         </p>
       </div>
     </div>

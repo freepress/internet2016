@@ -34,7 +34,7 @@ Plan a preparation meeting with your fellow participants. This should take place
  1. Identify a pre-meeting location with your invitees and exchange phone numbers.
  1. Email your attendees to confirm the date, time and meeting location as well as the roles that everyone signed up for. Send this email right after your preparation meeting.
 
-**Go To the Meeting**
+**Go to the Meeting**
 
 1. Arrive at the meeting location 15 minutes before your scheduled meeting time. Gather with other attendees and enter the meeting together.
 1. Tell your story in the meeting. Make sure everyone has enough time to speak. Take lots of photos, including a group one of everyone assembled.

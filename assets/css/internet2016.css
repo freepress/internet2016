@@ -496,3 +496,7 @@ main {
 #press-coverage-list li {
   padding-bottom: 2%;
 }
+
+#privacy-policy-text a, #privacy-policy-text a:link, #privacy-policy-text a:visited {
+  color:#FFFF00;
+}

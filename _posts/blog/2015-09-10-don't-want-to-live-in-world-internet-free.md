@@ -7,7 +7,7 @@ teaser: "People are fired up about the future of the Internet — and they’re 
 thumbnail: thumbnail-blog-world.svg
 publish_date: Sept. 10, 2015
 author: Mary Alice Crim
-tags: [tech, activism, idk]
+tags: []
 categories:
 - blog
 ---

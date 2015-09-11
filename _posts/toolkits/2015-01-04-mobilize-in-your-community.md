@@ -36,11 +36,14 @@ Express your feelings, but don’t get mean. Stick to the facts and remember tha
 * **Tailor each letter to the outlet’s audience.** Do your research. Read letters in your target publications on a regular basis to get a sense of each outlet’s style and approach.
 
 **Publishing Your Letter**
-* **Identify your target publications.** Community newspapers and trade publications often carry more influence than a letter placed in a more high-profile publication. And it’s easier to get letters to the editor published in these smaller publications.
+
+* **Identify your target publications.** Community newspapers and trade publications often carry more
+influence than a letter placed in a more high-profile publication. And it’s easier to get letters to the editor published in these smaller publications.
 * **Call the editor** to ensure your letter has been received. Rather than leave a voicemail, follow up until you speak to a staff member.
 * **Amplify your message.** To amplify your message, send a copy of your letter to a group (like the Free Press Action Fund) that advocates for your position.
 
 **Outline for a Letter to the Editor**
+
 * **Open your letter** with your reason for writing. State the problem that concerns you.
 * **Define why this issue is important.** Explain how this problem affects you or others, and explain what will happen if something is/isn’t done.
 * **Praise or criticize** what a public official has said or done about the issue. Make a positive or critical statement about a public action related to the issue.

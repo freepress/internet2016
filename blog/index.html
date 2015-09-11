@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog Posts
-intro_text: 
+intro_text:
 
 ---
 
@@ -21,7 +21,7 @@ intro_text:
 
     {% for post in site.categories['blog'] %}
     <div class="row bloglist-posts">
-      <div class="col-xs-4">
+      <div class="col-xs-2 col-xs-offset-1">
         <img src="{{site.baseurl}}{{site.img_dir}}{{post.thumbnail}}" class="img-responsive bloglist-image-preview pull-right" />
       </div>
       <div class="col-xs-8">

@@ -19,15 +19,14 @@ Running this project locally allows you to make changes and preview them before 
 18 Million Rising has a very good [step-by-step guide](https://github.com/18mr/documentation/blob/master/local-site.md) that explains how to install jekyll, fork a repository on github and run a jekyll project locally. This website follows the same pattern, so I recommend going through that guide to get going.
 
 ## How do I give feedback & suggest changes?
-The principles expressed on this site are about keeping the web free & open, so the principles themselves are also free & open. You are encouraged to participate in this. Check out the policy platform and share your thoughts. We welcome feedback, comments, suggested changes, remixes, etc.
+We welcome feedback, comments, suggested changes, remixes, etc. The best place to offer feedback is on the principles that make up the policy platform (which is located in `_posts/principles`).
 
-### But, how?
+### ...But, how do I give this feedback?
 * **Familiar with github?** The best way to contribute content is to send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
-* **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
-
+* **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and [adding a New Issue](https://github.com/freepress/internet2016/issues/new) (that's just like a comment). FYI you'll need to create a github account.
 
 ## Can I contribute code?
-Yes, please! Check out [the issues list](https://github.com/freepress/internet2016/issues) and if you can help, please jump right in!
+Yes, please. Check out [the issues list](https://github.com/freepress/internet2016/issues) and if you can help on any those, please jump right in!
 
 ## Can my organization join?
 Maybe/probably. There will be a more formal way to do this the future, but for now if you have an organization/company/club whatever and you want to join this campaign, you can [add an issue](https://github.com/freepress/internet2016/issues/new) here on github indicating that you're interested with the name of your org and how to contact you.

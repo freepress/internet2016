@@ -2,7 +2,7 @@
 #layout: toolkit_single
 headerimg:
 title: "Policy Platform"
-teaser: Whoever gets into office must advance policies that promote free speech, access, privacy, choice and openness.
+teaser: Whoever gets into office must advance policies that promote free speech, access, choice, privacy and openness.
 categories:
 - toolkits
 tags: [tech]

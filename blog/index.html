@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog Posts
-intro_text: 
+intro_text:
 
 ---
 
@@ -21,20 +21,21 @@ intro_text:
 
     {% for post in site.categories['blog'] %}
     <div class="row bloglist-posts">
-      <div class="col-xs-4">
+      <div class="col-xs-2 col-xs-offset-1">
         <img src="{{site.baseurl}}{{site.img_dir}}{{post.thumbnail}}" class="img-responsive bloglist-image-preview pull-right" />
       </div>
       <div class="col-xs-8">
 	<a href="{{site.baseurl}}{{ post.url }}"><h1>{{ post.title }}</h1></a>
-	<p class="roboto-light">by {{post.author}}</p>
+	<p class="roboto-light"><strong>by {{post.author}}</strong></p>
+        <p class="roboto-light">
+         {{post.publish_date}}
+       </p>
+
         <p class="blog-list">
           {{post.teaser}}
         </p>
         <p>
 	  <a href="{{site.baseurl}}{{ post.url }}">read more</a>
-        </p>
-	<p class="roboto-light">
-          {{post.publish_date}}
         </p>
       </div>
     </div>

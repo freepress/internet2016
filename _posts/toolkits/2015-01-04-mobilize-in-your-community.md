@@ -36,11 +36,14 @@ Express your feelings, but don’t get mean. Stick to the facts and remember tha
 * **Tailor each letter to the outlet’s audience.** Do your research. Read letters in your target publications on a regular basis to get a sense of each outlet’s style and approach.
 
 **Publishing Your Letter**
-* **Identify your target publications.** Community newspapers and trade publications often carry more influence than a letter placed in a more high-profile publication. And it’s easier to get letters to the editor published in these smaller publications.
+
+* **Identify your target publications.** Community newspapers and trade publications often carry more
+influence than a letter placed in a more high-profile publication. And it’s easier to get letters to the editor published in these smaller publications.
 * **Call the editor** to ensure your letter has been received. Rather than leave a voicemail, follow up until you speak to a staff member.
 * **Amplify your message.** To amplify your message, send a copy of your letter to a group (like the Free Press Action Fund) that advocates for your position.
 
 **Outline for a Letter to the Editor**
+
 * **Open your letter** with your reason for writing. State the problem that concerns you.
 * **Define why this issue is important.** Explain how this problem affects you or others, and explain what will happen if something is/isn’t done.
 * **Praise or criticize** what a public official has said or done about the issue. Make a positive or critical statement about a public action related to the issue.
@@ -56,7 +59,7 @@ Here are some ways to get visible in your community and spread the message about
 
  1. **Find prime locations.** Even the smallest town has a high-traffic intersection. Consider places like farmers’ markets, public parks and town halls.
 
- 1. **Bring signs.** Your signs should include a minimal amount of text so that people walking or driving by can easily read them. Some ideas: “Honk if you <3 the Internet!” and “I Vote + I <3 the Internet.” Go big, go bold!
+ 1. **Bring signs.** Your signs should include a minimal amount of text so that people walking or driving by can easily read them. Some ideas: “Honk if you <3 the Internet!” and “I <3 the Internet + I Vote.” Go big, go bold!
 
  1. **Pass out information.** Passing out flyers or other takeaways like stickers is a great way to get your message out. Flyers can include more text than signs but it’s still important to be concise. Try printing flyers on colorful paper to make them stand out.
 
@@ -70,17 +73,17 @@ Here are some ways to get visible in your community and spread the message about
 
 ***
 
-## <a name="party"></a>Throw A Party
+## <a name="party"></a>Throw a Party
 
 Parties are great ways to meet like-minded people, educate folks who are new to the issues and fight for your rights to connect and communicate.
 
 Here are some tips for hosting your own gathering:
 
- 1. **Pick a date, time and place.** Once you’ve got that figured out, share your event details with us by emailing info@freepress.net. We’ll let you know if we can help you publicize your event.
+ 1. **Pick a date, time and place.** Once you’ve got that figured out, <a href="mailto:info@freepress.net?subject=Internet 2016 event details">share your event details with us</a>. We’ll let you know if we can help you publicize your event.
 
  1. **Invite people and play host.** Invite 10 people you want to connect with. Keep a list of the folks you invite so you can track who’s coming — and follow up with them later.
 
- 1. **Provide info on the Internet 2016 campaign.** Share the resources available at Internet2016.net.
+ 1. **Provide info on the Internet 2016 campaign.** Share the resources available at <a href="http://internet2016.net/">Internet2016.net</a>.
 
  1. **Document.** Take pictures! Share them on social media with attendees after the event is over.
 
@@ -88,8 +91,8 @@ Here are some tips for hosting your own gathering:
 
  1. **Have fun!** Don’t forget to enjoy your time together and make space to hang out and connect.
 
- 1. **Tell us how it went.** Email us at info@freepress.net to share your story. Be sure to attach your favorite event pics.
+ 1. **Tell us how it went.** <a href="mailto:info@freepress.net?subject=Internet 2016 event follow up">Email us</a> to share your story. Be sure to attach your favorite event pics.
 
-If you need help or have any questions, please feel free to email us at <a href="mailto:info@freepress.net">info@freepress.net</a>. We’re happy to help out!
+If you need help or have any questions, please feel free to <a href="mailto:info@freepress.net?subject=Internet 2016 mobilize in your community inquiry">email us</a>. We’re happy to help out!
 
 ***

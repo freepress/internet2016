@@ -2,7 +2,7 @@
 layout: default
 title: Toolkits
 icon: toolkit-icon.png
-intro_text: "The 2016 election will determine whether the Internet’s benefits reach everyone — or whether a few giant corporations lock the network down for their own benefit. By working together we can ensure that anyone who gets into office advances policies that promote free speech, access, privacy, choice and openness.
+intro_text: "The 2016 election will determine whether the Internet’s benefits reach everyone — or whether a few giant corporations lock the network down for their own gain. By working together we can ensure that anyone who gets into office advances policies that promote free speech, access, choice, privacy and openness.
 Here are some ideas to get you started."
 ---
 <section id="toolkit-header-bar">
@@ -32,7 +32,7 @@ Here are some ideas to get you started."
 
 	    <div class="col-sm-2 toolkit-list-icons">
 	{% if post.redirect_override != null %}
-	<a href="/{{site.baseurl}}{{post.redirect_override}}">
+	<a href="{{site.baseurl}}/{{post.redirect_override}}">
 	{% else %}
 	<a href="{{site.baseurl}}{{ post.url }}">
 	{% endif %}
@@ -43,7 +43,7 @@ Here are some ideas to get you started."
 
 	<h2>
 	  {% if post.redirect_override != null %}
-	  <a href="/{{site.baseurl}}{{post.redirect_override}}">
+	  <a href="{{site.baseurl}}/{{post.redirect_override}}">
 	  {% else %}
 	  <a href="{{site.baseurl}}{{ post.url }}">
 	  {% endif %}

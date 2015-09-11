@@ -30,6 +30,7 @@ Check out these ways to make your voice heard:
 **Prepare Your Attendees**
 
 Plan a preparation meeting with your fellow participants. This should take place the day before your meeting with the office. During the meeting:
+
  1. Ask each person to play a role during the meeting with the candidate’s office. Identify a note taker and picture taker. Ask someone to print and bring the issue briefs to leave behind with the office. Ask one person to begin the meeting and introduce the issues at hand.
  1. Identify a pre-meeting location with your invitees and exchange phone numbers.
  1. Email your attendees to confirm the date, time and meeting location as well as the roles that everyone signed up for. Send this email right after your preparation meeting.

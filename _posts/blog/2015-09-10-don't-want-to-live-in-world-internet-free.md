@@ -1,13 +1,13 @@
 ---
 layout: blogpost_single
-headerimg: blog-nn-victory.jpg
+headerimg: blog-nn-victory2.jpg
 title: "'I Don't Want to Live in a World Where the Internet Isn't Free'"
 subtitle:
 teaser: "People are fired up about the future of the Internet — and they’re using their voices to create change."
 thumbnail: thumbnail-blog-world.svg
-publish_date: Sept. 10, 2015
-author: Mary Alice Crim
-tags: [tech, activism, idk]
+publish_date: <strong>Sept. 10, 2015</strong>
+author: <strong>Mary Alice Crim</strong>
+tags: []
 categories:
 - blog
 ---
@@ -18,9 +18,9 @@ In August, folks met with their members of Congress to urge them to protect the 
 
 These activists are among the millions of people who took Washington to task and secured real Net Neutrality, stopped Comcast’s bid to take over Time Warner Cable and are fighting to end unchecked government surveillance. 
 
-Now they want to know who among the presidential contenders will stand up for their rights to connect and communicate. They want policies that promote access, choice, free speech, openness and privacy online. 
+Now they want to know who among the presidential contenders will stand up for their rights to connect and communicate. They want policies that promote free speech, access, choice, privacy and openness online. 
 
-I recently had the opportunity to talk with some activists from Iowa and New Hampshire. Check out their inspiring words below:
+I recently had the opportunity to talk with some activists from Iowa and New Hampshire. **Check out their inspiring words below:**
 
 “Access to the Internet is essential for my work with a tiny nonprofit in rural Iowa,” said Iowa resident Cherie. “I also use the Internet to promote my art. I’m lucky enough to have a local cooperative phone company that provides fiber, but overall access in the state is like Swiss cheese — whether you get connected depends on where you live.” 
 

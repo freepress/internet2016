@@ -1,12 +1,12 @@
 ---
 layout: blogpost_single
 headerimg: blog-black-lives-matter.jpg
-title: "We Stand With #Black Lives Matter"
+title: "We Stand With #BlackLivesMatter"
 teaser: "Here's why we stand with Black Lives Matter, and why you should too"
 thumbnail: thumbnail-blog-megaphone.svg
-author: Craig Aaron
-publish_date: Aug. 14, 2015
-tags: [tech, activism, idk, hey dude, yeah]
+author: <strong>Craig Aaron</strong>
+publish_date: <strong>Aug. 14, 2015</strong>
+tags: []
 categories:
 - blog
 ---
@@ -20,7 +20,7 @@ I want to be clear about whom Free Press supports.
 
 Black Lives Matter.
 
-Recently, Free Press <a href="http://act.freepress.net/sign/journ_ferguson_arrests/?source=FPblog">sent out an action alert</a> highlighting the outrageous charges filed in St. Louis County against journalists Wesley Lowery and Ryan J. Reilly, who were roughed up and arrested while covering the protests in Ferguson last year after the killing of Michael Brown. A Canadian journalist also faces charges.
+Recently, we <a href="http://act.freepress.net/sign/journ_ferguson_arrests/?source=FPblog">sent out an action alert</a> highlighting the outrageous charges filed in St. Louis County against journalists Wesley Lowery and Ryan J. Reilly, who were roughed up and arrested while covering the protests in Ferguson last year after the killing of Michael Brown. A Canadian journalist also faces charges.
 
 This crackdown goes beyond traditional reporters: Several prominent Black Lives Matter activists were arrested on Monday while attempting to film protests in St. Louis. Without many of these same people, via their videos, live-streams and tweets, we wouldn’t know what’s been happening in Ferguson. As we wrote: “We need journalists — and anyone performing acts of journalism — to act as our eyes and ears on the ground, protect our communities’ best interests and report on any abuses of power.”
 

@@ -382,6 +382,11 @@ footer h1 {
   background: #FFFF00;
 }
 
+.yellow-font {
+  color: #FFFF00;
+}
+
+
 main {
   padding-bottom: 10%;
 }
@@ -495,4 +500,8 @@ main {
 }
 #press-coverage-list li {
   padding-bottom: 2%;
+}
+
+#privacy-policy-text a, #privacy-policy-text a:link, #privacy-policy-text a:visited {
+  color:#FFFF00;
 }

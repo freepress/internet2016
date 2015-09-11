@@ -5,7 +5,7 @@ title: "We Stand With #BlackLivesMatter"
 teaser: "Here's why we stand with Black Lives Matter, and why you should too"
 thumbnail: thumbnail-blog-megaphone.svg
 author: Craig Aaron
-publish_date: Aug. 14, 2015
+publish_date: <strong>Aug. 14, 2015</strong>
 tags: []
 categories:
 - blog

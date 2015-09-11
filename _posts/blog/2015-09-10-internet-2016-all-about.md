@@ -6,7 +6,7 @@ teaser: "In the battle of good vs. evil (aka people vs. mega-corporations), the 
 thumbnail: thumbnail-blog-lightbulb.svg
 author: Candace Clement and Mary Alice Crim
 publish_date: Sept. 10, 2015
-tags: [tech, activism, idk, hey dude, yeah]
+tags: []
 categories:
 - blog
 ---

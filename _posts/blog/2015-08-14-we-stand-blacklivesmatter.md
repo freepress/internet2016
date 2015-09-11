@@ -6,7 +6,7 @@ teaser: "Here's why we stand with Black Lives Matter, and why you should too"
 thumbnail: thumbnail-blog-megaphone.svg
 author: Craig Aaron
 publish_date: Aug. 14, 2015
-tags: [tech, activism, idk, hey dude, yeah]
+tags: []
 categories:
 - blog
 ---

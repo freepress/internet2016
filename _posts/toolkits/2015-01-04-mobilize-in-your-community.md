@@ -73,17 +73,17 @@ Here are some ways to get visible in your community and spread the message about
 
 ***
 
-## <a name="party"></a>Throw A Party
+## <a name="party"></a>Throw a Party
 
 Parties are great ways to meet like-minded people, educate folks who are new to the issues and fight for your rights to connect and communicate.
 
 Here are some tips for hosting your own gathering:
 
- 1. **Pick a date, time and place.** Once you’ve got that figured out, share your event details with us by emailing info@freepress.net. We’ll let you know if we can help you publicize your event.
+ 1. **Pick a date, time and place.** Once you’ve got that figured out, <a href="info@freepress.net?subject=Internet 2016 event details">share your event details with us</a>. We’ll let you know if we can help you publicize your event.
 
  1. **Invite people and play host.** Invite 10 people you want to connect with. Keep a list of the folks you invite so you can track who’s coming — and follow up with them later.
 
- 1. **Provide info on the Internet 2016 campaign.** Share the resources available at Internet2016.net.
+ 1. **Provide info on the Internet 2016 campaign.** Share the resources available at <a href="http://internet2016.net/">Internet2016.net</a>.
 
  1. **Document.** Take pictures! Share them on social media with attendees after the event is over.
 
@@ -91,8 +91,8 @@ Here are some tips for hosting your own gathering:
 
  1. **Have fun!** Don’t forget to enjoy your time together and make space to hang out and connect.
 
- 1. **Tell us how it went.** Email us at info@freepress.net to share your story. Be sure to attach your favorite event pics.
+ 1. **Tell us how it went.** <a href="info@freepress.net?subject=Internet 2016 event follow up">Email us</a> to share your story. Be sure to attach your favorite event pics.
 
-If you need help or have any questions, please feel free to email us at <a href="mailto:info@freepress.net">info@freepress.net</a>. We’re happy to help out!
+If you need help or have any questions, please feel free to <a href="info@freepress.net?subject=Internet 2016 mobilize in your community inquiry">email us</a>. We’re happy to help out!
 
 ***

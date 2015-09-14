@@ -30,3 +30,10 @@ Yes, please. Check out [the issues list](https://github.com/freepress/internet20
 
 ## Can my organization join?
 Maybe/probably. There will be a more formal way to do this the future, but for now if you have an organization/company/club whatever and you want to join this campaign, you can [add an issue](https://github.com/freepress/internet2016/issues/new) here on github indicating that you're interested with the name of your org and how to contact you.
+
+## License & Stuff. 
+
+ * **Privacy Policy** - As part of the campaign, this website collects some personal info, such as Name, Email Address, etc. Please read [the privacy policy](https://github.com/freepress/internet2016/blob/gh-pages/privacypolicy/index.md) provided by Free Press Action Fund for info about how it will be used.
+ * **Content License** - Unless otherwise noted, all content is licensed under the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+ * **Code License** - No copyright intended. No warranty implied. 
+

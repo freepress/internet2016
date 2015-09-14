@@ -2,20 +2,12 @@
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
 title: "Resources"
-teaser: "The best activism comes from your heart and is based on what works where you live."
+teaser: "Looking for more on media and tech policy and ideas for activism? Check these out."
 categories:
 - toolkits
 icon: toolkit-icon-resources3.png
 ---
-The best activism comes from your heart and is based on what works where you live. We've given you a few ideas in this guide and we encourage you to take them and make them your own.
-
 Here are some other excellent resources. Check them out and share them with your networks!
-
-**Ideas for activism:**
-
-1. [Beautiful Trouble](http://beautifultrouble.org/)
-1. [Rukus Society](http://www.ruckus.org/)
-1. [Mobilisation Lab](http://www.mobilisationlab.org/)
 
 **Info on media/tech policies and related campaigns:**
 
@@ -28,3 +20,9 @@ Here are some other excellent resources. Check them out and share them with your
 1. [Media Mobilizing Project](http://mediamobilizing.org/)
 1. [New America Foundation's Open Technology Institute](https://www.newamerica.org/oti/)
 1. [Public Knowledge](https://www.publicknowledge.org/)
+
+**Ideas for activism:**
+
+1. [Beautiful Trouble](http://beautifultrouble.org/)
+1. [Ruckus Society](http://www.ruckus.org/)
+1. [Mobilisation Lab](http://www.mobilisationlab.org/)

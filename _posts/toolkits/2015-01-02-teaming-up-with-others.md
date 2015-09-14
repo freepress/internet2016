@@ -2,7 +2,7 @@
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
 title: "Teaming Up With Others "
-teaser: "How to work together with other movements to make change."
+teaser: "How to work together with other groups and movements to make change."
 categories:
 - toolkits
 icon: toolkit-icons-Team-Up3.png
@@ -10,8 +10,6 @@ icon: toolkit-icons-Team-Up3.png
 There are a lot of people working to change our world and that’s great — we need it. From time to time we’ll find ourselves doing similar work in similar spaces with other movement leaders. That gives us an opportunity to work together toward our shared goals of making change.
 
 Here are some <a href="#collaborate">tips on how to collaborate with others</a>.
-
-One of the most visible movements today is the movement for black lives. Activists are pressuring candidates to speak out and we will likely be doing similar work in similar spaces.
 
 We believe that it’s impossible to achieve any kind of social justice without first addressing and dismantling systemic racism. Here is the [Free Press Action Fund’s statement in support of #BlackLivesMatter](http://internet2016.net/blog/we-stand-blacklivesmatter).
 

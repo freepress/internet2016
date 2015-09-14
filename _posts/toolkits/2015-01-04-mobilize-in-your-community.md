@@ -11,7 +11,6 @@ icon: toolkit-icons-Mobilize.png
  1. <a href="#visibility">Stage an action with friends in a high-traffic location.</a>
  1. <a href="#party">Throw a party</a>: Distribute info and make plans for action.
  1. Decorate. Put out a lawn sign and slap a bumper sticker on your car, water bottle, laptop, etc. <a href="mailto:info@freepress.net?subject=Internet 2016 materials inquiry">Email us</a> and we’ll get you some materials.
- 1. [Donate](https://act.freepress.net/donate/single/?source=internet2016) — and encourage others to fund the fight. The Free Press Action Fund doesn’t take a cent from business, government or political parties, so your contribution makes a big difference — and helps us stay independent.
 
 Have fun! <a href="mailto:info@freepress.net?subject=Internet 2016 planning support">Let us know</a> what you’re planning and we’ll do our best to provide support.
 

@@ -19,7 +19,7 @@ Candidates running for office need to hear your voice and your opinions about me
 
 Share on Facebook, Twitter or Instagram with the tag #InternetVoter or #Internet2016.
 
-Don't do social media? <a href="mailto:info@freepress.net?subject=Share your story submission">Email us</a> your story and we'll share it!
+Don't do social media? <a href="mailto:info@freepress.net?subject=Share your story submission">Email us</a> your story!
 
 <script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
 <link href="//assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />

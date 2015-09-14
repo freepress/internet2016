@@ -7,7 +7,7 @@ categories:
 - toolkits
 icon: toolkit-icons-Take-Action.png
 ---
-1. <a href="http://internet2016.net/#pledge">Become an #InternetVoter.</a>
+1. Become an #InternetVoter. <a href="http://internet2016.net/#pledge">Take the pledge.</a>
 1. <a href="#story">Share your story.</a> Why does the Internet matter to you?
 1. Engage your networks on <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//internet2016.net/" TARGET="_blank">Facebook</a> and <a href="https://twitter.com/home?status=Calling%20all%20hashtaggers,%20retweeters,%20uploaders,%20organizers%20%26%20voters!%20Take%20the%20pledge%3A%20Become%20an%20%23InternetVoter%3A%20http%3A//internet2016.net/" TARGET="_blank">Twitter</a>.
 1. Stay up to date via [our blog.](http://www.internet2016.net/blog)

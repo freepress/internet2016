@@ -26,6 +26,6 @@ The architecture of the open Internet by design resists government and corporate
 
 <sub><a name="3">3</a>. *Joe MacNamee, “[The Slide from ‘Self-Regulation’ to Corporate Censorship](https://edri.org/files/EDRI_selfreg_final_20110124.pdf),” Brussels: European Digital Rights (EDRi), 2010. ALSO: Timothy Karr, “[Your Rights: Gone with a Click](http://www.huffingtonpost.com/timothy-karr/your-rights-gone-with-a-c_b_3784720.html),” Huffington Post, Aug. 20, 2013.*</sub>
 
-<sub><a name="4">4</a>. For more on “intermediary liability,” see the online resources at the [Stanford Center for Internet and Society](http://cyberlaw.stanford.edu/focus-areas/intermediary-liability). 
+<sub><a name="4">4</a>. *For more on “intermediary liability,” see the online resources at the [Stanford Center for Internet and Society](http://cyberlaw.stanford.edu/focus-areas/intermediary-liability).*
 
 <sub><a name="5">5.</a> *See the online resources on the right to record at the [American Civil Liberties Union](http://www.aclupa.org/issues/policepractices/your-right-record-and-observe-police/taking-photos-video-and-audio/) (ACLU), the [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2015/04/police-must-respect-right-citizens-record-them) (EFF) and [Free Press](http://www.freepress.net/blog/2015/04/17/your-right-record-protected-law-disrespected-law-enforcement).*</sub>

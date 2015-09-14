@@ -78,20 +78,12 @@ The best questions will come from you, so we encourage you to come up with your 
 
 **Here are a few questions to help you brainstorm your own:**
 
-Phone and cable companies claim they have the right to censor Internet users. What will you do to stop them?
-
-Nearly 30 percent of U.S. households don’t have high-speed Internet. What will you do to ensure access for everyone?
-
-Some members of Congress are trying to kill the FCC’s Net Neutrality rules. How will you safeguard these protections?
-
-What will you do to make Internet access more affordable?
-
-Companies like Comcast and Charter would rather kill off their competitors than invest in their networks and better serve their customers. What will you do to change this?
-
-People need the Internet to participate in our economy and our democracy. How will you expand Internet access to underserved communities?
-
-The Internet is an essential tool for public discourse in an election year. What will you do to preserve free speech online?
-
-Building a fast, open and affordable Internet is necessary to bridging the digital divide. What steps will you take to connect more people?
-
-Voices silenced in the mainstream media can be heard online. What will you do to ensure the Internet remains free and open?
+ 1. Phone and cable companies claim they have the right to censor Internet users. What will you do to stop them?
+ 1. Nearly 30 percent of U.S. households don’t have high-speed Internet. What will you do to ensure access for everyone?
+ 1. Some members of Congress are trying to kill the FCC’s Net Neutrality rules. How will you safeguard these protections?
+ 1. What will you do to make Internet access more affordable?
+ 1. Companies like Comcast and Charter would rather kill off their competitors than invest in their networks and better serve their customers. What will you do to change this?
+ 1. People need the Internet to participate in our economy and our democracy. How will you expand Internet access to underserved communities?
+ 1. The Internet is an essential tool for public discourse in an election year. What will you do to preserve free speech online?
+ 1. Building a fast, open and affordable Internet is necessary to bridging the digital divide. What steps will you take to connect more people?
+ 1. Voices silenced in the mainstream media can be heard online. What will you do to ensure the Internet remains free and open?

@@ -2,7 +2,7 @@
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
 title: "Teaming Up With Others "
-teaser: "How to work together with other movements to make change."
+teaser: "How to work together with other groups and movements to make change."
 categories:
 - toolkits
 icon: toolkit-icons-Team-Up3.png

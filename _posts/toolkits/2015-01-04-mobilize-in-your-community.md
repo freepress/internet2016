@@ -20,7 +20,7 @@ Have fun! <a href="mailto:info@freepress.net?subject=Internet 2016 planning supp
 
 **Why Do Letters to the Editor Matter?**
 
-Money carries a lot of weight in Washington, but there’s a more powerful tool for creating change: your story. The more we tell our stories, the more we inspire people to join our cause.
+Money carries a lot of weight in Washington, but there’s a powerful way to counteract it: telling your story. The more we tell our stories, the more we inspire people to join our cause.
 
 And the best stories are the ones that articulate how issues impact us personally. One of the most useful ways to get your story out in the world is to write a letter to the editor of your local paper. Policymakers, candidates for office and their staffs read these letters to get a sense of what their constituents care about. These letters also sway editorial boards and journalists and help raise awareness in the community.
 

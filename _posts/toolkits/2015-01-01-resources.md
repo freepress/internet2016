@@ -24,5 +24,5 @@ Here are some other excellent resources. Check them out and share them with your
 **Ideas for activism:**
 
 1. [Beautiful Trouble](http://beautifultrouble.org/)
-1. [Rukus Society](http://www.ruckus.org/)
+1. [Ruckus Society](http://www.ruckus.org/)
 1. [Mobilisation Lab](http://www.mobilisationlab.org/)

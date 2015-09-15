@@ -97,12 +97,13 @@ footer ul {
   width: 100%;
   text-transform: uppercase;
   padding: 20px;
-  background-color: #663399;
-  border-color: #fff;
+  background-color: #FFFF00;
+  border-color: #FFFF00;
+  color: #663399;
 }
 
 #call-to-action button:hover {
-  background-color: #8c53c6;
+  background-color: #EBEB00;
 }
 
 #featured a.btn {

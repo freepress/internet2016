@@ -505,3 +505,11 @@ main {
 #privacy-policy-text a, #privacy-policy-text a:link, #privacy-policy-text a:visited {
   color:#FFFF00;
 }
+
+#footer-donate-link a, #footer-donate-link a:link, #footer-donate-link a:visited {
+    color:#FFFF00;
+    text-decoration: none;
+}
+#footer-donate-link a:hover {
+    text-decoration: underline;
+}

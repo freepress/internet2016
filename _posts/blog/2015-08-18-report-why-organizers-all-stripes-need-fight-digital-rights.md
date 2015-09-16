@@ -2,7 +2,7 @@
 layout: blogpost_single
 headerimg: blog-organizers.jpg
 title: "Report: Why Organizers of All Stripes Need to Fight for Digital Rights"
-teaser: "A must-read report from our friends at the Center for Media Justice poses a provocative question about this phenomenon: “Is the Internet building power for social change? Or helping maintain the status quo?"
+teaser: "A must-read report from our friends at the Center for Media Justice poses a provocative question: “Is the Internet building power for social change? Or helping maintain the status quo?"
 thumbnail: thumbnail-blog-protest.svg
 author: <strong>Amy Kroin</strong>
 publish_date: <strong>Aug. 18, 2015</strong>

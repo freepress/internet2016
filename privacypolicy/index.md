@@ -51,7 +51,7 @@ ActionKit strictly adheres to policies preventing unauthorized access to your pe
 
 Free Press Action Fund is committed to maintaining the trust and security of all financial supporters. We collect personal information including the email and mailing addresses that members and donors provide. We might use this information for online and print mailings to keep you informed about our programs and occasionally to ask for additional financial support. You may opt out of these communications at any time.
 
-To opt out of email communication, [click here](http://act2.freepress.net/unsubscribe/unsubscribe_freepress/).
+To opt out of email communication, [click here](http://act.freepress.net/unsubscribe/unsubscribe_fpaf/).
 
 To opt out of print mailings, please call us at 413-585-1533 or email Rachel Courtney.
 

@@ -2,7 +2,7 @@
 layout: toolkit_single
 headerimg: subhead_image_Yellow.png
 title: "Resources"
-teaser: "Looking for more on media and tech policy and ideas for activism? Check these out."
+teaser: "Looking for info on media/tech policy and ideas for activism? Check these out."
 categories:
 - toolkits
 icon: toolkit-icon-resources3.png

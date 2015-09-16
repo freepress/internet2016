@@ -15,9 +15,7 @@ We believe that it’s impossible to achieve any kind of social justice without 
 
 ***
 
-## <a name="collaborate"></a>How to be a Good Partner
-
-From time to time we’ll find ourselves doing similar work in similar spaces with other movement leaders. That gives us an opportunity to work together toward our shared goals of making change.
+## <a name="collaborate"></a>How to Be a Good Partner
 
 Here are some best practices for being a good partner:
 

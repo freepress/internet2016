@@ -12,7 +12,6 @@ Candidates running for office need to hear from you. Telling them what’s impor
 Check out these ways to make your voice heard:
 
  1. <a href="#ask">Ask a question at the next event you go to.</a>
- 1. <a href="#meet">Set up an in-person meeting.</a>
  1. Call the candidates’ offices and tell them what you think.
 
 ***
@@ -37,38 +36,6 @@ Here are the steps you need to take to ask a candidate a question:
  1. **Determine your next steps.** Promote the photos and video via social media. Make plans to ask the same question or a related one at the next event.
 
 If you need help or have any questions, please feel free to email us at <a href="mailto:info@freepress.net">info@freepress.net</a>. We’re happy to help out!
-
-***
-
-## <a name="meet"></a>How to Schedule a Meeting with the Candidates
-
-**Set Up Your Meeting**
-
- 1. Reach out to your local campaign office and ask for a meeting to discuss Internet issues.
- 1. Follow up with the office within three days to confirm they got your request.
- 1. Create a list of 5–10 people you can invite to join you at this meeting and email them within five days.
- 1. Confirm your meeting with the office and <a href="mailto:info@freepress.net">tell us it’s happening</a>. If needed, send a follow-up request to the office and confirm with us as soon as you’ve got a date.
- 1. Review our [issue briefs](http://internet2016.net/policyplatform/) about free speech, access, choice, privacy and openness. Share them with your invitees.
-
-**Prepare Your Attendees**
-
-Plan a preparation meeting with your fellow participants. This should take place the day before your meeting with the office: 
-
- 1. Ask each person to play a role during the meeting with the candidate’s office. Identify a note taker and picture taker. Ask someone to print and bring materials to leave behind with the office. Ask one person to begin the meeting and introduce the issues at hand.
- 1. Identify a pre-meeting location with your invitees and exchange phone numbers.
- 1. Email your attendees to confirm the date, time and meeting location as well as the roles that everyone signed up for. Send this email right after your preparation meeting.
-
-**Go to the Meeting**
-
-1. Arrive at the meeting location 15 minutes before your scheduled meeting time. Gather with other attendees and enter the meeting together.
-1. Tell your story in the meeting. Make sure everyone has enough time to speak. Take lots of photos, including a group one of everyone assembled.
-1. After the meeting, ask everyone to share notes, photos and reflections with each other over email. <a href="mailto:info@freepress.net">Share this info with us</a>.
-1. Send a thank-you note to the person you met with and thank your attendees for joining you.
-
-**After the Meeting**
-
- 1. Celebrate! You just urged a candidate to become a champion for your rights to connect and communicate.
- 1. <a href="mailto:info@freepress.net">Follow up with us</a> if you have any questions.
 
 ***
 

@@ -11,8 +11,8 @@ Candidates running for office need to hear from you. Telling them what’s impor
 
 Check out these ways to make your voice heard:
 
- 1. <a href="#meet">Set up an in-person meeting.</a>
  1. <a href="#ask">Ask a question at the next event you go to.</a>
+ 1. <a href="#meet">Set up an in-person meeting.</a>
  1. Call the candidates’ offices and tell them what you think.
 
 ***

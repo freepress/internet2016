@@ -20,7 +20,7 @@ These activists are among the millions of people who took Washington to task and
 
 Now they want to know who among the presidential contenders will stand up for their rights to connect and communicate. They want policies that promote free speech, access, choice, privacy and openness online. 
 
-I recently had the opportunity to talk with some activists from Iowa and New Hampshire. **Check out their inspiring words below:**
+I recently had the opportunity to talk with some activists from Iowa and New Hampshire. **Here's what they had to say:**
 
 “Access to the Internet is essential for my work with a tiny nonprofit in rural Iowa,” said Iowa resident Cherie. “I also use the Internet to promote my art. I’m lucky enough to have a local cooperative phone company that provides fiber, but overall access in the state is like Swiss cheese — whether you get connected depends on where you live.” 
 

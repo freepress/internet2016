@@ -25,21 +25,21 @@ Check out these ways to make your voice heard:
  1. Follow up with the office within three days to confirm they got your request.
  1. Create a list of 5–10 people you can invite to join you at this meeting and email them within five days.
  1. Confirm your meeting with the office and <a href="mailto:info@freepress.net">tell us it’s happening</a>. If needed, send a follow-up request to the office and confirm with us as soon as you’ve got a date.
- 1. Review our [issue briefs](LINKTK) about free speech, access, privacy, choice and openness. Share them with your invitees.
+ 1. Review our [issue briefs](http://internet2016.net/policyplatform/) about free speech, access, choice, privacy and openness. Share them with your invitees.
 
 **Prepare Your Attendees**
 
-Plan a preparation meeting with your fellow participants. This should take place the day before your meeting with the office. During the meeting:
+Plan a preparation meeting with your fellow participants. This should take place the day before your meeting with the office: 
 
- 1. Ask each person to play a role during the meeting with the candidate’s office. Identify a note taker and picture taker. Ask someone to print and bring the issue briefs to leave behind with the office. Ask one person to begin the meeting and introduce the issues at hand.
+ 1. Ask each person to play a role during the meeting with the candidate’s office. Identify a note taker and picture taker. Ask someone to print and bring materials to leave behind with the office. Ask one person to begin the meeting and introduce the issues at hand.
  1. Identify a pre-meeting location with your invitees and exchange phone numbers.
  1. Email your attendees to confirm the date, time and meeting location as well as the roles that everyone signed up for. Send this email right after your preparation meeting.
 
-**Go To the Meeting**
+**Go to the Meeting**
 
 1. Arrive at the meeting location 15 minutes before your scheduled meeting time. Gather with other attendees and enter the meeting together.
 1. Tell your story in the meeting. Make sure everyone has enough time to speak. Take lots of photos, including a group one of everyone assembled.
-1. After the meeting, ask everyone to share notes, photos and reflections with each other over email. <a href="mailto:info@freepress.net">Share this info with us</a>
+1. After the meeting, ask everyone to share notes, photos and reflections with each other over email. <a href="mailto:info@freepress.net">Share this info with us</a>.
 1. Send a thank-you note to the person you met with and thank your attendees for joining you.
 
 **After the Meeting**

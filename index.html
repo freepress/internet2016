@@ -21,20 +21,26 @@ layout: default
         </p>
         <p>
           <h1><font color="#FFFF00">The Pledge</p></h1>
-          <p>I’m an Internet voter. I stand for free speech, access, choice, privacy and openness online. I want all candidates for office to support these principles and create meaningful policies to protect them.</font>
+          <p>I’m an Internet voter. I stand for free speech, access, privacy, choice and openness online. I want all candidates for office to support these principles and create meaningful policies to protect them.</font>
         </p>
       </div>
 
       <div class="col-sm-6">
-      <form name="act" method="POST" action="http://act.freepress.net/act/" accept-charset="utf-8">
-    	<input type="hidden" name="page" value="Internet2016_pledge">
+      <div id="signup-replacement" style="display:none;" class="text-center">
+        <h2>Thanks for signing the pledge!</h2>
+        <img src="{{site.img_dir}}high-fives.png" class="img-responsive" alt="" style="margin:auto;" />
+      </div>
+
+      <form class="actionkit-widget" name="signup" action="http://act.freepress.net/act/" onsubmit="this.submitted=1;return false">
+
+      <input type="hidden" name="page" value="Internet2016_pledge">
     	<input type="hidden" name="lists" value="1" />
     	<input type="hidden" name="utf8" value="&#x2714;">
     	<input type="hidden" name="country" value="United States">
 
 	     <input type="text" name="email" id="id_email" placeholder="Email" class="input-lg" value="" required><br><br>
         <input type="text" name="zip" id="id_zip" placeholder="ZIP Code"  class="input-lg" value="" required><br><br>
-<input type="checkbox" name="user_internet2016_sticker" id="id_user_internet2016_sticker_yes" value="yes"> <label for="id_user_internet2016_sticker_yes">I want a free sticker.</label> <br>
+        <input type="checkbox" name="user_internet2016_sticker" id="id_user_internet2016_sticker_yes" value="yes"> <label for="id_user_internet2016_sticker_yes">I want a free sticker.</label> <br>
 
 
         <div id="form-more-info">
@@ -124,14 +130,14 @@ layout: default
           What Internet Voters Want
         </h2>
         <p class="featured-teaser">
-          Free speech, access, choice, privacy and openness. Find out more about what Internet voters want.
+          Free speech, access, privacy, choice and openness. Find out more about what Internet voters want.
         </p>
 	<a href="{{site.baseurl}}/policyplatform" class="btn btn-block btn-lg btn-default">Read the platform</a>
       </div>
 
       <div class="col-sm-4">
         <div class="text-center">
-          <a href="{{site.baseurl}}/toolkits/educate-the-candidates">
+          <a href="{{site.baseurl}}/toolkits/educate-the-candidates/#ask">
             <img src="{{site.baseurl}}{{site.img_dir}}front-page-heart-02.png" alt="" />
           </a>
         </div>
@@ -141,7 +147,7 @@ layout: default
         <p class="featured-teaser">
           Internet voters are showing up at candidate appearances to ask tough questions. You can too.
         </p>
-        <a href="{{site.baseurl}}/toolkits/educate-the-candidates" class="btn btn-block btn-lg btn-default">Check out the guide</a>
+        <a href="{{site.baseurl}}/toolkits/educate-the-candidates/#ask" class="btn btn-block btn-lg btn-default">Check out the guide</a>
       </div>
 
       <div class="col-sm-4">
@@ -170,3 +176,6 @@ layout: default
     <a href="https://twitter.com/{{site.socialmedia.twitter}}" target="_blank"><span class="twitter-icon"></span></a>
   </div>
 </section>
+
+
+<script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}action-kit-ajax.js"></script>

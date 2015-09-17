@@ -37,7 +37,7 @@ There are a number of ways to subscribe to the Free Press Action Fund's electron
 
 You may unsubscribe from any of our lists at any time. If you wish to update your information, delete or otherwise make changes to your relationship with us, or remove yourself entirely from our list(s), [click here](http://act.freepress.net/unsubscribe/unsubscribe_fpaf/).
 
-Lists Free Press Action Fund maintains for electronic mailings are exclusively “opt-in” lists. We do not purchase information from third-party sources or gather personal data from the Web (known as spidering) for inclusion in our email lists.
+Lists the Free Press Action Fund maintains for electronic mailings are exclusively “opt-in” lists. We do not purchase information from third-party sources or gather personal data from the Web (known as spidering) for inclusion in our email lists.
 
 **Online Activism**
 

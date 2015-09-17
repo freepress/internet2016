@@ -78,7 +78,7 @@ Parties are great ways to meet like-minded people, educate folks who are new to 
 
 Here are some tips for hosting your own gathering:
 
- 1. **Find a hook: then pick a date, time and place.** Look for a good opportunity to bring people together, like a debate or a political forum. Once you’ve got that figured out, <a href="mailto:info@freepress.net?subject=Internet 2016 event details">share your event details with us</a>. We’ll let you know if we can help you publicize your event.
+ 1. **Find a hook; then pick a date, time and place.** Look for a good opportunity to bring people together, like a debate or a political forum. Once you’ve got that figured out, <a href="mailto:info@freepress.net?subject=Internet 2016 event details">share your event details with us</a>. We’ll let you know if we can help you publicize your event.
 
  1. **Invite people and play host.** Invite 10 people you want to connect with. Keep a list of the folks you invite so you can track who’s coming — and follow up with them later.
 

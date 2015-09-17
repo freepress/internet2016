@@ -37,7 +37,7 @@ There are a number of ways to subscribe to the Free Press Action Fund's electron
 
 You may unsubscribe from any of our lists at any time. If you wish to update your information, delete or otherwise make changes to your relationship with us, or remove yourself entirely from our list(s), [click here](http://act.freepress.net/unsubscribe/unsubscribe_fpaf/).
 
-Lists Free Press Action Fund maintains for electronic mailings are exclusively “opt-in” lists. We do not purchase information from third-party sources or gather personal data from the Web (known as spidering) for inclusion in our email lists.
+Lists the Free Press Action Fund maintains for electronic mailings are exclusively “opt-in” lists. We do not purchase information from third-party sources or gather personal data from the Web (known as spidering) for inclusion in our email lists.
 
 **Online Activism**
 
@@ -53,9 +53,9 @@ The Free Press Action Fund is committed to maintaining the trust and security of
 
 To opt out of email communication, [click here](http://act.freepress.net/unsubscribe/unsubscribe_fpaf/).
 
-To opt out of print mailings, please call us at 413-585-1533 or email Rachel Courtney.
+To opt out of print mailings, please call us at 413-585-1533 or email <a href="mailto:rcourtney@freepress.net">Rachel Courtney</a>.
 
-On occasion, the Free Press Action Fund sends messages on behalf of other reputable organizations when we believe such messages may be of value to our members and supporters. Our ability to send you these messages on behalf of other entities helps us build our membership base and further the movement for your rights to connect and communicate. If you do not wish to receive such messages from our allied or aligned organizations, please call us at 413-585-1533 or email Rachel Courtney. The Free Press Action Fund is not responsible for the privacy practices or the content produced or provided by any of these other entities.
+On occasion, the Free Press Action Fund sends messages on behalf of other reputable organizations when we believe such messages may be of value to our members and supporters. Our ability to send you these messages on behalf of other entities helps us build our membership base and further the movement for your rights to connect and communicate. If you do not wish to receive such messages from our allied or aligned organizations, please call us at 413-585-1533 or email <a href="mailto:rcourtney@freepress.net">Rachel Courtney</a>. The Free Press Action Fund is not responsible for the privacy practices or the content produced or provided by any of these other entities.
 
 All financial data is collected via a secure Web connection, and is stored or transmitted using appropriate security measures at all times.
 

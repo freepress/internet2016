@@ -24,19 +24,19 @@ Here are some ideas to get you started."
 
       {% for post in site.categories['toolkits'] %}
       {% assign oddeven = forloop.index | modulo:2 %}
-	{% if oddeven == 0 %}
-	  <div class="row">
-	    <div class="col-sm-1">
-	    </div>
+
+  {% if oddeven != 0 %}
+  <div class="row">
+
 	{% endif %}
 
-	    <div class="col-sm-2 toolkit-list-icons">
+	    <div class="col-sm-3">
 	{% if post.redirect_override != null %}
 	<a href="{{site.baseurl}}/{{post.redirect_override}}">
 	{% else %}
 	<a href="{{site.baseurl}}{{ post.url }}">
 	{% endif %}
-		   <img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="pull-left img-responsive hidden-xs" />
+		   <img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="toolkits-image-preview img-responsive" />
 		</a>
 	    </div>
 	    <div class="col-sm-3">

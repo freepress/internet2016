@@ -315,7 +315,7 @@ footer h1 {
   padding-top:2%
 }
 
-.bloglist-image-preview {
+.bloglist-image-preview, .toolkits-image-preview {
   width: 150px;
   padding-top: 10px;
   margin: 0 auto;

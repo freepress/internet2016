@@ -318,6 +318,7 @@ footer h1 {
 .bloglist-image-preview {
   width: 150px;
   padding-top: 10px;
+  margin: 0 auto;
 }
 
 .bloglist-posts {

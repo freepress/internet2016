@@ -77,16 +77,20 @@
   </footer>
   <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}modernizr-2.6.2.min.js"></script>
   <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}jquery.min.js"></script>
+  <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}jquery.lazyload.min.js"></script>
   <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}actionkit.js"></script>
   <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}bootstrap.min.js"></script>
   <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}misc-internet2016.js"></script>
-  <script src="{{site.url}}{{site.baseurl}}{{site.js_dir}}jquery.lazyload.min.js"></script>
 
-  <!-- trigger action kit form -->
-  <!-- <script type="text/javascript">
-  actionkit.forms.contextRoot = 'http://act.freepress.net/act/';
-  actionkit.forms.initPage(); actionkit.forms.initForm('act')
-  </script> -->
+
+  <script type="text/javascript">
+  // This loads the images after load, with a fade-in effect.
+  $(document).ready(function () {
+    $('.lazy').lazyload({
+      effect : "fadeIn"
+    });
+  });
+  </script>
 
       <!-- Piwik -->
       <script type="text/javascript">

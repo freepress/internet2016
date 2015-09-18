@@ -124,8 +124,8 @@ footer ul {
   #title-bar h1 {
     font-size: 5em;
   }
-  #featured button {
-    font-size: 1.2em;
+  #featured a {
+    font-size: 1em;
   }
   #call-to-action button {
     font-size: 1.6em;
@@ -136,8 +136,8 @@ footer ul {
   #title-bar h1 {
     font-size: 6em;
   }
-  #featured button {
-    font-size: 1.2em;
+  #featured a {
+    font-size: 0.80em;
   }
   #call-to-action button {
     font-size: 2em;
@@ -149,7 +149,7 @@ footer ul {
     font-size: 8em;
   }
 
-  #featured button {
+  #featured a {
     font-size: 1.6em;
   }
   #call-to-action button {
@@ -161,7 +161,7 @@ footer ul {
   #title-bar h1 {
     font-size: 9em;
   }
-  #featured button {
+  #featured a {
     font-size: 2em;
   }
   #call-to-action button {
@@ -517,5 +517,5 @@ main {
 }
 
 #featured img {
-  margin: 0 auto;  
+  margin: 0 auto;
 }

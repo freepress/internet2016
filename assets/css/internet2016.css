@@ -125,10 +125,10 @@ footer ul {
     font-size: 4em;
   }
   #featured a {
-    font-size: 1em;
+    font-size: .8em;
   }
   #call-to-action button {
-    font-size: .80em;
+    font-size: 1em;
   }
 
 }

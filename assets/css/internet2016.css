@@ -75,7 +75,7 @@ footer a, footer a:link, footer a:visited {
 }
 
 footer {
-  padding: 40px;
+  padding: 2%;
   background-color: #663399;
   color: #fff;
 }
@@ -514,4 +514,8 @@ main {
 }
 #footer-donate-link a:hover {
     text-decoration: underline;
+}
+
+#featured img {
+  margin: 0 auto;  
 }

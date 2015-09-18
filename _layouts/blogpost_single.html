@@ -8,9 +8,11 @@ layout: default
 
   <section id="blog-post-single">
 
-    <div class="container">
+    <div class="container-fluid">
       {% if page.headerimg %}
-      <img class="bloglist-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}{{page.headerimg}}" />
+      <p>
+        <img class="bloglist-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}{{page.headerimg}}" />
+      </p>
       {% endif %}
 
       <section>

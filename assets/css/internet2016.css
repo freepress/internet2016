@@ -120,19 +120,20 @@ footer ul {
   background-color: #FFFFB1;
 }
 
-@media(max-width:767px){
+@media (max-width:767px){
   #title-bar h1 {
-    font-size: 5em;
+    font-size: 4em;
   }
   #featured a {
     font-size: 1em;
   }
   #call-to-action button {
-    font-size: 1.6em;
+    font-size: 1em;
   }
 
 }
-@media(min-width:768px){
+
+@media (min-width:768px) {
   #title-bar h1 {
     font-size: 6em;
   }
@@ -144,7 +145,7 @@ footer ul {
   }
 
 }
-@media(min-width:992px){
+@media (min-width:992px){
   #title-bar h1 {
     font-size: 8em;
   }
@@ -157,7 +158,7 @@ footer ul {
   }
 
 }
-@media(min-width:1200px){
+@media (min-width:1200px) {
   #title-bar h1 {
     font-size: 9em;
   }
@@ -168,7 +169,6 @@ footer ul {
     font-size: 3em;
   }
 }
-
 #spread-the-word > h1 {
   text-transform: uppercase;
   font-size: 4em;

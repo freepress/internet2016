@@ -16,9 +16,9 @@ layout: default
     {% for post in site.categories['policy_platform'] %}
 
     <section id="{{post.slug | slugify}}">
-      <section class="policy-big-img-heading text-center"  style="padding-top:12em;background: url('{{site.baseurl}}{{site.img_dir}}{{post.headerimg}}') no-repeat #383838;background-size: cover;background-position:center;" class="text-center">
-	<h1>{{post.title}}</h1>
-	<h1 style="padding-top:1em;"> <span class="chevron-down"></span> </h1>
+      <section class="policy-big-img-heading text-center lazy" data-original="{{site.baseurl}}{{site.img_dir}}{{post.headerimg}}"  style="padding-top:12em;background: url('{{site.baseurl}}{{site.img_dir}}grey.gif') no-repeat #383838;background-size: cover;background-position:center;" class="text-center">
+  	    <h1>{{post.title}}</h1>
+  	    <h1 style="padding-top:1em;"> <span class="chevron-down"></span> </h1>
       </section>
 
 
@@ -42,4 +42,14 @@ layout: default
     </section><!-- "policy-section" -->
 
     {% endfor %}
+
   </main>
+
+  <script type="text/javascript">
+  // This loads the images after load, with a fade-in effect.
+  $(document).ready(function () {
+    $('.lazy').lazyload({
+      effect : "fadeIn"
+    });
+  });
+  </script>

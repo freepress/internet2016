@@ -19,8 +19,7 @@ Workshop participants spanned a range of ages and backgrounds, but they all want
 <figure>
   <img src='http://internet2016.net/assets/img/blog-iowa-workshop2.jpg' alt='Iowa workshop' />
   <figcaption>Free Press Action Fund Field Director Mary Alice Crim discusses the Internet 2016 campaign with workshop participants.</figcaption></figure>
-
-
+<br>
 One highlight was meeting Trish Nelson, a Free Press Action Fund member and superstar organizer who's fought for the public interest on various media and technology issues for years. She identifies media reform as her number-one priority. 
 
 We're bringing the Internet 2016 campaign to Iowa and New Hampshire for two reasons. First, we want to connect folks who live near each other and encourage them to plan local actions. Second, we hope that focusing our ground game in states that presidential candidates are visiting will enable us to talk with them about Internet issues. We want to encourage them to advance the principles - free speech, access, choice, privacy and openness - that are key to maintaining the Internet we know and love.
@@ -29,11 +28,11 @@ Our workshop last week focused on bird-dogging, which means following candidates
 
 Here are some comments from workshop participants about what they learned:
 <blockquote>
-<em>We're more likely to be heard if we prepare and agree to keep asking the same questions until we get real answers.</em>
+<p><em>We're more likely to be heard if we prepare and agree to keep asking the same questions until we get real answers.</em></p>
 
-<em>Keep questions to candidates short; this will help candidates focus and prevent the media from being able to edit or manipulate what we're saying.</em>
+<p><em>Keep questions to candidates short; this will help candidates focus and prevent the media from being able to edit or manipulate what we're saying.</em></p>
 
-<em>Ask specific questions to make it harder for candidates to get off track and avoid answering you.</em>
+<p><em>Ask specific questions to make it harder for candidates to get off track and avoid answering you.</em></p>
 </blockquote>
 Our members and allies in Iowa are already making plans to team up and bird-dog candidates at upcoming events. My colleagues Mary Alice Crim and Lucia Martinez are reaching out to our members in New Hampshire to invite them to a similar workshop in Manchester. Folks in New England can RSVP for the Manchester workshop <a href="mailto:lmartinez@freepress.net?subject=New%20Hampshire%20Bird-Dog%20Workshop">here</a>.
 

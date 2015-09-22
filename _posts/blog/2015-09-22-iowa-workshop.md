@@ -33,7 +33,7 @@ Here are some comments from workshop participants about what they learned:
 
 <em>Ask specific questions to make it harder for candidates to get off track and avoid answering you.</em>
 
-Our members and allies in Iowa are already making plans to team up and bird-dog candidates at upcoming events. My colleagues Mary Alice Crim and Lucia Mart’nez are reaching out to our members in New Hampshire to invite them to a similar workshop in Manchester. Folks in New England can RSVP for the Manchester workshop <a href="mailto:lmartinez@freepress.net?subject=New%20Hampshire%20Bird-Dog%20Workshop">here</a>.
+Our members and allies in Iowa are already making plans to team up and bird-dog candidates at upcoming events. My colleagues Mary Alice Crim and Lucia Martinez are reaching out to our members in New Hampshire to invite them to a similar workshop in Manchester. Folks in New England can RSVP for the Manchester workshop <a href="mailto:lmartinez@freepress.net?subject=New%20Hampshire%20Bird-Dog%20Workshop">here</a>.
 
 During a strategy session, local resident Mike Carberry, who's been bird-dogging candidates in Iowa for over a decade, made the following observation about our work:
 

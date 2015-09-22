@@ -12,10 +12,10 @@ categories:
 ---
 Today is National Voter Registration Day. It should be a national holiday (as should Election Day). But since it isn't, I will urge you to do what this day is meant for: Register to vote. 
 
-The next administration will make huge decisions about the future of the Internet. If we want to see policies enacted that promote free speech, access, choice, privacy and openness, we need to make sure that all the candidates know how critical these issues are. And that means they need to know that real people Ñ and real voters Ñ stand behind them. 
+The next administration will make huge decisions about the future of the Internet. If we want to see policies enacted that promote free speech, access, choice, privacy and openness, we need to make sure that all the candidates know how critical these issues are. And that means they need to know that real people - and real voters - stand behind them. 
 
 If you haven't registered to vote there's no time like the present. You can use Rock The Vote's tool below to get yourself registered and ready for Election Day. 
-&nbsp; &nbsp; 
+
 <iframe src="https://register.rockthevote.com/?partner=30141&source=iframe" width="100%" height="1200" marginheight="0" frameborder="0"></iframe>
 
 <em>Original photo by Flickr user Theresa Thompson</em>

@@ -23,15 +23,15 @@ One highlight was meeting Trish Nelson, a Free Press Action Fund member and supe
 
 We're bringing the Internet 2016 campaign to Iowa and New Hampshire for two reasons. First, we want to connect folks who live near each other and encourage them to plan local actions. Second, we hope that focusing our ground game in states that presidential candidates are visiting will enable us to talk with them about Internet issues. We want to encourage them to advance the principles - free speech, access, choice, privacy and openness - that are key to maintaining the Internet we know and love.
 
-<p>Our workshop last week focused on bird-dogging, which means following candidates around and asking them questions. Workshop participants learned how to prepare cogent questions about expanding access to high-speed broadband, defending the FCCÕs Net Neutrality rules and restoring online privacy. Participants left with bird-dogging toolkits that include <a href="http://internet2016.net/toolkits/educate-the-candidates/">sample questions for candidates</a>, <a href="http://internet2016.net/">stickers</a> and copies of our <a href="http://internet2016.net/policyplatform/">Internet Policy Platform</a>, which theyÕll use to frame their questions.</p>
+Our workshop last week focused on bird-dogging, which means following candidates around and asking them questions. Workshop participants learned how to prepare cogent questions about expanding access to high-speed broadband, defending the FCC's Net Neutrality rules and restoring online privacy. Participants left with bird-dogging toolkits that include <a href="http://internet2016.net/toolkits/educate-the-candidates/">sample questions for candidates</a>, <a href="http://internet2016.net/">stickers</a> and copies of our <a href="http://internet2016.net/policyplatform/">Internet Policy Platform</a>, which theyÕll use to frame their questions.</p>
 
 Here are some comments from workshop participants about what they learned:
 
-<blockquote>We're more likely to be heard if we prepare and agree to keep asking the same questions until we get real answers.</blockquote>
+<em>We're more likely to be heard if we prepare and agree to keep asking the same questions until we get real answers.</em>
 
-Keep questions to candidates short; this will help candidates focus and prevent the media from being able to edit or manipulate what we're saying.
+<em>Keep questions to candidates short; this will help candidates focus and prevent the media from being able to edit or manipulate what we're saying.</em>
 
-Ask specific questions to make it harder for candidates to get off track and avoid answering you.
+<em>Ask specific questions to make it harder for candidates to get off track and avoid answering you.</em>
 
 Our members and allies in Iowa are already making plans to team up and bird-dog candidates at upcoming events. My colleagues Mary Alice Crim and Lucia Mart’nez are reaching out to our members in New Hampshire to invite them to a similar workshop in Manchester. Folks in New England can RSVP for the Manchester workshop <a href="mailto:lmartinez@freepress.net?subject=New%20Hampshire%20Bird-Dog%20Workshop">here</a>.
 

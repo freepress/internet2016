@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-iowa-2016-workshop.jpeg
+headerimg: blog-iowa-2016-workshop.jpg
 title: "Cultivating #InternetVoters in Iowa"
 teaser: "Last week we hit the ground running, driving through cities and alongside cornfields as we helped plant the seeds of the Internet 2016 campaign across Iowa."
 thumbnail: thumbnail-blog-iowa-corn.svg

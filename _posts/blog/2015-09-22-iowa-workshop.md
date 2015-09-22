@@ -16,8 +16,9 @@ Last week I hit the ground running as a new Free Press Action Fund employee, dri
 
 Workshop participants spanned a range of ages and backgrounds, but they all wanted to speak out on issues like access to broadband service, Net Neutrality and privacy. Participants shared an awareness of how Internet issues overlap with other social justice issues.
 
-<img src="http://internet2016.net/assets/img/blog-iowa-workshop2.jpg">
-Free Press Action Fund Field Director Mary Alice Crim discusses the Internet 2016 campaign with workshop participants.
+<figure>
+  <img src='http://internet2016.net/assets/img/blog-iowa-workshop2.jpg' alt='Iowa workshop' />
+  <figcaption>Free Press Action Fund Field Director Mary Alice Crim discusses the Internet 2016 campaign with workshop participants.</figcaption>
 
 One highlight was meeting Trish Nelson, a Free Press Action Fund member and superstar organizer who's fought for the public interest on various media and technology issues for years. She identifies media reform as her number-one priority. 
 

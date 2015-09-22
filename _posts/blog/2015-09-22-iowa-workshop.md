@@ -18,7 +18,7 @@ Workshop participants spanned a range of ages and backgrounds, but they all want
 
 <figure>
   <img src='http://internet2016.net/assets/img/blog-iowa-workshop2.jpg' alt='Iowa workshop' />
-  <figcaption>Free Press Action Fund Field Director Mary Alice Crim discusses the Internet 2016 campaign with workshop participants.</figcaption>
+  <figcaption>Free Press Action Fund Field Director Mary Alice Crim discusses the Internet 2016 campaign with workshop participants.</figcaption></figure>
 
 One highlight was meeting Trish Nelson, a Free Press Action Fund member and superstar organizer who's fought for the public interest on various media and technology issues for years. She identifies media reform as her number-one priority. 
 

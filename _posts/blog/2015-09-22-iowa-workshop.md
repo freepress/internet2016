@@ -40,4 +40,4 @@ During a strategy session, local resident Mike Carberry, who's been bird-dogging
 
 Internet freedom is one of the most important issues we can work on because it affects everything else that we're trying to make progress on, including clean energy, racial justice and economic development.
 
-Mary Alice, Lucia and I look forward to many more trips to Iowa and New Hampshire as we educate and activate #InternetVoters of all stripes. Stay tuned to this blog for updates about upcoming workshops and actions, and go to Internet2016.net to sign the Internet Voter pledge.
+Mary Alice, Lucia and I look forward to many more trips to Iowa and New Hampshire as we educate and activate #InternetVoters of all stripes. Stay tuned to this blog for updates about upcoming workshops and actions, and go to [Internet2016.net](http://internet2016.net/) to sign the Internet Voter pledge.

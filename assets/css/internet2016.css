@@ -520,3 +520,15 @@ main {
 #featured img {
   margin: 0 auto;
 }
+
+.social-sharing, .social-sharing:visited, .social-sharing:link {
+    background-color: #2AABD0;
+    display: inline-block;
+    color: #D2EBF7;
+    margin: 1%;
+    text-transform: uppercase;
+}
+.social-sharing:hover {
+    color: #fff;
+    background-color: #00C6FF;
+}

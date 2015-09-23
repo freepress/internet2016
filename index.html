@@ -22,15 +22,20 @@ layout: default
           Calling all hashtaggers, retweeters, creators, uploaders, organizers and voters! The 2016 presidential campaign is well underway and the future of the Internet is at stake. Join us and make sure your voice is heard.
         </p>
         <p>
-          <h1><font color="#FFFF00">The Pledge</p></h1>
-          <p>I’m an Internet voter. I stand for free speech, access, privacy, choice and openness online. I want all candidates for office to support these principles and create meaningful policies to protect them.</font>
+          <h1 class="yellow-font">The Pledge</h1>
+          <p class="yellow-font">
+            I’m an Internet voter. I stand for free speech, access, privacy, choice and openness online. I want all candidates for office to support these principles and create meaningful policies to protect them.
         </p>
       </div>
 
       <div class="col-sm-6">
       <div id="signup-replacement" style="display:none;" class="text-center">
         <h2>Thanks for taking the pledge!</h2>
-        <img src="{{site.img_dir}}high-fives.png" class="img-responsive" alt="" style="margin:auto;" />
+        <h3>Now go tell your friends!</h3>
+
+        <a type="button" class="btn btn-lg social-sharing" href="http://www.facebook.com/sharer.php?u={{site.fullurl}}"><span class="fb-icon-white"></span> facebook</a>
+        <a type="button" class="btn btn-lg social-sharing" href="https://twitter.com/intent/tweet?text=I%20just%20signed%20the%20%23InternetVoter%20pledge.%20Join%20me%20http%3A%2F%2FInternet2016.net%20"><span class="twitter-icon-white"></span> twitter</a>
+
       </div>
 
       <form class="actionkit-widget" name="signup" action="http://act.freepress.net/act/" onsubmit="this.submitted=1;return false">
@@ -42,8 +47,8 @@ layout: default
 
 	     <input type="text" name="email" id="id_email" placeholder="Email" class="input-lg" value="" required><br><br>
         <input type="text" name="zip" id="id_zip" placeholder="ZIP Code"  class="input-lg" value="" required><br><br>
-        <input type="checkbox" name="user_internet2016_sticker" id="id_user_internet2016_sticker_yes" value="yes"> <label for="id_user_internet2016_sticker_yes">I want a free sticker.</label> <br>
 
+        <input type="checkbox" name="user_internet2016_sticker" id="id_user_internet2016_sticker_yes" value="yes"> <label for="id_user_internet2016_sticker_yes">I want a free sticker.</label> <br>
 
         <div id="form-more-info">
           <input type="text" name="name" id="id_name" placeholder="Your Name" class="input-lg" value=""><br><br>
@@ -107,7 +112,7 @@ layout: default
             <option value="WY">Wyoming</option>
           </select>
 	        <br>
-        </div>
+        </div> <!-- end of more info section -->
 
         <button id="call-to-action-submit" name="button" class="btn btn-primary btn-lg">Sign the pledge</button>
 	<div id="privacy-policy-text">You will receive periodic updates from the Free Press Action Fund. You may unsubscribe at any time. Read <a href="{{site.baseurl}}/privacypolicy" target="_blank">our privacy policy</a>.</div>

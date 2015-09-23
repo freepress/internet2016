@@ -10,7 +10,7 @@ tags: []
 categories:
 - blog
 ---
-Today is National Voter Registration Day. It should be a national holiday (as should Election Day). But since it isn't, I will urge you to do what this day is meant for: Register to vote. 
+Today is National Voter Registration Day. (Yay!) It should be a national holiday (as should Election Day). But since it isn't, I will urge you to do what this day is meant for: Register to vote. 
 
 The next administration will make huge decisions about the future of the Internet. If we want to see policies enacted that promote free speech, access, choice, privacy and openness, we need to make sure that all the candidates know how critical these issues are. And that means they need to know that real people &mdash; and real voters &mdash; stand behind them. 
 

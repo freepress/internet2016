@@ -48,12 +48,10 @@ footer a, footer a:link, footer a:visited {
 }
 
 #title-bar {
-  background: url('../img/front_page_header_image_bw.png') no-repeat #383838;
-  background-size: cover;
   color:#FFFF00;
-  background-repeat:no-repeat;
-  background-position:center;
-  background-size: cover;
+  /*moving these to inline css so we can lazy load the background image*/
+    /*background: url('../img/front_page_header_image_bw.png') no-repeat #383838 center;
+    background-size: cover;*/
 }
 
 #title-bar h1 {

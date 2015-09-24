@@ -49,9 +49,8 @@ footer a, footer a:link, footer a:visited {
 
 #title-bar {
   color:#FFFF00;
-  /*moving these to inline css so we can lazy load the background image*/
-    /*background: url('../img/front_page_header_image_bw.png') no-repeat #383838 center;
-    background-size: cover;*/
+  background: url('../img/grey.gif') no-repeat #383838 center; /* this is a placeholder because we load the real background img inline with lazy load js */
+  background-size: cover;
 }
 
 #title-bar h1 {
@@ -174,12 +173,10 @@ footer ul {
 
 
 #blog-header-bar, #toolkit-header-bar {
-background: url('../img/subhead_image_Purple.png') no-repeat #383838;
+background: url('../img/grey.gif') no-repeat #383838 center;
 color:#FFFF00;
-background-repeat:no-repeat;
 background-size: cover;
 min-height: 350px;
-background-position:center;
 }
 
 

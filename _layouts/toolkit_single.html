@@ -9,7 +9,7 @@ layout: default
   <div class="container-fluid">
 
     {% if page.icon %}
-    <img class="toolkit-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}icons/{{page.icon}}" alt="" />
+    <img class="lazy toolkit-single-main-icon img-responsive" data-original="{{site.baseurl}}{{site.img_dir}}icons/{{page.icon}}" alt="" />
     {% endif %}
 
     <h1 class="text-center">{{page.title}}</h1>

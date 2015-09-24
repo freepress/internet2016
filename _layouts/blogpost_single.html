@@ -11,7 +11,7 @@ layout: default
     <div class="container-fluid">
       {% if page.headerimg %}
       <p>
-        <img class="bloglist-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}{{page.headerimg}}" />
+        <img class="lazy bloglist-single-main-icon img-responsive" data-original="{{site.baseurl}}{{site.img_dir}}{{page.headerimg}}" />
       </p>
       {% endif %}
 

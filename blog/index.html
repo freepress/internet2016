@@ -22,7 +22,7 @@ intro_text:
     {% for post in site.categories['blog'] %}
     <div class="row bloglist-posts">
       <div class="col-sm-2 col-sm-offset-1">
-        <img src="{{site.baseurl}}{{site.img_dir}}{{post.thumbnail}}" class="img-responsive bloglist-image-preview" />
+        <img data-original="{{site.baseurl}}{{site.img_dir}}{{post.thumbnail}}" class="lazy img-responsive bloglist-image-preview" />
       </div>
       <div class="col-sm-8">
 	<a href="{{site.baseurl}}{{ post.url }}"><h1>{{ post.title }}</h1></a>

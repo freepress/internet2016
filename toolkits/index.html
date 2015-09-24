@@ -11,7 +11,7 @@ Here are some ideas to get you started."
 <main id="toolkits-list-main" class="main-section-single">
 <div class="container-fluid">
 
-<img class="toolkit-single-main-icon img-responsive" src="{{site.baseurl}}{{site.img_dir}}icons/{{page.icon}}" alt="" />
+<img class="lazy toolkit-single-main-icon img-responsive" data-original="{{site.baseurl}}{{site.img_dir}}icons/{{page.icon}}" alt="" />
 
 <h1 class="text-center single-page-title">{{page.title}}</h1>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started."
 	{% else %}
 	<a href="{{site.baseurl}}{{ post.url }}">
 	{% endif %}
-		   <img src="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="toolkits-image-preview img-responsive" />
+		   <img data-original="{{site.baseurl}}{{site.img_dir}}icons/{{post.icon}}" class="lazy toolkits-image-preview img-responsive" />
 		</a>
 	    </div>
 	    <div class="col-sm-3">

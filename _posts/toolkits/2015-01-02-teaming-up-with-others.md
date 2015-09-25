@@ -11,7 +11,7 @@ There are a lot of people working to change our world and that’s great — we 
 
 Here are some <a href="#collaborate">tips on how to collaborate with others</a>.
 
-We believe that it’s impossible to achieve any kind of social justice without first addressing and dismantling systemic racism. Check out this statement [in support of #BlackLivesMatter](http://internet2016.net/blog/we-stand-blacklivesmatter).
+We believe that it’s impossible to achieve any kind of social justice without first addressing and dismantling systemic racism. Check out this statement [in support of #BlackLivesMatter](https://internet2016.net/blog/we-stand-blacklivesmatter).
 
 ***
 

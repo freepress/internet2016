@@ -82,7 +82,7 @@ Here are some tips for hosting your own gathering:
 
  1. **Invite people and play host.** Invite 10 people you want to connect with. Keep a list of the folks you invite so you can track who’s coming — and follow up with them later.
 
- 1. **Provide info on the Internet 2016 campaign.** Share the resources available at <a href="http://internet2016.net/">Internet2016.net</a>.
+ 1. **Provide info on the Internet 2016 campaign.** Share the resources available at <a href="https://internet2016.net/">Internet2016.net</a>.
 
  1. **Document.** Take pictures! Share them on social media with attendees after the event is over.
 

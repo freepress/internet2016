@@ -17,14 +17,14 @@ Last week I hit the ground running as a new Free Press Action Fund employee, dri
 Workshop participants spanned a range of ages and backgrounds, but they all wanted to speak out on issues like access to broadband service, Net Neutrality and privacy. Participants shared an awareness of how Internet issues overlap with other social justice issues.
 
 <figure>
-  <img src='http://internet2016.net/assets/img/blog-iowa-workshop.jpg' alt='Iowa workshop' />
+  <img src='https://internet2016.net/assets/img/blog-iowa-workshop.jpg' alt='Iowa workshop' />
   <figcaption>Free Press Action Fund Field Director Mary Alice Crim discusses the Internet 2016 campaign with workshop participants.</figcaption></figure>
 <br>
-One highlight was meeting Trish Nelson, a Free Press Action Fund member and superstar organizer who's fought for the public interest on various media and technology issues for years. She identifies media reform as her number-one priority. 
+One highlight was meeting Trish Nelson, a Free Press Action Fund member and superstar organizer who's fought for the public interest on various media and technology issues for years. She identifies media reform as her number-one priority.
 
 We're bringing the Internet 2016 campaign to Iowa and New Hampshire for two reasons. First, we want to connect folks who live near each other and encourage them to plan local actions. Second, we hope that focusing our ground game in states that presidential candidates are visiting will enable us to talk with them about Internet issues. We want to encourage them to advance the principles &mdash; free speech, access, choice, privacy and openness &mdash; that are key to maintaining the Internet we know and love.
 
-Our workshop last week focused on bird-dogging, which means following candidates around and asking them questions. Workshop participants learned how to prepare cogent questions about expanding access to high-speed broadband, defending the FCC's Net Neutrality rules and restoring online privacy. Participants left with bird-dogging toolkits that include <a href="http://internet2016.net/toolkits/educate-the-candidates/">sample questions for candidates</a>, <a href="http://internet2016.net/">stickers</a> and copies of our <a href="http://internet2016.net/policyplatform/">Internet Policy Platform</a>, which they'll use to frame their questions.
+Our workshop last week focused on bird-dogging, which means following candidates around and asking them questions. Workshop participants learned how to prepare cogent questions about expanding access to high-speed broadband, defending the FCC's Net Neutrality rules and restoring online privacy. Participants left with bird-dogging toolkits that include <a href="https://internet2016.net/toolkits/educate-the-candidates/">sample questions for candidates</a>, <a href="https://internet2016.net/">stickers</a> and copies of our <a href="https://internet2016.net/policyplatform/">Internet Policy Platform</a>, which they'll use to frame their questions.
 
 Here are some comments from workshop participants about what they learned:
 <blockquote>
@@ -40,4 +40,4 @@ During a strategy session, local resident Mike Carberry, who's been bird-dogging
 
 Internet freedom is one of the most important issues we can work on because it affects everything else that we're trying to make progress on, including clean energy, racial justice and economic development.
 
-Mary Alice, Lucia and I look forward to many more trips to Iowa and New Hampshire as we educate and activate #InternetVoters of all stripes. Stay tuned to this blog for updates about upcoming workshops and actions, and go to [Internet2016.net](http://internet2016.net/) to sign the Internet Voter pledge.
+Mary Alice, Lucia and I look forward to many more trips to Iowa and New Hampshire as we educate and activate #InternetVoters of all stripes. Stay tuned to this blog for updates about upcoming workshops and actions, and go to [Internet2016.net](https://internet2016.net/) to sign the Internet Voter pledge.

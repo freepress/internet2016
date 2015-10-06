@@ -5,7 +5,7 @@ title: "What the Internet 2016 Campaign Is All About"
 teaser: "In the battle of good vs. evil (aka people vs. mega-corporations), the people are winning."
 thumbnail: thumbnail-blog-lightbulb.svg
 author: <strong>Candace Clement and Mary Alice Crim</strong>
-publish_date: <strong>Sept. 10, 2015</strong>
+publish_date: Sept. 10, 2015
 tags: []
 categories:
 - blog

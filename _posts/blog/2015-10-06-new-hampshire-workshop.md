@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-nh-workshop-group.jpeg
+headerimg: blog-nh-workshop-group.jpg
 title: "New Hampshire Bird-Dogs for Internet Freedom"
 teaser: "Our Internet 2016 campaign took us to Manchester, N.H."
 thumbnail: thumbnail-blog-nh.svg

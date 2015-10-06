@@ -4,8 +4,8 @@ headerimg: blog-nn-protest-sign.jpg
 title: "The Year of the Internet Voter"
 teaser: "In the 1996 election it was the soccer mom. In 2004 it was the NASCAR dad.Could 2016 be the year of the Internet voter?"
 thumbnail: thumbnail-blog-voter.svg
-author: <strong>Craig Aaron</strong>
-publish_date: <strong>June 17, 2015</strong>
+author: Craig Aaron
+publish_date: June 17, 2015
 tags: []
 categories:
 - blog

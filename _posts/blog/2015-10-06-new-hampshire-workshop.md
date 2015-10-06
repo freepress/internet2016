@@ -14,7 +14,7 @@ Last week, our Internet 2016 campaign took us to Manchester, N.H., where we host
 
 The workshop attracted New Hampshirites from all walks of life. To start us out, Free Press Action Fund Field Director Mary Alice Crim introduced our Internet 2016 campaign, which aims to build champions in Washington for Internet freedom and to mobilize a movement of Internet voters around the country.
 
-<img src="http://internet2016.net/assets/img/blog-nh-workshop2.jpeg" alt='New Hampshire workshop' />
+<img src='http://internet2016.net/assets/img/blog-nh-workshop2.jpeg' alt='New Hampshire workshop' />
 
 Workshop attendees discussed the five policy principles our campaign is built on: free speech, access, choice, privacy and openness. Then we dove into some of the issues that affect our communities, like Net Neutrality, the cost of broadband access, unchecked domestic surveillance and the lack of online privacy.
 

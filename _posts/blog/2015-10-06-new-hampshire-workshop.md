@@ -14,23 +14,23 @@ Last week, our Internet 2016 campaign took us to Manchester, N.H., where we host
 
 The workshop attracted New Hampshirites from all walks of life. To start us out, Free Press Action Fund Field Director Mary Alice Crim introduced our Internet 2016 campaign, which aims to build champions in Washington for Internet freedom and to mobilize a movement of Internet voters around the country.
 
-<img src='http://internet2016.net/assets/img/blog-nh-workshop2.jpeg' alt='New Hampshire workshop' />
+blog-nh-workshop2.jpeg
 
 Workshop attendees discussed the five policy principles our campaign is built on: free speech, access, choice, privacy and openness. Then we dove into some of the issues that affect our communities, like Net Neutrality, the cost of broadband access, unchecked domestic surveillance and the lack of online privacy.
 
 Next, we moved into an interactive training in bird-dogging, the act of questioning candidates and elected officials on their policy platforms in order to change or enforce a certain position. Bird-dogging is designed to hold politicians accountable to the people they represent rather than the special interests, like Comcast, that spend millions on lobbying every year.
 
-<img src="http://internet2016.net/assets/img/blog-nh-workshop4.jpeg" alt='New Hampshire workshop' />
+blog-nh-workshop4.jpeg
 
 It turns out that bird-dogging isn't as simple as showing up to a candidate event and asking a question. It takes preparation, practice, teamwork and a little bit of acting. 
 Here are some tips for bird-dogging:
-<blockquote>
+
 &bull; Always work in pairs: Have one person ask the question and the other document it with a photo or video. (Pro tip: Hold your phone horizontally when you are recording video.)
 &bull; Dress to fit in. Whether in a barn or banquet, your chances of getting called on or snagging face time with a candidate are better if you look the part.
-&bull; Prepare your question ahead of time &mdash; do your research on the candidate's positions on Internet issues so you feel confident when you pick up the mic.</blockquote>
+&bull; Prepare your question ahead of time &mdash; do your research on the candidate's positions on Internet issues so you feel confident when you pick up the mic.
 After the workshop I had a chance to talk with a few of the attendees about their experience. "The workshop makes me want to go out there and do more," said Free Press Action Fund member Dusty Liberge. "[I want to] encourage others to do the same and know that what I am asking is pertinent not just for myself but for other people."
 
-<img src="http://internet2016.net/assets/img/blog-nh-workshop3.jpeg" alt='New Hampshire workshop' />
+blog-nh-workshop3.jpeg
 
 Dusty is right on target. As Internet voters we need to get serious about standing up for issues like Net Neutrality in the presidential election. We need to be clear about where each candidate stands on our issues and we need to convey that a failure to commit to Internet policies that are in the public's best interest will cost candidates votes.
 

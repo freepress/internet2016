@@ -4,8 +4,8 @@ headerimg: blog-black-lives-matter.jpg
 title: "We Stand With #BlackLivesMatter"
 teaser: "Here's why we stand with Black Lives Matter, and why you should too"
 thumbnail: thumbnail-blog-megaphone.svg
-author: <strong>Craig Aaron</strong>
-publish_date: <strong>Aug. 14, 2015</strong>
+author: Craig Aaron
+publish_date: Aug. 14, 2015
 tags: []
 categories:
 - blog

@@ -30,7 +30,7 @@ Dusty is right on target. As Internet voters we need to get serious about standi
 
 Our Internet 2016 campaign is all about working to ensure everyone's right to an open Internet that's affordable, accessible and nondiscriminatory. That's why we're committed to teaching people around the country to bird-dog in the months ahead.
 
-**Help us bird-dog for Internet freedom in Iowa on Tues., Oct. 13!** Email <a href="kfuchs@freepress.net?subject=Iowa bird-dogging">kfuchs@freepress.net for more information.
+**Help us bird-dog for Internet freedom in Iowa on Tues., Oct. 13!** Email <a href="mailto:kfuchs@freepress.net?subject=Iowa bird-dogging">kfuchs@freepress.net</a> for more information.
 
 Check out more photos from the workshop [here](https://www.flickr.com/photos/freepress/albums/72157656580459954).
 

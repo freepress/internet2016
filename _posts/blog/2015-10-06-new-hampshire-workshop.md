@@ -2,7 +2,7 @@
 layout: blogpost_single
 headerimg: blog-nh-workshop-group.jpeg
 title: "New Hampshire Bird-Dogs for Internet Freedom"
-teaser: "Our Internet 2016 campaign took us to Manchester, N.H., where we hosted a workshop on Internet freedom, corporate control and bird-dogging in the presidential election."
+teaser: "Our Internet 2016 campaign took us to Manchester, N.H."
 thumbnail: thumbnail-blog-nh.svg
 author: Lucia Martínez
 publish_date: Oct. 6, 2015

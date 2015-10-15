@@ -2,10 +2,11 @@
 layout: default
 title: In the News
 icon: news-icon.png
+templateheader: subhead_image_Purple.png
 ---
 
 
-  <section id="toolkit-header-bar">
+  <section id="toolkit-header-bar"  class="lazy" data-original="{{site.baseurl}}{{site.img_dir}}{{page.templateheader}}">>
   </section>
 
 <main id="press-coverage">
@@ -14,20 +15,37 @@ icon: news-icon.png
     <h1 class="text-center single-page-title">{{page.title}}</h1>
 
     <section  id="press-coverage-list">
-
+      <h2>Coverage</h2>
       <ul>
         {% for post in site.categories['press'] %}
-        <li>
-          <strong>{{post.outlet}}</strong> <br> {{post.publish_date}} <br>
-	  <a href="{{ post.link }}">
+          {% for tag in post.tags %}
+           {% if tag == "coverage" %}
+            <li>
+              <strong>{{post.outlet}}</strong> <br> {{post.publish_date}} <br>
+    	         <a href="{{ post.link }}">
 
-            {{ post.title }}
-          </a>
-        </li>
+                {{ post.title }}
+              </a>
+            </li>
+          {% endif %}
+          {% endfor %}
         {% endfor %}
       </ul>
+    </section>
 
-
+    <section  id="press-releases-list">
+      <h2>Press Releases</h2>
+      <ul>
+        {% for post in site.categories['press'] %}
+          {% for tag in post.tags %}
+           {% if tag == "pressrelease" %}
+            <li>
+              <strong><a href="{{ post.url }}">{{ post.title }}</a></strong> <br>{{post.publish_date}} <br>
+            </li>
+          {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </ul>
     </section>
 
   </section>

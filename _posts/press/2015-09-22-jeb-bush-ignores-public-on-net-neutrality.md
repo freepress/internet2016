@@ -1,7 +1,6 @@
 ---
 layout: blogpost_single
 title: "Free Press Action Fund: Jeb Bush Ignores Public on Net Neutrality"
-link: http://motherboard.vice.com/en_ca/read/net-neutrality-activists-believe-the-internet-voter-is-a-new-political-force
 logo: press/vice-logo-white.png
 publish_date: Sept. 22, 2015
 categories: [press]
@@ -22,5 +21,3 @@ Free Press Action Fund President and CEO Craig Aaron made the following statemen
 “Unfortunately, Governor Bush is siding with the phone and cable lobby against the public. His opposition to Net Neutrality is misguided, and he gets the facts wrong. In reality, the rules are working. Broadband providers and Internet content companies alike are investing, and consumers can rest easy knowing that their rights to connect and communicate are protected.
 
 “While Bush is wrong on Net Neutrality, it’s not too late for him or any other candidate to get on the right side of the issue. The FCC’s Net Neutrality ruling is supported by millions of Americans — and they’re paying close attention to what the candidates are saying about the open Internet.”
-
-\#\#\#

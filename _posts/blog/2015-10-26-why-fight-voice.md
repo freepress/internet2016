@@ -20,11 +20,11 @@ Mainstream media outlets have long misrepresented us and propagated stereotypes 
 
 Without access to mainstream media outlets, the alternative is to create our own media, something that's feasible only with an open, accessible and nondiscriminatory Internet. 
 
-Having access to the Internet and the tools we need to tell our own stories gives us access to power. There's a reason #BlackLivesMatter began as a hashtag and then transformed into a movement - because the Internet allows black activists to speak their truth to power in a way the mainstream media does not. 
+Having access to the Internet and the tools we need to tell our own stories gives us access to power. There's a reason #BlackLivesMatter began as a hashtag and then transformed into a movement &mdash; because the Internet allows black activists to speak their truth to power in a way the mainstream media does not. 
 
 This is why I'm an organizer for the [Internet 2016 campaign](https://internet2016.net). The Free Press Action Fund launched this effort to push presidential candidates to protect the open Internet. We need candidates to stand up to the big phone and cable companies and fight for the principles of [free speech, access, choice, privacy and openness online](https://internet2016.net/policyplatform/). Where can these candidates start? By making broadband affordable to all.
 
-I fight so that people of color, youth, women, immigrants, queer and trans communities, differently abled people, those who are undocumented - as well as everyone who lies at the many intersections of these identities - can have access to a mic and run with it. 
+I fight so that people of color, youth, women, immigrants, queer and trans communities, differently abled people, those who are undocumented &mdash; as well as everyone who lies at the many intersections of these identities &mdash; can have access to a mic and run with it. 
 
 Join me in this fight: Urge all of the candidates to [stand up for the open Internet](http://act.freepress.net/sign/internet_2016_nn/?source=2016blog).
 

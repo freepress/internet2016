@@ -1,7 +1,7 @@
 ---
 layout: blogpost_single
 headerimg: blog-lucia-internet-voter.jpg
-title: "Why I Fight: To Give Marginalized Communities a Voice"
+title: "Why I Fight: To Share the Mic"
 teaser: "I fight so that ..."
 thumbnail: thumbnail-blog-community.svg
 author: <strong>Lucia Martínez</strong>

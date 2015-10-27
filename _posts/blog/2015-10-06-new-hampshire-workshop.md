@@ -3,7 +3,7 @@ layout: blogpost_single
 headerimg: blog-nh-workshop-group.jpeg
 title: "New Hampshire Bird-Dogs for Internet Freedom"
 teaser: "Our Internet 2016 campaign took us to Manchester, N.H."
-thumbnail: thumbnail-blog-nh.svg
+thumbnail: thumbnail-blog-group-talk.svg
 author: <strong>Lucia Martínez</strong>
 publish_date: Oct. 6, 2015
 tags: []

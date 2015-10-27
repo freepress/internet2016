@@ -3,7 +3,7 @@ layout: blogpost_single
 headerimg: blog-lucia-internet-voter.jpg
 title: "Why I Fight: To Share the Mic"
 teaser: "I fight so that ..."
-thumbnail: thumbnail-blog-community.svg
+thumbnail: thumbnail-blog-mic.svg
 author: <strong>Lucia Martínez</strong>
 publish_date: Oct. 26, 2015
 tags: []

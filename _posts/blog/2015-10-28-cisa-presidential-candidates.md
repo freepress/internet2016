@@ -3,7 +3,7 @@ layout: blogpost_single
 headerimg: blog-rand-paul-cisa.jpeg
 title: "Republican Presidential Candidates Skip
 Vote on Dangerous Privacy Bill"
-teaser: "The vote on CISA represents a huge loss for Americans' privacy. We needed our champions on the Senate floor fighting for our rights."
+teaser: "The vote on CISA represents a huge loss for Americans' privacy."
 thumbnail: thumbnail-blog-privacy.svg
 author: <strong>Sandy Fulton</strong>
 publish_date: Oct. 28, 2015

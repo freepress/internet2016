@@ -13,13 +13,13 @@ categories:
 ---
 Dealing a harsh blow to Americans' already compromised online privacy rights, on Tuesday the Senate passed the Cybersecurity Information Sharing Act (CISA). The bill will allow companies to sidestep crucial privacy laws to share customers' personal information with law enforcement and government agencies, creating another mechanism for invasive government surveillance. 
 
-The Senate passed the Chamber of Commerce-fronted bill by a margin of 74Ð21, ignoring the voices of concerned people across the country, leading Internet-security technologists, and members of the privacy community, including the Free Press Action Fund.
+The Senate passed the Chamber of Commerce-fronted bill by a margin of 74&ndash;21, ignoring the voices of concerned people across the country, leading Internet-security technologists, and members of the privacy community, including the Free Press Action Fund.
 
 Notably missing from yesterday's important final vote: all four Republican senators running for the presidency. 
 
-This is particularly troubling given that a number of them claim to be strong privacy advocates. Those voices were badly needed during yesterday's debate and votes on amendments that would have strengthened privacy protections Ñ a number of which failed by small margins.
+This is particularly troubling given that a number of them claim to be strong privacy advocates. Those voices were badly needed during yesterday's debate and votes on amendments that would have strengthened privacy protections &mdash; a number of which failed by small margins.
 
-Sen. Rand Paul has made privacy a pillar of his campaign, and his [website](https://randpaul.com/f/stop-cisa) calls the bill "disastrous legislation' that "would trample important privacy protections under the Fourth Amendment." Prior to the vote he called on the American public to "Stand With Rand and oppose CISA.Ó
+Sen. Rand Paul has made privacy a pillar of his campaign, and his [website](https://randpaul.com/f/stop-cisa) calls the bill "disastrous legislation' that "would trample important privacy protections under the Fourth Amendment." Prior to the vote he called on the American public to "Stand With Rand and oppose CISA."
 
 Sen. Ted Cruz has been a longtime critic of the NSA, [arguing](http://www.cruz.senate.gov/?p=news&id=1915) that, "One of the most troubling things we have seen in recent years is an expansion of federal government authority into surveilling American citizens." Cruz co-sponsored the USA Freedom Act to rein in NSA spying. 
 

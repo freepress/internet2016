@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-ramos-trump.jpeg
+headerimg: blog-ramos-trump.jpg
 title: "Univision Repeatedly Barred from Trump Events"
 teaser: "It's essential that candidates stop excluding journalists from any public events."
 thumbnail: thumbnail-blog-reporter.svg

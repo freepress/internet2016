@@ -27,6 +27,8 @@ However, on Oct. 15 Cruz admitted to potential voters in Iowa that he was unfami
 
 Sen. Marco Rubio has missed [23 of the Senate's 29 votes](https://www.washingtonpost.com/news/the-fix/wp/2015/10/28/you-are-ripping-us-off-a-florida-paper-calls-for-marco-rubios-resignation/) since the first Republican debate on Aug. 7.
 
+Sen. Lindsey Graham voted on some amendments to the bill but wasn't present for the final passage.
+
 The only presidential candidate to cast a vote on CISA, Sen. Bernie Sanders, came out against the bill earlier this month and voted against it yesterday. 
 
 The vote on CISA represents a huge loss for Americans' privacy. We needed our champions on the Senate floor fighting for our rights. Where were they? Ask them at:

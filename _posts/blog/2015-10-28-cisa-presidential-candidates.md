@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-rand-paul-cisa.jpeg
+headerimg: blog-rand-paul-cisa.jpg
 title: "Republican Presidential Candidates Skip
 Vote on Dangerous Privacy Bill"
 teaser: "The vote on CISA represents a huge loss for Americans' privacy."

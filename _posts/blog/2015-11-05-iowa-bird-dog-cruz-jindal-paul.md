@@ -22,9 +22,9 @@ My first stop was an Iowa City candidate forum coordinated by several local chur
 
 No one in the audience was invited to participate; candidates spoke for about 30 minutes each and were then whisked off by their handlers without taking any questions. Once we realized this was the pattern, Trish and I scurried to get between Gov. Jindal and the exit and ask him a question about government surveillance.
 
-Jindal told me that he [thinks the government should have warrants](https://www.youtube.com/watch%3Fv=bSPWOaCLw3c) before collecting digital or telephone data about Americans: "We're talking about very powerful tools and their ability to invade our privacy rights."
+Jindal told me that he [thinks the government should have warrants](https://www.youtube.com/watch?v=bSPWOaCLw3c) before collecting digital or telephone data about Americans: "We're talking about very powerful tools and their ability to invade our privacy rights."
 
-Watch my exchange with Gov. Jindal [here](https://www.youtube.com/watch%3Fv=bSPWOaCLw3c).
+Watch my exchange with Gov. Jindal [here](https://www.youtube.com/watch?v=bSPWOaCLw3c).
 
 **Ted Cruz**
 
@@ -34,7 +34,7 @@ Cruz took questions from the audience and, to my surprise, I wasn't the only one
 
 However, when I asked Cruz about his position on the [Cyber Information Sharing Act (CISA)](http://www.freepress.net/blog/2015/07/28/cyber-bill-gives-companies-perfect-cover-gut-your-privacy), which would allow increased government spying over the Internet, the senator said he wasn't familiar with the legislation. Cruz wasn't present for the Tuesday vote on that bill, which passed by a margin of 74-21.
 
-Watch Cruz respond to my question about CISA [here](on.fb.me/1WgseAL).
+Watch Cruz respond to my question about CISA [here](https://www.facebook.com/internet2016/videos/1505163873142638/).
 
 **Rand Paul**
 

@@ -50,7 +50,7 @@ This bird-dogging trip was an excellent next step for our [Internet 2016](https:
 
 But this trip wasn't just about practice. The two questions that I asked candidates uncovered information that will both educate the public and help the Free Press Action Fund continue our work for Internet freedom.
 
-Before my trip to Iowa, Gov. Jindal had been fairly ambiguous about the government's bulk data-collection programs. While we weren't able to get Sen. Cruz on record regarding his position on CISA, we've been using the video of him saying he wasn't familiar with the bill to pressure him in the run-up to the Senate's vote this week. Unfortunately, our pressure wasn't enough. Last Tuesday all three senators running for president (Cruz, Paul and Marco Rubio) skipped the vote on CISA.
+Before my trip to Iowa, Gov. Jindal had been fairly ambiguous about the government's bulk data-collection programs. While we weren't able to get Sen. Cruz on record regarding his position on CISA, we've been using the video of him saying he wasn't familiar with the bill to pressure him in the run-up to the Senate's vote. Unfortunately, our pressure wasn't enough. Last Tuesday all three senators running for president (Cruz, Paul and Marco Rubio) skipped the vote on CISA.
 
 I hope to ask other Republican and Democratic candidates questions about surveillance, Net Neutrality and expanding affordable broadband access when I return to Iowa over the coming months.
 

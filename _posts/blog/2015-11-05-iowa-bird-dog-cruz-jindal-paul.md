@@ -5,12 +5,12 @@ title: "Bird-Dogging Jindal, Cruz and Paul in Iowa"
 teaser: "Two weeks ago I drove about 500 miles around central and eastern Iowa to put our September bird-dogging workshop into practice."
 thumbnail: thumbnail-blog-retriever.svg
 author: <strong>Katherine Fuchs</strong>
-publish_date: Oct. 28, 2015
+publish_date: Nov. 5, 2015
 tags: []
 categories:
 - blog
 ---
-Two weeks ago I drove about 500 miles around central and eastern Iowa to put our September [bird-dogging workshop](https://internet2016.net/blog/iowa-workshop/) into practice.
+Last month I drove about 500 miles around central and eastern Iowa to put our September [bird-dogging workshop](https://internet2016.net/blog/iowa-workshop/) into practice.
 
 Bird-dogging involves asking political candidates questions to get them on record about a particular issue. Why is this called bird-dogging? Because the questioner is helping voters elicit answers in the same way that a dog helps a hunter flush birds out of brush.
 
@@ -32,7 +32,7 @@ The next morning, I drove to Kalona, a village about 30 minutes southwest of Iow
 
 Cruz took questions from the audience and, to my surprise, I wasn't the only one asking about civil liberties. Before calling on me, Cruz took a question about rolling back the Patriot Act. Cruz responded that he had supported the [USA Freedom Act](http://www.freepress.net/blog/2015/06/03/usa-freedom-act-passed-now-what), which ended the bulk collection of phone metadata for most Americans.
 
-However, when I asked Cruz about his position on the [Cyber Information Sharing Act (CISA)](http://www.freepress.net/blog/2015/07/28/cyber-bill-gives-companies-perfect-cover-gut-your-privacy), which would allow increased government spying over the Internet, the senator said he wasn't familiar with the legislation. Cruz wasn't present for the Tuesday vote on that bill, which passed by a margin of 74-21.
+However, when I asked Cruz about his position on the [Cyber Information Sharing Act (CISA)](http://www.freepress.net/blog/2015/07/28/cyber-bill-gives-companies-perfect-cover-gut-your-privacy), which would allow increased government spying over the Internet, the senator said he wasn't familiar with the legislation. Cruz wasn't present for last Tuesday's vote on that bill, which passed by a margin of 74-21.
 
 Watch Cruz respond to my question about CISA [here](https://www.facebook.com/internet2016/videos/1505163873142638/).
 

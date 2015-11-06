@@ -30,7 +30,7 @@ Watch my exchange with Gov. Jindal [here](https://www.youtube.com/watch?v=bSPWOa
 
 The next morning, I drove to Kalona, a village about 30 minutes southwest of Iowa City. When I arrived in the lobby of a small family-owned motel decorated with Bible verses and photos of children in cornfields, I found a small but spirited flock of Ted Cruz supporters. About 50 people had gathered to hear Sen. Cruz, packing the motel lobby and spilling into the parking lot.
 
-Cruz took questions from the audience and, to my surprise, I wasn't the only one asking about civil liberties. Before calling on me, Cruz took a question about rolling back the Patriot Act. Cruz responded that he had supported the [USA Freedom Act](http://www.freepress.net/blog/2015/06/03/usa-freedom-act-passed-now-what), which ended the bulk collection of phone metadata for most Americans.
+Cruz took questions from the audience and I was heartened by the fact that I wasn't the only one asking about civil liberties. Before calling on me, Cruz took a question about rolling back the Patriot Act. Cruz responded that he had supported the [USA Freedom Act](http://www.freepress.net/blog/2015/06/03/usa-freedom-act-passed-now-what), which ended the bulk collection of phone metadata for most Americans.
 
 However, when I asked Cruz about his position on the [Cyber Information Sharing Act (CISA)](http://www.freepress.net/blog/2015/07/28/cyber-bill-gives-companies-perfect-cover-gut-your-privacy), which would allow increased government spying over the Internet, the senator said he wasn't familiar with the legislation. Cruz wasn't present for last Tuesday's vote on that bill, which passed by a margin of 74-21.
 
@@ -50,7 +50,7 @@ This bird-dogging trip was an excellent next step for our [Internet 2016](https:
 
 But this trip wasn't just about practice. The two questions that I asked candidates uncovered information that will both educate the public and help the Free Press Action Fund continue our work for Internet freedom.
 
-Before my trip to Iowa, Gov. Jindal had been fairly ambiguous about the government's bulk data-collection programs. While we weren't able to get Sen. Cruz on record regarding his position on CISA, we've been using the video of him saying he wasn't familiar with the bill to pressure him in the run-up to the Senate's vote. Unfortunately, our pressure wasn't enough. Last Tuesday all three senators running for president (Cruz, Paul and Marco Rubio) skipped the vote on CISA.
+Before my trip to Iowa, Gov. Jindal had been fairly ambiguous about the government's bulk data-collection programs. While we weren't able to get Sen. Cruz on record regarding his position on CISA, we've been using the video of him saying he wasn't familiar with the bill to pressure him in the run-up to the Senate's vote. Unfortunately, our pressure wasn't enough. Last Tuesday all four senators running for president (Cruz, Graham, Paul and Rubio) skipped the final vote on CISA.
 
 I hope to ask other Republican and Democratic candidates questions about surveillance, Net Neutrality and expanding affordable broadband access when I return to Iowa over the coming months.
 

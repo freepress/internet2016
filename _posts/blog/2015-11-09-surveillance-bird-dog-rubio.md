@@ -1,8 +1,8 @@
 ---
 layout: blogpost_single
 headerimg: blog-rubio.jpg
-title: "Presidential Candidates Need to Address the Digital Divide"
-teaser: "To move toward affordable Internet access for everyone, we need all of the presidential candidates to talk about this issue."
+title: "Surveillance Talk With Marco Rubio"
+teaser: "I headed up to Rivier College in Nashua, N.H., with the Internet 2016 campaign last Wednesday to see Sen. Marco Rubio give an hour-long speech and take questions from attendees."
 thumbnail: thumbnail-blog-surveillance-rubio.svg
 author: <strong>Rachel Courtney</strong>
 publish_date: Nov. 9, 2015

@@ -26,7 +26,7 @@ There is also a [racial and ethnic broadband divide](http://www.freepress.net/si
 
 The Internet is a lifeline. People access economic, educational, civic, political and social opportunities online &mdash; and they are free to share their voices as long as gatekeepers don't stand in the way.
 
-But gaps across income and race have stranded many communities &mdash; in particular, those made up of  lower-income people of color &mdash; on the wrong side of the digital divide. This is particularly problematic because it deepens the division in our country between the "haves" and "have-nots" &mdash; the people who can access and make use of all of those opportunities, and those who simply can't. Meanwhile companies like Comcast and Charter want to raise our already high prices  Ñ which would further broaden and deepen the digital divide, all in the name of increasing the enormous profits these companies already reap.
+But gaps across income and race have stranded many communities &mdash; in particular, those made up of  lower-income people of color &mdash; on the wrong side of the digital divide. This is particularly problematic because it deepens the division in our country between the "haves" and "have-nots" &mdash; the people who can access and make use of all of those opportunities, and those who simply can't. Meanwhile companies like Comcast and Charter want to raise our already high prices  Ã‘ which would further broaden and deepen the digital divide, all in the name of increasing the enormous profits these companies already reap.
   
 It doesn't have to be this way. 
 
@@ -34,7 +34,7 @@ The high cost of broadband can be traced to government decisions that have allow
 
 In other words, there is so little competition for Big Cable that any price goes. Many customers have only one Internet access provider in their communities, so they have to pay whatever that company asks. And when rate hikes happen, people have no choice but to pay more. 
 
-If this weren't bad enough, companies like Comcast are now [imposing data caps](http://www.dslreports.com/shownews/Comcast-Dramatically-Expanding-Usage-Cap-Areas-December-1-1355510 so they can tell customers how much Internet they can use each month, and charge them more if they use "too much." There's no reason for such caps. There's really no added cost to Comcast from increased usage over the course of a whole month. This is another one of those charges that the company imposes just because it can. These punitive practices will inevitably harm the same people already making hard choices between paying for Internet access and other necessities.
+If this weren't bad enough, companies like Comcast are now [imposing data caps](http://www.dslreports.com/shownews/Comcast-Dramatically-Expanding-Usage-Cap-Areas-December-1-135551) so they can tell customers how much Internet they can use each month, and charge them more if they use "too much." There's no reason for such caps. There's really no added cost to Comcast from increased usage over the course of a whole month. This is another one of those charges that the company imposes just because it can. These punitive practices will inevitably harm the same people already making hard choices between paying for Internet access and other necessities.
 
 Despite the Internet's importance, politicians aren't talking enough about the need to make broadband affordable. We need more candidates to acknowledge that the high cost of broadband is a problem &mdash; and we need them to tell us what they'll do about it. 
 

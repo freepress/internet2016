@@ -4,13 +4,13 @@ headerimg: blog-access.jpg
 title: "Presidential Candidates Need to Address the Digital Divide"
 teaser: "To move toward affordable Internet access for everyone, we need all of the presidential candidates to talk about this issue."
 thumbnail: thumbnail-blog-access.svg
-author: <strong>Mary Alice Crim and Lucia Martinez</strong>
+author: <strong>Mary Alice Crim and Lucia Martínez</strong>
 publish_date: Nov. 9, 2015
 tags: []
 categories:
 - blog
 ---
-The Internet 2016 campaign was at Sen. Marco Rubio's town hall in Nashua, N.H., last Wednesday. We were there to ask him how he plans to get more people online and lower the sky-high cost of broadband. 
+The Internet 2016 campaign was at Sen. Marco Rubio's town hall in Nashua, N.H., last Wednesday. We were there to ask the presidential candidate how he plans to get more people online and lower the sky-high cost of broadband. 
 
 Rubio has hailed Internet companies like Airbnb, Amazon and Uber &mdash; and during the town hall he talked about the importance of online learning. But many people [don't have Internet access](https://medium.com/backchannel/battle-cry-of-new-hampshire-no-fiber-no-votes-fc5f2df34f68) in New Hampshire, which makes it hard for them to take advantage of everything the Internet has to offer.
 
@@ -26,7 +26,7 @@ There is also a [racial and ethnic broadband divide](http://www.freepress.net/si
 
 The Internet is a lifeline. People access economic, educational, civic, political and social opportunities online &mdash; and they are free to share their voices as long as gatekeepers don't stand in the way.
 
-But gaps across income and race have stranded many communities &mdash; in particular, those made up of  lower-income people of color &mdash; on the wrong side of the digital divide. This is particularly problematic because it deepens the division in our country between the "haves" and "have-nots" &mdash; the people who can access and make use of all of those opportunities, and those who simply can't. Meanwhile companies like Comcast and Charter want to raise our already high prices  Ñ which would further broaden and deepen the digital divide, all in the name of increasing the enormous profits these companies already reap.
+But gaps across income and race have stranded many communities &mdash; in particular, those made up of  lower-income people of color &mdash; on the wrong side of the digital divide. This is particularly problematic because it deepens the division in our country between the "haves" and "have-nots" &mdash; the people who can access and make use of all of those opportunities, and those who simply can't. Meanwhile companies like Comcast and Charter want to raise our already high prices &mdash; which would further broaden and deepen the digital divide, all in the name of increasing the enormous profits these companies already reap.
   
 It doesn't have to be this way. 
 

@@ -18,7 +18,7 @@ Protesters outside the building were kept behind police barricade lines — but 
 
 When CNN reporter Noah Gray dared to leave the media pen at the back of the convention center to document protesters unfurling a banner inside the venue, Trump's campaign manager Corey Lewandowski told the reporter to [get back in the media pen](https://twitter.com/NoahGrayCNN/status/667182208231211008) and threatened the media credentials Gray used to cover the event. "Inside the pen, or I will pull your credentials. Media goes in the pen," said Lewandowski.
 
-As the [<em>Washington Post</em>](https://www.washingtonpost.com/news/post-politics/wp/2015/11/18/nine-things-that-happened-during-donald-trumps-visit-to-worcester/) reports, Lewandowski also "turned to campaign spokeswoman Hope Hicks and said: 'Hey, tell Noah [to] get back in the pen or he's fucking blacklisted.'https://internet2016.net/blog/trump-rally-worcester/" 
+As the [<em>Washington Post</em>](https://www.washingtonpost.com/news/post-politics/wp/2015/11/18/nine-things-that-happened-during-donald-trumps-visit-to-worcester/) reports, Lewandowski also "turned to campaign spokeswoman Hope Hicks and said: 'Hey, tell Noah [to] get back in the pen or he's fucking blacklisted.'" 
 
 This isn't the first time Trump and his staff have clashed with members of the media. Univision journalists including Emmy-winning anchor Jorge Ramos have been removed from his campaign events for doing their jobs. And the candidate clashed with Fox News anchor Megyn Kelly after she asked him pointed questions during the first Republican debate. 
 

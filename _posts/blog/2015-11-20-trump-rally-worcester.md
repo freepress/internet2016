@@ -14,7 +14,7 @@ At Wednesday night's Trump rally in Worcester, Massachusetts, Internet 2016 team
 
 The groups weren't allowed to leave their designated areas, which were set apart from the rest of the attendees. And many attendees expressed distaste for both the protesters and members of the press inside and outside of the building.
 
-Protesters outside the building were kept behind police barricade lines — but that didn't stop attendees from [yelling](https://twitter.com/MaryAliceCrim/status/667427242734174208) at the activists. Protesters inside the building were quickly and forcibly removed, but not before the 10,000 people chanted "USA!", booed and yelled at them. One protester was even punched in the back of the head and thrown to the ground while the crowd looked on. 
+Protesters outside the building were kept behind police barricade lines — but that didn't stop attendees from [yelling](https://twitter.com/MaryAliceCrim/status/667427242734174208) at the activists. Protesters inside the building were quickly and forcibly removed, but not before the crowd of 10,000 people chanted "USA!", booed and yelled at them. One protester was even punched in the back of the head and thrown to the ground while the crowd looked on. 
 
 When CNN reporter Noah Gray dared to leave the media pen at the back of the convention center to document protesters unfurling a banner inside the venue, Trump's campaign manager Corey Lewandowski told the reporter to [get back in the media pen](https://twitter.com/NoahGrayCNN/status/667182208231211008) and threatened the media credentials Gray used to cover the event. "Inside the pen, or I will pull your credentials. Media goes in the pen," said Lewandowski.
 

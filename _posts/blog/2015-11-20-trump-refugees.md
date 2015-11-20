@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-rubio.jpeg
+headerimg: blog-trump-protesters.jpeg
 title: "Placeholder"
 teaser: "Placeholder"
 thumbnail: thumbnail-blog-surveillance-rubio.svg

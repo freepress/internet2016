@@ -3,7 +3,7 @@ layout: blogpost_single
 headerimg: blog-trump-protesters.jpeg
 title: "'Media Goes in the Pen. Media Stays in the Pen.'"
 teaser: "When protesters and the press are kept behind lines marked out on concrete floors they're not able to fully participate in or cover an event."
-thumbnail: thumbnail-blog-protest.svg
+thumbnail: thumbnail-blog-blockade.svg
 author: <strong>Mary Alice</strong>
 publish_date: Nov. 20, 2015
 tags: []

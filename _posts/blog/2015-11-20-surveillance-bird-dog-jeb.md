@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-jeb-surveillance.jpeg
+headerimg: blog-jeb-surveillance.jpg
 title: "Bird-Dogging Jeb Bush on Unwarranted Mass Surveillance"
 teaser: "I headed up to the Franklin, New Hampshire VFW post with the Internet 2016 campaign to see Jeb Bush at a town-hall meeting."
 thumbnail: thumbnail-blog-surveillance-dog.svg

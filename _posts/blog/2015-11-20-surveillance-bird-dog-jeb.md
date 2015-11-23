@@ -20,7 +20,7 @@ The Internet 2016 crew was able to get a question in directly after the event wh
 
 Mary Alice then asked Bush what he would do to protect our Fourth Amendment rights and keep the government out of our private lives. 
 
-Bush had a brief and vague response to this question, saying that we need to take a "balanced" approach to protecting the homeland and the privacy of Americans. Although this might seem reasonable it's hard to believe. Bush is on record supporting the [Patriot Act](http://www.nationaljournal.com/s/31612/jeb-bush-defends-nsa-mass-surveillance-hugely-important_) and the [NSA's bulk collection of data](http://www.newsweek.com/after-paris-attacks-jeb-bush-calls-reinstatement-nsa-data-sweeps-394861) &mdash; neither of which reflect a "balanced" approach to surveillance.
+Bush had a brief and vague response to this question, saying that we need to take a "balanced" approach to protecting the homeland and the privacy of Americans. Although this might seem reasonable it's hard to believe. Bush is on record supporting the [Patriot Act](http://www.nationaljournal.com/s/31612/jeb-bush-defends-nsa-mass-surveillance-hugely-important) and the [NSA's bulk collection of data](http://www.newsweek.com/after-paris-attacks-jeb-bush-calls-reinstatement-nsa-data-sweeps-394861) &mdash; neither of which reflect a "balanced" approach to surveillance.
 
 After Gov. Bush answered Mary Alice's question and shook her hand he turned to me once I had stopped recording the exchange. He then said in a snarky tone: "You get that all on video?"
 

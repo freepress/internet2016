@@ -5,12 +5,12 @@ title: "Bird-Dogging Jeb Bush on Unwarranted Mass Surveillance"
 teaser: "I headed up to the Franklin, New Hampshire VFW post with the Internet 2016 campaign to see Jeb Bush at a town-hall meeting."
 thumbnail: thumbnail-blog-surveillance-dog.svg
 author: <strong>Heather Franklin</strong>
-publish_date: Nov. 20, 2015
+publish_date: Nov. 23, 2015
 tags: []
 categories:
 - blog
 ---
-Last Friday I headed up to the Franklin, New Hampshire VFW post with the Internet 2016 campaign to see Jeb Bush at a town-hall meeting. 
+Earlier this month I headed up to the Franklin, New Hampshire VFW post with the Internet 2016 campaign to see Jeb Bush at a town-hall meeting. 
 
 An audience of around 50 people filled the small VFW hall. The crowd was largely comprised of Vietnam-era veterans along with a few World War II-era vets who had many concerns and questions about Gov. Bush's plans to address national security, the military and particularly reforming the Veterans Administration. 
 

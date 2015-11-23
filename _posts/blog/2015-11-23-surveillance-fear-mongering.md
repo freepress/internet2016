@@ -3,7 +3,7 @@ layout: blogpost_single
 headerimg: blog-surveillance_washington_monument.png
 title: "Washington Fear-Mongerers Are Trying to Take Away Your Privacy Rights"
 teaser: "In the wake of the latest series of tragic terrorist attacks, the heads of the CIA and FBI, among other prominent government officials, are capitalizing on public fears to push policies that infringe on our most fundamental values."
-thumbnail: thumbnail-blog-surveillance-france.svg
+thumbnail: thumbnail-blog-france.svg
 author: <strong>Sandra Fulton</strong>
 publish_date: Nov. 23, 2015
 tags: []

@@ -4,7 +4,7 @@ headerimg: blog-chris-christie.jpg
 title: "Chris Christie Exploits Fears and Misleads Public on Government Spying"
 teaser: "Amid a handful of media microphones I asked the governor what he'll do to protect our Fourth Amendment rights to keep the government out of our private lives. Unfortunately I didn't get a straight answer."
 thumbnail: thmbnail-blog-fire-truck.svg
-author: **Mary Alice Crim**
+author: <strong>Mary Alice Crim</strong>
 publish_date: Dec. 3, 2015
 tags: []
 categories:

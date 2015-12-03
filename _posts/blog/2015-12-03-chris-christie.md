@@ -4,7 +4,7 @@ headerimg: blog-chris-christie.jpg
 title: "Chris Christie Exploits Fears and Misleads Public on Government Spying"
 teaser: "Amid a handful of media microphones I asked the governor what he'll do to protect our Fourth Amendment rights to keep the government out of our private lives. Unfortunately I didn't get a straight answer."
 thumbnail: thmbnail-blog-fire-truck.svg
-author: Mary Alice Crim
+author: **Mary Alice Crim**
 publish_date: Dec. 3, 2015
 tags: []
 categories:
@@ -28,7 +28,7 @@ He played up that fear throughout his speech to the crowded room of supporters w
 
 But more spying won't keep us safe.
 
-Christie is on the record in support of the Patriot Act and the NSA's metadata-collection program — even though a judge recently ruled that metadata collection is [probably unconstitutional](http://www.cfr.org/united-states/conversation-governor-chris-christie/p37277). Christie has no problem with unchecked spying and also expressed support for using biometric fingerprint tracking. 
+Christie is on the record in support of the Patriot Act and the NSA's metadata-collection program — even though a judge recently ruled that metadata collection is [probably unconstitutional](http://www.nytimes.com/2015/11/10/us/politics/judge-deals-a-blow-to-nsa-phone-surveillance-program.html). Christie has no problem with unchecked spying and also expressed support for using biometric fingerprint tracking. 
 
 All of this makes it hard to "trust" the people in power when it comes to my right to privacy. 
 

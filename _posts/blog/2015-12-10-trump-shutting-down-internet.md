@@ -12,7 +12,7 @@ categories:
 ---
 Every day something hateful comes out of Donald Trump's mouth. 
 
-He wants to keep Muslims from entering the country. He wants to throw out immigrants. He cheers as angry crowds assault protesters. As *[The New York Times]*(http://www.nytimes.com/politics/first-draft/2015/12/07/donald-trump-calls-for-banning-muslims-from-entering-u-s/)</em> noted, his language is "more typically associated with racist hate groups." According to [TIME](http://time.com/4140050/donald-trump-muslims-japanese-internment/), he's not sure if he would have supported the racist internment of more than 100,000 Japanese Americans during World War II — for which our government has apologized and paid reparations. 
+He wants to keep Muslims from entering the country. He wants to throw out immigrants. He cheers as angry crowds assault protesters. As <em>[The New York Times]</em>(http://www.nytimes.com/politics/first-draft/2015/12/07/donald-trump-calls-for-banning-muslims-from-entering-u-s/)</em> noted, his language is "more typically associated with racist hate groups." According to [TIME](http://time.com/4140050/donald-trump-muslims-japanese-internment/), he's not sure if he would have supported the racist internment of more than 100,000 Japanese Americans during World War II — for which our government has apologized and paid reparations. 
 
 Trump also has no respect for freedom of the press. He regularly removes journalists from campaign events. When members of the media are present, his team prevents them from leaving pens designed to contain them physically and constrain their reporting. 
 

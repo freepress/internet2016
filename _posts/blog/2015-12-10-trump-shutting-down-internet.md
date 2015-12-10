@@ -4,7 +4,7 @@ headerimg: blog-trump.jpg
 title: "Shutting Down the Internet Is Not the Answer"
 teaser: "Donald Trump has made a lot of despicable comments that people need to forcefully and loudly oppose. And if you care about Internet freedom, this is the moment to speak out."
 thumbnail: thumbnail-blog-trump.svg
-author: Mary Alice Crim
+author: <strong>Mary Alice Crim</strong>
 publish_date: Dec. 10, 2015
 tags: []
 categories:

@@ -14,7 +14,7 @@ Last weekend I once again headed to New Hampshire with the Internet 2016 campaig
 
 The audience consisted of only around 30 people — largely older retired folks plus a few parents who brought their young children and teenagers along. After a brief introduction from the local mayor-elect, Gov. Kasich spent most of the hour answering questions from the crowd. 
 
-Kasich spent a considerable amount of time painting himself as a serious policymaker who listens to people and is uninterested in the petty politicking that's come to characterize Washington, D.C. Kasich talked about times when he's worked with Democrats and engaged attendees who didn't share his views in a respectful way.
+Kasich spent a considerable amount of time painting himself as a serious policymaker who listens to people and is uninterested in the petty politicking that's come to characterize Washington, D.C. Kasich talked about times when he's worked with Democrats and also engaged attendees who didn't share his views in a respectful way.
 
 The purpose of the Internet 2016 campaign is to get all presidential candidates to commit to respecting principles of [free speech, access, choice, privacy and openness online](https://internet2016.net/policyplatform/). Because Kasich has gotten relatively little media attention thus far in the campaign cycle, the Internet 2016 team wanted to ask him how he plans to expand Internet access, particularly in rural and underconnected areas. We had also hoped to find out more about his plans to deal with the routine unwarranted surveillance of Americans. 
 

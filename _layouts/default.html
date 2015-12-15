@@ -3,11 +3,11 @@
   <head>
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="{{ site.title }}: {{site.tagline}}" />
-      <meta property="og:description" content="{{site.fbsharetext}}" />
-      <meta property="og:url" content="{{site.fullurl}}" />
+      <meta property="og:title" content="{{ site.title }}: {% if page.title %}{{ page.title }} {% else %}{{site.tagline}} {% endif %}" />
+      <meta property="og:description" content="{% if page.teaser %}{{ page.teaser }} {% else %}{{site.fbsharetext}} {% endif %}" />
+      <meta property="og:url" content="{% if page.url %}{{site.fullurl}}{{ page.url }} {% else %}{{site.fullurl}}{% endif %}" />
       <meta property="og:site_name" content="{{site.title}}" />
-      <meta property="og:image" content="{{site.fbshareimg}}" />
+      <meta property="og:image" content="{% if page.icon %}{{site.fullurl}}/assets/img/icons/{{ page.icon }} {% else if page.headerimg %}{{site.fullurl}}/assets/img/{{ page.headerimg }}{% else %}{{site.fbshareimg}}{% endif %}" />
 
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">

@@ -28,8 +28,10 @@ Check out what we've done so far:
 ![Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  <img src="https://internet2016.net/assets/img/blog-body-purple-team2.jpg" alt="Free Press team at town hall event" width="500" height="312" />
 
 **Rallied and distributed materials at campaign events.** Here are some images from our visibility work inside and outside the MassMutual Center during a Bernie Sanders campaign rally: 
+![Rallying at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally.jpg)
+![Jumbotron at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally2.jpg)
 
-**Talked with #InternetVoters in Iowa and New Hampshire.** Voters expressed concerns like “I don't want to live in a world where the Internet isn't free.” Read more from Free Press Action Fund members [here](https://internet2016.net/blog/don%27t-want-to-live-in-world-internet-free/). 
+**Talked with #InternetVoters in Iowa and New Hampshire.** Voters expressed concerns like “I don't want to live in a world where the Internet isn't free.” Read more from Free Press Action Fund members [here](https://internet2016.net/blog/don't-want-to-live-in-world-internet-free.html). 
 
 **Developed an [advocacy toolkit](https://internet2016.net/toolkits/).** It includes how-to's and tips for getting active and showing love for the Internet in an election year.
 
@@ -41,8 +43,6 @@ Check out what we've done so far:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Internet access costs too much. How will you increase choice &amp; lower prices for all? <a href="https://twitter.com/hashtag/CNNDebate?src=hash">#CNNDebate</a> <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="https://twitter.com/CNN">@CNN</a></p>&mdash; MAG-Net (@mediaaction) <a href="https://twitter.com/mediaaction/status/644197823571881984">September 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![Rallying at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally.jpg)
+**Developed rapid-response campaign actions** when candidates got it wrong about the Internet. When Gov. Jeb Bush attacked Net Neutrality, we responded. When Donald Trump said we should "close up the Internet in some way" we were there to [push back](https://internet2016.net/blog/trump-shutting-down-internet.html) and stand up for Internet freedom. Ditto for when Secretary Hillary Clinton spoke of shutting "off the means of communication" for terrorist groups and dismissed concerns over how that would impact freedom of speech for everything else online.
 
-**Developed rapid-response campaign actions** when candidates got it wrong about the Internet. When Gov. Jeb Bush attacked Net Neutrality, we responded. When Donald Trump said we should "close up the Internet in some way" we were there to [push back](https://internet2016.net/blog/trump-shutting-down-internet/) and stand up for Internet freedom. Ditto for when Secretary Hillary Clinton spoke of shutting "off the means of communication" for terrorist groups and dismissed concerns over how that would impact freedom of speech for everything else online.
-
-We've got lots going on in the New Year — stay tuned for more updates and [email me](mcrim@freepress.net) to get involved. 
+We've got lots going on in the New Year — stay tuned for more updates and [email me](mailto:mcrim@freepress.net) to get involved. 

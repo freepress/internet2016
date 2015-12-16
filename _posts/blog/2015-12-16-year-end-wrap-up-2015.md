@@ -27,10 +27,9 @@ Check out what we've done so far:
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="/internet2016/videos/vb.1411698009155892/1505163873142638/?type=3"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internet2016/videos/1505163873142638/"><a href="https://www.facebook.com/internet2016/videos/1505163873142638/">Oct. 15, 2015: Sen. Ted Cruz on CISA</a><p>On Oct. 15. 2015, Sen. Ted Cruz was asked about the Cyber Information Sharing Act (CISA) at a presidential candidate townhall event. Watch his response. SPOILER: He&#039;s NEVER read it! This is troubling. The Senate will be voting on CISA any day now.</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Wednesday, October 21, 2015</blockquote></div></div>
 
-[Meeting Rand Paul](blog-body-rand.jpg)
+![Meeting Rand Paul](blog-body-rand.jpg)
 
-[Free Press team at town hall event](blog-body-purple-team.jpg)
-
+![Free Press team at town hall event](blog-body-purple-team.jpg)
 **Rallied and distributed materials at campaign events.** Here are some images from our visibility work inside and outside the MassMutual Center during a Bernie Sanders campaign rally: 
 
 **Talked with #InternetVoters in Iowa and New Hampshire.** Voters expressed concerns like “I don't want to live in a world where the Internet isn't free.” Read more from Free Press Action Fund members [here](https://internet2016.net/blog/don%27t-want-to-live-in-world-internet-free/). 

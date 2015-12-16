@@ -18,7 +18,7 @@ Check out what we've done so far:
 
 **Led bird-dogging workshops in Iowa and New Hampshire.** Alongside allies like the American Friends Service Committee's Governing Under the Influence project, the ACLU of New Hampshire and One Iowa, we trained activists to ask the candidates pointed questions. We armed participants with info about Internet freedom and made sure they got everything they needed — signs, stickers, copies of the advocacy toolkit and policy platform — to hit the ground running.
 
-![Iowa bird-dogging workshop](https://internet2016.net/assets/img/blog-body-ia-workshop.jpg)  ![New Hampshire bird-dogging workshop](https://internet2016.net/assets/img/blog-body-nh-workshop.jpg)
+<img src="https://internet2016.net/assets/img/blog-body-ia-workshop.jpg" alt="Iowa bird-dogging" width="500" height="362" />  ![New Hampshire bird-dogging workshop](https://internet2016.net/assets/img/blog-body-nh-workshop.jpg)
 
 **Met with more than a dozen candidates.** Our organizers have been face-to-face with all of the major candidates and most of the others. (You can check out our reports and videos on the [Internet 2016 blog](https://internet2016.net/blog/).)
 
@@ -28,7 +28,7 @@ Check out what we've done so far:
 <div class="fb-video" data-href="https://www.facebook.com/internet2016/videos/1505163873142638/" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internet2016/videos/1505163873142638/"><a href="https://www.facebook.com/internet2016/videos/1505163873142638/">Oct. 15, 2015: Sen. Ted Cruz on CISA</a><p>On Oct. 15. 2015, Sen. Ted Cruz was asked about the Cyber Information Sharing Act (CISA) at a presidential candidate townhall event. Watch his response. 
 SPOILER: He&#039;s NEVER read it! This is troubling. The Senate will be voting on CISA any day now.</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Wednesday, October 21, 2015</blockquote></div></div>
 
-![Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  ![Free Press team at town hall event](https://internet2016.net/assets/img/blog-body-purple-team.jpg)
+![Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  <img src="https://internet2016.net/assets/img/blog-body-purple-team.jpg" alt="Free Press team at town hall event" width="500" height="312" />
 
 **Rallied and distributed materials at campaign events.** Here are some images from our visibility work inside and outside the MassMutual Center during a Bernie Sanders campaign rally: 
 
@@ -47,7 +47,7 @@ SPOILER: He&#039;s NEVER read it! This is troubling. The Senate will be voting o
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Internet access costs too much. How will you increase choice &amp; lower prices for all? <a href="https://twitter.com/hashtag/CNNDebate?src=hash">#CNNDebate</a> <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="https://twitter.com/CNN">@CNN</a></p>&mdash; MAG-Net (@mediaaction) <a href="https://twitter.com/mediaaction/status/644197823571881984">September 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![Rallying at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally.jpg)  ![Jumbotron at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally2.jpg)
+![Rallying at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally.jpg)
 
 **Developed rapid-response campaign actions** when candidates got it wrong about the Internet. When Gov. Jeb Bush attacked Net Neutrality, we responded. When Donald Trump said we should "close up the Internet in some way" we were there to [push back](https://internet2016.net/blog/trump-shutting-down-internet/) and stand up for Internet freedom. Ditto for when Secretary Hillary Clinton spoke of shutting "off the means of communication" for terrorist groups and dismissed concerns over how that would impact freedom of speech for everything else online.
 

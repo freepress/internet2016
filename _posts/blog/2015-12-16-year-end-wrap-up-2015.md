@@ -27,9 +27,9 @@ Check out what we've done so far:
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="/internet2016/videos/vb.1411698009155892/1505163873142638/?type=3"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internet2016/videos/1505163873142638/"><a href="https://www.facebook.com/internet2016/videos/1505163873142638/">Oct. 15, 2015: Sen. Ted Cruz on CISA</a><p>On Oct. 15. 2015, Sen. Ted Cruz was asked about the Cyber Information Sharing Act (CISA) at a presidential candidate townhall event. Watch his response. SPOILER: He&#039;s NEVER read it! This is troubling. The Senate will be voting on CISA any day now.</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Wednesday, October 21, 2015</blockquote></div></div>
 
-![Meeting Rand Paul](blog-body-rand.jpg)
+[Meeting Rand Paul](blog-body-rand.jpg)
 
-![Free Press team at town hall event](blog-body-purple-team.jpg)
+[Free Press team at town hall event](blog-body-purple-team.jpg)
 
 **Rallied and distributed materials at campaign events.** Here are some images from our visibility work inside and outside the MassMutual Center during a Bernie Sanders campaign rally: 
 
@@ -46,9 +46,9 @@ Check out what we've done so far:
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Internet access costs too much. How will you increase choice &amp; lower prices for all? <a href="https://twitter.com/hashtag/CNNDebate?src=hash">#CNNDebate</a> <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="https://twitter.com/CNN">@CNN</a></p>&mdash; MAG-Net (@mediaaction) <a href="https://twitter.com/mediaaction/status/644197823571881984">September 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![Rallying at Bernie Sanders event](blog-body-springfield-rally.jpg)
+[Rallying at Bernie Sanders event](blog-body-springfield-rally.jpg)
 
-![Jumbotron at Bernie Sanders event](blog-body-springfield-rally2.jpg)
+[Jumbotron at Bernie Sanders event](blog-body-springfield-rally2.jpg)
 
 **Developed rapid-response campaign actions** when candidates got it wrong about the Internet. When Gov. Jeb Bush attacked Net Neutrality, we responded. When Donald Trump said we should "close up the Internet in some way" we were there to [push back](https://internet2016.net/blog/trump-shutting-down-internet/) and stand up for Internet freedom. Ditto for when Secretary Hillary Clinton spoke of shutting "off the means of communication" for terrorist groups and dismissed concerns over how that would impact freedom of speech for everything else online.
 

@@ -10,7 +10,7 @@ tags: []
 categories:
 - blog
 ---
-A few months ago we set out to make the Internet an issue politicians[couldn't afford to ignore](https://personaldemocracy.com/media/time-internet-party).  
+A few months ago we set out to make the Internet an issue politicians [couldn't afford to ignore](https://personaldemocracy.com/media/time-internet-party).  
 
 Folks on our Internet 2016 team rolled up their sleeves and criss-crossed the country to push back against industry and government efforts to kill Net Neutrality, lock down the Internet, crush press freedom and broaden the digital divide. Our goal: to pressure presidential candidates from all parties to stand up for free speech, access, privacy, choice and openness online.
 
@@ -35,7 +35,7 @@ Check out what we've done so far:
 SPOILER: He&#039;s NEVER read it! This is troubling. The Senate will be voting on CISA any day now.</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Wednesday, October 21, 2015</blockquote></div></div>
 
 
-![Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  <img src="https://internet2016.net/assets/img/blog-body-purple-team.jpg" alt="Free Press team at town hall event" width="500" height="312" />
+![Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  <img src="https://internet2016.net/assets/img/blog-body-purple-team2.jpg" alt="Free Press team at town hall event" width="500" height="312" />
 
 **Rallied and distributed materials at campaign events.** Here are some images from our visibility work inside and outside the MassMutual Center during a Bernie Sanders campaign rally: 
 

@@ -17,11 +17,13 @@ Folks on our Internet 2016 team rolled up their sleeves and criss-crossed the co
 Check out what we've done so far:
 
 **Led bird-dogging workshops in Iowa and New Hampshire.** Alongside allies like the American Friends Service Committee's Governing Under the Influence project, the ACLU of New Hampshire and One Iowa, we trained activists to ask the candidates pointed questions. We armed participants with info about Internet freedom and made sure they got everything they needed — signs, stickers, copies of the advocacy toolkit and policy platform — to hit the ground running.
+
 ![Iowa bird-dogging workshop](https://internet2016.net/assets/img/blog-body-ia-workshop.jpg)
 
 ![New Hampshire bird-dogging workshop](https://internet2016.net/assets/img/blog-body-nh-workshop.jpg)
 
 **Met with more than a dozen candidates.** Our organizers have been face-to-face with all of the major candidates and most of the others. (You can check out our reports and videos on the [Internet 2016 blog](https://internet2016.net/blog/).)
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Here&#39;s presidential candidate <a href="https://twitter.com/marcorubio">@marcorubio</a> on privacy. Where do the other candidates stand? <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="http://t.co/RqtM18Clx2">pic.twitter.com/RqtM18Clx2</a></p>&mdash; Internet 2016 (@internet_2016) <a href="https://twitter.com/internet_2016/status/652218582915510272">October 8, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -39,7 +41,9 @@ Check out what we've done so far:
 **Rolled out a proactive [policy platform](https://internet2016.net/policyplatform/)** that reflects the principles and priorities of millions of Internet voters. We're working with allies to plan a comprehensive launch and roll-out of the platform to journalists and the candidates themselves. 
 
 **Asked pointed questions online both before and during presidential debates.** Watch Craig Aaron [ask his question](https://www.youtube.com/watch?v=lsgBv57cKew), which we submitted to one of the GOP debates. And check out the video organizer Lucia Martínez submitted to MoveOn.org's Democratic Presidential Candidate Forum. Allies like the Center for Media Justice and Demand Progress joined social media actions promoting Internet freedom before and during debates. We also submitted questions for Gov. Martin O'Malley and Carly Fiorina via Twitter during the Iowa Presidential Tech Town Hall. 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We have a right to privacy online. What will you do to end unchecked spying &amp; surveillance? <a href="https://twitter.com/hashtag/CNNDebate?src=hash">#CNNDebate</a> <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="https://twitter.com/CNN">@CNN</a></p>&mdash; Demand Progress (@demandprogress) <a href="https://twitter.com/demandprogress/status/644128316077834240">September 16, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We have a right to privacy online. What will you do to end unchecked spying &amp; surveillance? 
+
+<a href="https://twitter.com/hashtag/CNNDebate?src=hash">#CNNDebate</a> <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="https://twitter.com/CNN">@CNN</a></p>&mdash; Demand Progress (@demandprogress) <a href="https://twitter.com/demandprogress/status/644128316077834240">September 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Internet access costs too much. How will you increase choice &amp; lower prices for all? <a href="https://twitter.com/hashtag/CNNDebate?src=hash">#CNNDebate</a> <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="https://twitter.com/CNN">@CNN</a></p>&mdash; MAG-Net (@mediaaction) <a href="https://twitter.com/mediaaction/status/644197823571881984">September 16, 2015</a></blockquote>

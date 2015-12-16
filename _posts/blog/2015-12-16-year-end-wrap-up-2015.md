@@ -23,9 +23,7 @@ Check out what we've done so far:
 **Met with more than a dozen candidates.** Our organizers have been face-to-face with all of the major candidates and most of the others. (You can check out our reports and videos on the [Internet 2016 blog](https://internet2016.net/blog/).)
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Here&#39;s presidential candidate <a href="https://twitter.com/marcorubio">@marcorubio</a> on privacy. Where do the other candidates stand? <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="http://t.co/RqtM18Clx2">pic.twitter.com/RqtM18Clx2</a></p>&mdash; Internet 2016 (@internet_2016) <a href="https://twitter.com/internet_2016/status/652218582915510272">October 8, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div id="fb-root"></div>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;

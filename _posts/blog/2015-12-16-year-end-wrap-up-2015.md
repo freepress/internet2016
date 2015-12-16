@@ -33,7 +33,7 @@ Check out what we've done so far:
 }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-video" data-href="https://www.facebook.com/internet2016/videos/1505163873142638/" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internet2016/videos/1505163873142638/"><a href="https://www.facebook.com/internet2016/videos/1505163873142638/">Oct. 15, 2015: Sen. Ted Cruz on CISA</a><p>On Oct. 15. 2015, Sen. Ted Cruz was asked about the Cyber Information Sharing Act (CISA) at a presidential candidate townhall event. Watch his response. 
 SPOILER: He&#039;s NEVER read it! This is troubling. The Senate will be voting on CISA any day now.</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Wednesday, October 21, 2015</blockquote></div></div>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 ![Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  <img src="https://internet2016.net/assets/img/blog-body-purple-team2.jpg" alt="Free Press team at town hall event" width="500" height="312" />
 
 **Rallied and distributed materials at campaign events.** Here are some images from our visibility work inside and outside the MassMutual Center during a Bernie Sanders campaign rally: 

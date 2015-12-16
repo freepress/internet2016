@@ -5,7 +5,7 @@ fbsharetext: "I'm an #InternetVoter. I stand for free speech, access, privacy, c
 fbshareimg: "https://internet2016.net/assets/img/i-heart-the-internet-lawn-sign-tablet-fb.png"
 collections:
   toolkits:
-permalink: /:categories/:title
+permalink: /:categories/:title.html
 img_dir: "/assets/img/"
 js_dir: "/assets/js/"
 css_dir: "/assets/css/"

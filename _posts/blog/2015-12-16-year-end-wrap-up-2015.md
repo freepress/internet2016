@@ -28,8 +28,7 @@ Check out what we've done so far:
 ![Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  <img src="https://internet2016.net/assets/img/blog-body-purple-team2.jpg" alt="Free Press team at town hall event" width="500" height="312" />
 
 **Rallied and distributed materials at campaign events.** Here are some images from our visibility work inside and outside the MassMutual Center during a Bernie Sanders campaign rally: 
-![Rallying at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally.jpg)
-![Jumbotron at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally3.jpg)
+![Rallying at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally.jpg) <img src="https://internet2016.net/assets/img/blog-body-springfield-rally3.jpg" alt="Internet 2016 on jumbotron at Bernie Sanders rally" width="" height="375" />
 
 **Talked with #InternetVoters in Iowa and New Hampshire.** Voters expressed concerns like “I don't want to live in a world where the Internet isn't free.” Read more from Free Press Action Fund members [here](https://internet2016.net/blog/don't-want-to-live-in-world-internet-free.html). 
 

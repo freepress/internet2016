@@ -21,9 +21,6 @@ Check out what we've done so far:
 <img src="https://internet2016.net/assets/img/blog-body-ia-workshop.jpg" alt="Iowa bird-dogging" width="500" height="362" />  ![New Hampshire bird-dogging workshop](https://internet2016.net/assets/img/blog-body-nh-workshop.jpg)
 
 **Met with more than a dozen candidates.** Our organizers have been face-to-face with all of the major candidates and most of the others. (You can check out our reports and videos on the [Internet 2016 blog](https://internet2016.net/blog/).)
-
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Here&#39;s presidential candidate <a href="https://twitter.com/marcorubio">@marcorubio</a> on privacy. Where do the other candidates stand? <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="http://t.co/RqtM18Clx2">pic.twitter.com/RqtM18Clx2</a></p>&mdash; Internet 2016 (@internet_2016) <a href="https://twitter.com/internet_2016/status/652218582915510272">October 8, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -31,11 +28,9 @@ Check out what we've done so far:
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-video" data-href="https://www.facebook.com/internet2016/videos/1505163873142638/" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internet2016/videos/1505163873142638/"><a href="https://www.facebook.com/internet2016/videos/1505163873142638/">Oct. 15, 2015: Sen. Ted Cruz on CISA</a><p>On Oct. 15. 2015, Sen. Ted Cruz was asked about the Cyber Information Sharing Act (CISA) at a presidential candidate townhall event. Watch his response. 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Here&#39;s presidential candidate <a href="https://twitter.com/marcorubio">@marcorubio</a> on privacy. Where do the other candidates stand? <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="http://t.co/RqtM18Clx2">pic.twitter.com/RqtM18Clx2</a></p>&mdash; Internet 2016 (@internet_2016) <a href="https://twitter.com/internet_2016/status/652218582915510272">October 8, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><div id="fb-root"></div><div class="fb-video" data-href="https://www.facebook.com/internet2016/videos/1505163873142638/" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internet2016/videos/1505163873142638/"><a href="https://www.facebook.com/internet2016/videos/1505163873142638/">Oct. 15, 2015: Sen. Ted Cruz on CISA</a><p>On Oct. 15. 2015, Sen. Ted Cruz was asked about the Cyber Information Sharing Act (CISA) at a presidential candidate townhall event. Watch his response. 
 SPOILER: He&#039;s NEVER read it! This is troubling. The Senate will be voting on CISA any day now.</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Wednesday, October 21, 2015</blockquote></div></div>
-
-
-
 
 ![Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  <img src="https://internet2016.net/assets/img/blog-body-purple-team2.jpg" alt="Free Press team at town hall event" width="500" height="312" />
 

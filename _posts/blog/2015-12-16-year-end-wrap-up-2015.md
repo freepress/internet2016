@@ -52,7 +52,7 @@ SPOILER: He&#039;s NEVER read it! This is troubling. The Senate will be voting o
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Internet access costs too much. How will you increase choice &amp; lower prices for all? <a href="https://twitter.com/hashtag/CNNDebate?src=hash">#CNNDebate</a> <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="https://twitter.com/CNN">@CNN</a></p>&mdash; MAG-Net (@mediaaction) <a href="https://twitter.com/mediaaction/status/644197823571881984">September 16, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<br>
 ![Rallying at Bernie Sanders event](https://internet2016.net/assets/img/blog-body-springfield-rally.jpg)
 
 **Developed rapid-response campaign actions** when candidates got it wrong about the Internet. When Gov. Jeb Bush attacked Net Neutrality, we responded. When Donald Trump said we should "close up the Internet in some way" we were there to [push back](https://internet2016.net/blog/trump-shutting-down-internet/) and stand up for Internet freedom. Ditto for when Secretary Hillary Clinton spoke of shutting "off the means of communication" for terrorist groups and dismissed concerns over how that would impact freedom of speech for everything else online.

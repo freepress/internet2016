@@ -2,7 +2,7 @@
 layout: blogpost_single
 headerimg: blog-2015-wrap.jpg
 title: "Internet 2016: We're Just Getting Started"
-teaser: "A few months ago we set out to make the Internet an issue politicians couldn't afford to ignore"
+teaser: "A few months ago we set out to make the Internet an issue politicians couldn't afford to ignore."
 thumbnail: thumbnail-blog-map.svg
 author: <strong>Mary Alice Crim</strong>
 publish_date: Dec. 16, 2015

@@ -10,8 +10,6 @@ tags: []
 categories:
 - blog
 ---
-<img src="https://internet2016.net/assets/img/blog-body-ia-workshop.jpg" alt="Iowa bird-dogging" width="500" height="362" />
-
 I've been traveling around Iowa bird-dogging candidates on Internet freedom issues, especially the need to protect our Fourth Amendment right to privacy. Here's what I learned on my most recent trip:
 
 **Gov. Chris Christie**
@@ -23,6 +21,7 @@ As he talked further, it became clear that Christie is more inclined to protect 
 
 **Dr. Ben Carson**
 Carson briefly addressed surveillance concerns at a veterans and military town hall in Waterloo. The moderator asked Carson if he thought implementation of the [USA Freedom Act](http://www.freepress.net/blog/2015/06/03/usa-freedom-act-passed-now-what), which changes the way the government can access phone metadata, should be delayed. Carson said that he "[might not be too upset about delaying the change](https://www.facebook.com/internet2016/videos/1533344723657886/)." Carson went on to say that "we need to make sure that we have in place something that allows us the access we need to potential terrorists but doesn't compromise the Fourth Amendment rights of our citizens."
+
 <img src="https://internet2016.net/assets/img/blog-body-carson.jpg" alt="Presidential candidate Dr. Ben Carson" width="" height="" />
 
 **Gov. Martin O'Malley**

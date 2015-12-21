@@ -37,7 +37,7 @@ Internet voters want to know where the other candidates stand on privacy and oth
 
 Our Massachusetts staff kicked October off with a trip to a Bernie Sanders rally in Springfield. We handed out stickers and held our signs, even getting one of our placards featured on the MassMutual Center Jumbotron. Pictured here is Free Press Action Fund Managing Director Misty Perez Truedson with one of her favorite future #InternetVoters.
 
-<img src="https://internet2016.net/assets/img/blog-body-theo-misty.jpg" alt="Bernie Sanders Rally" width="" height="" />
+<img src="https://internet2016.net/assets/img/blog-body-theo-misty.jpg" alt="Bernie Sanders Rally" width="280" height="440" />
 
 **November**
 Free Press Action Fund Campaign Organizer Katherine Fuchs teamed up with one of our Iowa City members, Trish Nelson, to get Gov. Bobby Jindal on the record explaining his position on mass government surveillance programs. Trish attended our bird-dogging workshop in September and recorded Katherine asking our question as Jindal left a gathering on the outskirts of Iowa City.
@@ -50,7 +50,7 @@ Katherine kept going strong on her October tour through Iowa, attending a Rand P
 
 Several of our Massachusetts staffers showed at a Hillary Clinton town hall in Keene, New Hampshire. Just four days after this event, Clinton published an Op-Ed in Quartz [calling out corporate concentration](http://qz.com/529303/hillary-clinton-being-pro-business-doesnt-mean-hanging-consumers-out-to-dry/) in several sectors, including the broadband industry. In the same piece, Clinton called for enforcing strong Net Neutrality rules and "preempting state laws that unfairly protect incumbent businesses" — presumably a dig at state bans on municipal broadband.
 
-<img src="https://internet2016.net/assets/img/blog-body-clinton-sticker.jpg" alt="Hillary Clinton taking questions from crowd" width="" height="" />
+<img src="https://internet2016.net/assets/img/blog-body-clinton-sticker.jpg" alt="Hillary Clinton taking questions from crowd" width="280" height="440" />
 
 Free Press Action Fund Office Manager Rachel Courtney asked Sen. Marco Rubio about [surveillance and digital privacy](https://internet2016.net/blog/surveillance-bird-dog-rubio.html) during a handshake line after a town hall at Rivier College in Nashua, New Hampshire. Rubio claimed the problems with domestic surveillance "have been greatly exaggerated."
 
@@ -69,7 +69,7 @@ Is that why he didn't show up in the Senate to vote against the CISA spying bill
 
 Free Press Action Fund attended a Trump rally in Worcester, Massachusetts. No one from our Internet 2016 team was able to ask a question, but First Amendment issues were front and center throughout the night. Both protesters and the media were [confined to pens](https://internet2016.net/blog/trump-rally-worcester.html), ensuring they wouldn't interact too closely with the Trump team or supporters.
 
-<img src="https://internet2016.net/assets/img/blog-body-trump-rally.jpg" alt="Donald Trump speaking before audience at rally" width="" height="" />
+<img src="https://internet2016.net/assets/img/blog-body-trump-rally.jpg" alt="Donald Trump speaking before audience at rally" width="440" height="280" />
 
 At a VFW post in Franklin, New Hampshire, Free Press Action Fund's Mary Alice Crim and Heather Franklin got a chance to [ask Jeb Bush about surveillance](https://internet2016.net/blog/surveillance-bird-dog-jeb.html). Bush said that "There's a way to balance protection of the homeland and making sure that we're not snooping on people, American citizens, clearly that's not the thing to do." However, Bush didn't explain how he would achieve these divergent goals.
 
@@ -78,7 +78,7 @@ At a VFW post in Franklin, New Hampshire, Free Press Action Fund's Mary Alice Cr
 
 At a town hall held in a fire station In Loudon, New Hampshire, Mary Alice asked Chris Christie about unwarranted surveillance. Christie focused on the "unwarranted" part of our question and insisted that the government isn't listening in on people's phone calls.
 
-<img src="https://internet2016.net/assets/img/blog-body-chris-christie2.jpg" alt="Chris Christie answering questions at a town hall" width="" height="" />
+<img src="https://internet2016.net/assets/img/blog-body-chris-christie2.jpg" alt="Chris Christie answering questions at a town hall" width="440" height="280" />
 
 **December**
 

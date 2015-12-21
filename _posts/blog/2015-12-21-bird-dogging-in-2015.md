@@ -78,7 +78,7 @@ At a VFW post in Franklin, New Hampshire, Free Press Action Fund's Mary Alice Cr
 
 At a town hall held in a fire station In Loudon, New Hampshire, Mary Alice asked Chris Christie about unwarranted surveillance. Christie focused on the "unwarranted" part of our question and insisted that the government isn't listening in on people's phone calls.
 
-<img src="https://internet2016.net/assets/img/blog-body-chris-christie2.jpg" alt="Chris Christie answering questions at a town hall" width="440" height="280" />
+<img src="https://internet2016.net/assets/img/blog-body-chris-christie2.jpg" alt="Chris Christie answering questions at a town hall" width="440" height="300" />
 
 **December**
 

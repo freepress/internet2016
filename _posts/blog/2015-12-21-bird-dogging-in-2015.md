@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-internet-vote-button.jpg
+headerimg: blog-internet-vote-button2.jpg
 title: "Four Months of Bird-Dogging in the Internet 2016 Campaign"
 teaser: "Since launching our Internet 2016 campaign earlier this year, we've been demanding that presidential candidates from all parties develop Internet freedom platforms."
 thumbnail: thumbnail-blog-calendar.svg
@@ -39,6 +39,7 @@ Our Massachusetts staff kicked October off with a trip to a Bernie Sanders rally
 
 <img src="https://internet2016.net/assets/img/blog-body-theo-misty.jpg" alt="Bernie Sanders Rally" width="" height="" />
 
+**November**
 Free Press Action Fund Campaign Organizer Katherine Fuchs teamed up with one of our Iowa City members, Trish Nelson, to get Gov. Bobby Jindal on the record explaining his position on mass government surveillance programs. Trish attended our bird-dogging workshop in September and recorded Katherine asking our question as Jindal left a gathering on the outskirts of Iowa City.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/bSPWOaCLw3c" frameborder="0" allowfullscreen></iframe>

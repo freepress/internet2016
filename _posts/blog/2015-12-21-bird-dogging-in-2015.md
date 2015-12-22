@@ -63,6 +63,7 @@ Katherine kept going strong on her October tour through Iowa, attending a Rand P
 Several of our Massachusetts staffers showed at a Hillary Clinton town hall in Keene, New Hampshire. Just four days after this event, Clinton published an Op-Ed in Quartz [calling out corporate concentration](http://qz.com/529303/hillary-clinton-being-pro-business-doesnt-mean-hanging-consumers-out-to-dry/) in several sectors, including the broadband industry. In the same piece, Clinton called for enforcing strong Net Neutrality rules and "preempting state laws that unfairly protect incumbent businesses" — presumably a dig at state bans on municipal broadband.
 
 <img src="https://internet2016.net/assets/img/blog-body-clinton-sticker.jpg" alt="Hillary Clinton taking questions from crowd" width="300" height="400" />
+
 **November**
 
 Free Press Action Fund Office Manager Rachel Courtney asked Sen. Marco Rubio about [surveillance and digital privacy](https://internet2016.net/blog/surveillance-bird-dog-rubio.html) during a handshake line after a town hall at Rivier College in Nashua, New Hampshire. Rubio claimed the problems with domestic surveillance "have been greatly exaggerated."

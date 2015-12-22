@@ -39,18 +39,31 @@ Our Massachusetts staff kicked October off with a trip to a Bernie Sanders rally
 
 <img src="https://internet2016.net/assets/img/blog-body-theo-misty.jpg" alt="Bernie Sanders Rally" width="300" height="400" />
 
-**November**
 Free Press Action Fund Campaign Organizer Katherine Fuchs teamed up with one of our Iowa City members, Trish Nelson, to get Gov. Bobby Jindal on the record explaining his position on mass government surveillance programs. Trish attended our bird-dogging workshop in September and recorded Katherine asking our question as Jindal left a gathering on the outskirts of Iowa City.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/bSPWOaCLw3c" frameborder="0" allowfullscreen></iframe>
 
 Katherine later attended a meet-and-greet with Sen. Ted Cruz in Kalona, Iowa. During the Q&A Katherine asked Cruz about his position on the dangerous Cyber Information Sharing Act (CISA); he said he wasn't familiar with the legislation. [None of the senators](https://internet2016.net/blog/cisa-presidential-candidates.html) running for president showed up to vote on CISA in October.
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-video" data-href="https://www.facebook.com/internet2016/videos/vb.1411698009155892/1505163873142638" data-width="400"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internet2016/videos/1505163873142638/"><a href="https://www.facebook.com/internet2016/videos/1505163873142638/">Oct. 15, 2015: Sen. Ted Cruz on CISA</a><p>On Oct. 15. 2015, Sen. Ted Cruz was asked about the Cyber Information Sharing Act (CISA) at a presidential candidate townhall event. Watch his response. 
+
+SPOILER: He's NEVER read it! This is troubling. The Senate will be voting on CISA any day now.</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Wednesday, October 21, 2015</blockquote></div></div>
+
 Katherine kept going strong on her October tour through Iowa, attending a Rand Paul rally at Drake University in Des Moines. Sen. Paul didn't give us a chance to ask a question, but he did spend some of his speech talking about the Fourth Amendment and steps he would take to cut back government surveillance on- and off-line. While Paul was outspoken about the need to roll back government surveillance, he still didn't show up for the CISA vote that happened just a few days after this video was taken.
 
 Several of our Massachusetts staffers showed at a Hillary Clinton town hall in Keene, New Hampshire. Just four days after this event, Clinton published an Op-Ed in Quartz [calling out corporate concentration](http://qz.com/529303/hillary-clinton-being-pro-business-doesnt-mean-hanging-consumers-out-to-dry/) in several sectors, including the broadband industry. In the same piece, Clinton called for enforcing strong Net Neutrality rules and "preempting state laws that unfairly protect incumbent businesses" — presumably a dig at state bans on municipal broadband.
 
 <img src="https://internet2016.net/assets/img/blog-body-clinton-sticker.jpg" alt="Hillary Clinton taking questions from crowd" width="300" height="400" />
+**November**
 
 Free Press Action Fund Office Manager Rachel Courtney asked Sen. Marco Rubio about [surveillance and digital privacy](https://internet2016.net/blog/surveillance-bird-dog-rubio.html) during a handshake line after a town hall at Rivier College in Nashua, New Hampshire. Rubio claimed the problems with domestic surveillance "have been greatly exaggerated."
 
@@ -67,11 +80,11 @@ Free Press Action Fund Office Manager Rachel Courtney asked Sen. Marco Rubio abo
 
 Is that why he didn't show up in the Senate to vote against the CISA spying bill?</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Thursday, November 5, 2015</blockquote></div></div>
 
-Free Press Action Fund attended a Trump rally in Worcester, Massachusetts. No one from our Internet 2016 team was able to ask a question, but First Amendment issues were front and center throughout the night. Both protesters and the media were [confined to pens](https://internet2016.net/blog/trump-rally-worcester.html), ensuring they wouldn't interact too closely with the Trump team or supporters.
+The Free Press Action Fund’s Rachel Courtney and Field Director Mary Alice Crim attended a Trump rally in Worcester, Massachusetts. No one from our Internet 2016 team was able to ask a question, but First Amendment issues were front and center throughout the night. Both protesters and the media were [confined to pens](https://internet2016.net/blog/trump-rally-worcester.html), ensuring they wouldn't interact too closely with the Trump team or supporters.
 
 <img src="https://internet2016.net/assets/img/blog-body-trump-rally.jpg" alt="Donald Trump speaking before audience at rally" width="400" height="300" />
 
-At a VFW post in Franklin, New Hampshire, Free Press Action Fund's Mary Alice Crim and Heather Franklin got a chance to [ask Jeb Bush about surveillance](https://internet2016.net/blog/surveillance-bird-dog-jeb.html). Bush said that "There's a way to balance protection of the homeland and making sure that we're not snooping on people, American citizens, clearly that's not the thing to do." However, Bush didn't explain how he would achieve these divergent goals.
+At a VFW post in Franklin, New Hampshire, the Free Press Action Fund's Mary Alice Crim and Heather Franklin got a chance to [ask Jeb Bush about surveillance](https://internet2016.net/blog/surveillance-bird-dog-jeb.html). Bush said that "There's a way to balance protection of the homeland and making sure that we're not snooping on people, American citizens, clearly that's not the thing to do." However, Bush didn't explain how he would achieve these divergent goals.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Jeb Bush in NH answering a Q re: surveillance by fed govt of US citizens. <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/internetvoter?src=hash">#internetvoter</a> <a href="https://t.co/xPMcUcJhNn">pic.twitter.com/xPMcUcJhNn</a></p>&mdash; Heather Franklin (@hfranklin93) <a href="https://twitter.com/hfranklin93/status/665203657663758336">November 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -127,7 +140,7 @@ Fiorina focused her remarks from the stage on cybersecurity issues, avoiding tak
 
 <div class="fb-video" data-href="https://www.facebook.com/internet2016/videos/1533347876990904/" data-width="400"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/internet2016/videos/1533347876990904/"><a href="https://www.facebook.com/internet2016/videos/1533347876990904/">Presidential candidate Carly Fiorini on Net Neutrality and bro...</a><p>Presidential candidate Carly Fiorina answers questions on Net Neutrality and increasing competition in the broadband market.</p>Posted by <a href="https://www.facebook.com/internet2016/">Internet 2016</a> on Friday, December 18, 2015</blockquote></div></div>
 
-After the town hall, Katherine found two opportunities to ask O'Malley about expanding affordable broadband access. First, she asked him how he would expand broadband access in low-income communities. He replied that he would extend initiatives begun under the American Reinvestment and Recovery Act. Later, Katherine asked how O'Malley would increase competition in the broadband market. The governor pointed to his "15 Goals to Rebuild the American Dream, which include "restore America's competition and antitrust laws, taking action within one year in office."
+After the town hall, Katherine found two opportunities to ask O'Malley about expanding affordable broadband access. First, she asked him how he would expand broadband access in low-income communities. He replied that he would extend initiatives begun under the American Reinvestment and Recovery Act. Later, Katherine asked how O'Malley would increase competition in the broadband market. The governor pointed to his "15 Goals to Rebuild the American Dream," which include "restore America's competition and antitrust laws, taking action within one year in office."
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {

@@ -15,6 +15,12 @@ a:hover {
   text-decoration: underline;
 }
 
+/* responsive images by default */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 hr {
  border-top: 1px solid #663399;
 }
@@ -65,10 +71,21 @@ footer a, footer a:link, footer a:visited {
 #featured {
   background-color: #FFFF00;
   color: #000;
+  padding: 30px 0;
 }
 
-#call-to-action, #featured, #spread-the-word, #blog-post-single {
-  padding:4em;
+#blog-post-single {
+  padding: 0;
+}
+
+#call-to-action, #spread-the-word {
+  padding: 0 20px;
+}
+
+@media (min-width:767px){
+  #call-to-action, #featured, #spread-the-word, #blog-post-single {
+    padding:4em;
+  }
 }
 
 footer {
@@ -278,13 +295,13 @@ min-height: 350px;
 
 
 .toolkit-single-main-icon {
-  padding: 3%;
+  padding: 3% 0;
   margin: 0 auto;
   width: 25%;
 }
 
 .bloglist-single-main-icon {
-  padding: 3%;
+  padding: 3% 0;
   margin: 0 auto;
 }
 
@@ -526,4 +543,12 @@ main {
 .social-sharing:hover {
     color: #fff;
     background-color: #00C6FF;
+}
+
+/* utility classes */
+.u-mw700 {
+  max-width: 700px;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
 }

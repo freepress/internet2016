@@ -14,7 +14,7 @@ In our increasingly digital age, the divide in Internet connectivity further mar
  
 We all need the Internet. This is why some of the presidential candidates are addressing lack of access as an infrastructure issue.
  
-Last November, Secretary Hillary Clinton released an [infrastructure plan](https://www.hillaryclinton.com/briefing/factsheets/2015/11/30/clinton-infrastructure-plan-builds-tomorrows-economy-today/) that includes expanding affordable access to broadband. Should she be elected, Clinton says she will "finish the job of connecting America's households to the Internet, committing that by 2020, 100 percent of households in America will have access to affordable broadband that delivers world-class speeds … "
+Last November, Secretary Hillary Clinton released an [infrastructure plan](https://www.hillaryclinton.com/briefing/factsheets/2015/11/30/clinton-infrastructure-plan-builds-tomorrows-economy-today/) that includes expanding affordable access to broadband. Should she be elected, Clinton says she will "finish the job of connecting America's households to the Internet, committing that by 2020, 100 percent of households in America will have access to affordable broadband that delivers world-class speeds …"
  
 Sen. Bernie Sanders has released a [similar plan](https://berniesanders.com/issues/creating-jobs-rebuilding-america/), one that commits to investing "$5 billion a year to expand high-speed broadband networks in under-served and unserved areas." These plans reflect the importance that broadband and other tech issues will play in this election.
  

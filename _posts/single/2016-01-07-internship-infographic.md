@@ -5,5 +5,4 @@ categories:
 - single
 ---
 
-
-<p style="text-align: center;"><img src="https://internet2016.net/assets/img/internet-2016-campaign-intern-final.jpg"></p>
+<object width="900" height="1992" data="internet-2016-campaign-intern.pdf"></object>

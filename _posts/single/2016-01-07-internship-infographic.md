@@ -4,5 +4,4 @@ title: ""
 categories:
 - single
 ---
-
-<embed src="internet-2016-campaign-intern.pdf" width="900" height="1992"></embed>
+<object width="900" height="1992" data="https://internet2016.net/assets/img/internet-2016-campaign-intern.pdf"></object>

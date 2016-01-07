@@ -6,4 +6,4 @@ categories:
 ---
 
 
-https://internet2016.net/assets/img/internet-2016-campaign-intern.pdf
+<img src="https://internet2016.net/assets/img/internet-2016-campaign-intern.jpg">

@@ -3,7 +3,7 @@ layout: blogpost_single
 headerimg: blog-ted-cruz-doesnt-understand-the-internet-lol.jpg
 title: "Truth-Testing Ted Cruz’s Net Neutrality Lunacy"
 teaser: "During a campaign stop in New Hampshire on Wednesday, Sen. Ted Cruz slammed the Federal Communications Commission’s 2015 decision to protect the open Internet. His comments were captured in a video now being circulated by Protect Internet Freedom, an anti-Net Neutrality Astroturf group made up of GOP public relations staffers."
-thumbnail: thumbnail-truth-test.svg
+thumbnail: thumbnail-blog-truth-test.svg
 author: <strong>Timothy Karr</strong>
 publish_date: Jan. 22, 2016
 tags: []

@@ -50,7 +50,7 @@ Actually, <a href="https://youtu.be/uKcjQPVwfDk">President Obama’s statement</
 
 <div style="padding-left:2em; font-style: italic;">
 <p>
-The FCC explicitly stated that its open Internet rules don’t subject Internet access providers to rate setting, tariffs or [wholesaling](http://oecdinsights.org/2013/03/05/stimulating-competition-through-open-access-networks/) requirements. “The order bars the kinds of tariffing, rate regulation, unbundling requirements and administrative burdens that are the hallmarks of traditional utility regulation,” FCC Chairman Tom Wheeler <a href="https://apps.fcc.gov/edocs_public/attachmatch/DOC-332486A1.pdf">wrote in a memo</a> released alongside the new rules. “No broadband provider will need to get the FCC’s approval before offering any price, product or plan.”</p>
+The FCC explicitly stated that its open Internet rules don’t subject Internet access providers to rate setting, tariffs or <a href="http://oecdinsights.org/2013/03/05/stimulating-competition-through-open-access-networks/">wholesaling</a> requirements. “The order bars the kinds of tariffing, rate regulation, unbundling requirements and administrative burdens that are the hallmarks of traditional utility regulation,” FCC Chairman Tom Wheeler <a href="https://apps.fcc.gov/edocs_public/attachmatch/DOC-332486A1.pdf">wrote in a memo</a> released alongside the new rules. “No broadband provider will need to get the FCC’s approval before offering any price, product or plan.”</p>
 </div>
 
 **“ … Anyone who wants to innovate has to go to government regulators to get permission to launch some new website to do something novel on the Internet. That is lunacy … ”**

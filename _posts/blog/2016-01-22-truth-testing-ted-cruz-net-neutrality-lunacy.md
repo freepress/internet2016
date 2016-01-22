@@ -43,7 +43,7 @@ Title II has always applied to business-grade broadband services too, with AT&T 
 <p>
 Actually, <a href="https://youtu.be/uKcjQPVwfDk">President Obama’s statement</a> on Title II made it clear that his Net Neutrality support didn’t amount to Internet regulation. The rules themselves are clear: The laws that a bipartisan Congress wrote in Title II and the FCC’s order itself apply to broadband access providers. That’s an important distinction that the anti-Net Neutrality crowd routinely ignores. In late 2014, Obama said “I’m urging the FCC to do everything they can to protect Net Neutrality for everyone. They should make it clear that whether you use a computer, phone or tablet, Internet providers have a legal obligation not to block or limit your access to a website. Cable companies can’t decide which online stores you can shop at or which streaming services you can use. And they can’t let any company pay for priority over its competitors.”</p>
 
-<p>See? Net Neutrality protects Internet users by letting them — and <span style="font-style: normal;">not</span> their broadband providers — decide where they want to go on the open Internet. That’s why millions of Internet users have demanded Net Neutrality protections.</p>
+<p>See? Net Neutrality protects Internet users by letting them — and <span style="font-style: none;">not</span> their broadband providers — decide where they want to go on the open Internet. That’s why millions of Internet users have demanded Net Neutrality protections.</p>
 </div>
 
 **“ … So what the FCC has done, under Title II they have deemed the Internet a regulated public utility. And as a consequence they’re claiming the authority to regulate pricing and terms of sale ...”**
@@ -79,6 +79,6 @@ The FCC explicitly stated that its open Internet rules don’t subject Internet 
 
 <div style="padding-left:2em; font-style: italic;">
 <p>
-Well, he got one thing right. It is a great idea. And real Net Neutrality looks nothing like what Ted Cruz says. But Net Neutrality does help ensure that we can use the Internet to set the record straight.
+Well, he got one thing right. It <span style="font-style: none;">is</span> a great idea. And real Net Neutrality looks nothing like what Ted Cruz says. But Net Neutrality does help ensure that we can use the Internet to set the record straight.
 </p>
 </div>

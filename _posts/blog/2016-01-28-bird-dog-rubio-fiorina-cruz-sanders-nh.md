@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-bernie-speech.jpg
+headerimg: blog-bernies-speech.jpg
 title: "Bird-Dogging Rubio, Fiorina, Cruz and Sanders in New Hampshire"
 teaser: "With the Iowa caucus days away and the New Hampshire primary fast approaching, presidential candidates are in full campaign mode."
 thumbnail: thumbnail-blog-podium.svg

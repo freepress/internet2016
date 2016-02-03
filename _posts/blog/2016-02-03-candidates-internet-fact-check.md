@@ -10,7 +10,7 @@ tags: []
 categories:
 - blog
 ---
-*####People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart.####*
+####People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart.####
 
 I've got some good news and some bad news.
 
@@ -26,7 +26,7 @@ Whether you're one of the more than 10 million people who [protested congression
 
 That's a good thing, right? Here's the problem. Presidential candidates on both sides of the aisle haven't caught up with the rest of us. When facing intelligent questions about their views on important Internet issues, they just plain get it wrong most of the time. 
 
-https://internet2016.net/assets/img/blog-kasich.jpeg
+<img src="https://internet2016.net/assets/img/blog-kasich.jpeg">
 
 **Kasich: Let's Not Talk About It** 
 
@@ -42,7 +42,7 @@ During last Thursday's [GOP debate](https://www.washingtonpost.com/news/the-fix/
 
 Maybe it's an odd sense of secrecy and decorum motivating his answer. Or maybe Kasich would rather not talk about encryption because he knows very little about it. In 2016, we should expect our politicians to be better versed on matters that affect everyone's right to communicate in private.
 
-https://internet2016.net/assets/img/blog-clinton.jpeg
+<img src="https://internet2016.net/assets/img/blog-clinton.jpeg">
 
 **Clinton: It's Complicated**
 
@@ -54,7 +54,7 @@ Well, the thinking is pretty far along at this point. Encryption isn't the evil 
 
 Were a President Clinton to succeed in weakening encryption services offered in the United States, terrorists would simply go elsewhere to find bulletproof, end-to-end  tools. Much of the encryption software developed in the U.S. is already out of our hands, owing to relaxed [export controls](https://www.schneier.com/blog/archives/2014/11/the_return_of_c.html) over the past decade. Law-abiding Americans who use encryption for legitimate ends would suffer the most from attempts to disable these tools.
 
-https://internet2016.net/assets/img/blog-cruz.jpeg
+<img src="https://internet2016.net/assets/img/blog-cruz.jpeg">
 
 **Cruz: It's Lunacy**
 
@@ -78,7 +78,7 @@ China's Great Firewall is not the sort of precedent Trump or any other president
 
 Unfortunately, the social media companies that host much of our communications have a [spotty](https://onlinecensorship.org/) [record](http://www.huffingtonpost.com/timothy-karr/your-rights-gone-with-a-c_b_3784720.html) when it comes to determining what is a censorable offense and what's merely contentious public discourse. Forcing host companies to police speech on social media is a path riddled with First Amendment potholes.
 
-https://internet2016.net/assets/img/blog-bush.jpeg
+<img src="https://internet2016.net/assets/img/blog-bush.jpeg">
 
 **Bush: It's Crazy**
 

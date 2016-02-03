@@ -10,7 +10,7 @@ tags: []
 categories:
 - blog
 ---
-<h3><em>People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart.</em></h3>
+<h3>People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart.</h3>
 
 I've got some good news and some bad news.
 

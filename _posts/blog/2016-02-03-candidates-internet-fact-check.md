@@ -2,6 +2,7 @@
 layout: blogpost_single
 headerimg: blog-sticker-nh.jpg
 title: "It's the Internet, Stupid"
+"People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart."
 teaser: "People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart."
 thumbnail: thumbnail-blog-eagle.svg
 author: <strong>Tim Karr</strong>
@@ -10,8 +11,6 @@ tags: []
 categories:
 - blog
 ---
-<h3>People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart.</h3>
-
 I've got some good news and some bad news.
 
 The good news is that presidential candidates are starting to talk about Internet issues.

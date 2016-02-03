@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: 
+headerimg: blog-sticker-nh.jpg
 title: "It's the Internet, Stupid"
 teaser: "People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart."
 thumbnail: thumbnail-blog-eagle.svg
@@ -10,7 +10,7 @@ tags: []
 categories:
 - blog
 ---
-<h4>People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart.</h4>
+<h3><strong><em>People are asking the candidates intelligent questions about the Internet. If only the candidates' answers were as smart.</strong></em></h4>
 
 I've got some good news and some bad news.
 

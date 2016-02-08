@@ -10,7 +10,7 @@ tags: []
 categories:
 - blog
 ---
-Only [67 percent of U.S. adults](http://www.freepress.net/blog/2015/12/22/pew-study-reveals-true-cost-pricey-internet-access) subscribe to broadband at home — and that number is even lower among rural residents, low-income communities and people of color. The high cost of high-speed Internet access is the main hurdle here — which is why I spent my last trip to Iowa asking four presidential candidates about how they would make broadband more affordable.
+Only [67 percent of U.S. adults](http://www.freepress.net/blog/2015/12/22/pew-study-reveals-true-cost-pricey-internet-access) subscribe to broadband at home — and that number is even lower among rural residents, low-income communities and people of color. The high cost of high-speed Internet access is the main hurdle here — which is why I spent my final trip to Iowa asking four presidential candidates about how they would make broadband more affordable.
 
 **Hillary Clinton**
 
@@ -18,7 +18,7 @@ In October, Secretary Clinton [published an Op-Ed in Quartz](http://qz.com/52930
 
 After her prepared remarks, I squeezed through the crowd to grab Clinton’s hand and asked her for more details about her plan to encourage competition and bring the cost of broadband down.
 
-Her [detailed response](http://qz.com/529303/hillary-clinton-being-pro-business-doesnt-mean-hanging-consumers-out-to-dry/) surprised me. Clinton didn’t repeat her call for competition, instead noting that countries like South Korea have much faster networks and saying that the government should subsidize the cost of broadband for low-income Americans. Clinton also mentioned that we’ve had successful large-scale infrastructure projects before, citing the 20th-century effort to bring electricity to all corners of the country.
+Her [detailed response](https://www.facebook.com/internet2016/videos/vb.1411698009155892/1557881531204205) surprised me. Clinton noted that countries like South Korea have much faster networks and saying that the government should subsidize the cost of broadband for low-income Americans. Clinton also mentioned that we’ve had successful large-scale infrastructure projects before, citing the 20th-century effort to bring electricity to all corners of the country.
 
 **Bernie Sanders**
 
@@ -32,7 +32,7 @@ I raced out of the venue to the Sanders campaign bus to try to ask my question a
 
 Later in the week, I attended a Christie town-hall meeting at Central Community College in Pella. I nabbed a seat next to Gov. Christie’s wife Mary Pat and let out an audible sigh of relief when he said that most of the event would be dedicated to Q&A time.
 
-I asked Christie what he would do to increase competition in the broadband market and get more low-income and rural residents connected. He saidhe would [include the Internet as one of the four planks of his infrastructure plan](https://www.facebook.com/internet2016/videos/vb.1411698009155892/1557883757870649/?type=2&theater), along with repairing roads and bridges and modernizing the electrical grid. Christie went into detail about how he would change the tax code to fund his infrastructure plan but had little to say about how he would make broadband more affordable and accessible.
+I asked Christie what he would do to increase competition in the broadband market and get more low-income and rural residents connected. He said he would [include the Internet as one of the four planks of his infrastructure plan](https://www.facebook.com/internet2016/videos/vb.1411698009155892/1557883757870649/?type=2&theater), along with repairing roads and bridges and modernizing the electrical grid. Christie went into detail about how he would change the tax code to fund his infrastructure plan but had little to say about how he would make broadband more affordable and accessible.
 
 **Marco Rubio**
 

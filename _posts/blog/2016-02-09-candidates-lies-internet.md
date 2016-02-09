@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-bird-dog-nh.jpg
+headerimg: blog-bird-dog-cruz-nh.jpg
 title: "Candidates, Lies and the Internet"
 teaser: "Candidates are blaming Net Neutrality protections for a hypochondriac's list of ailments."
 thumbnail: thumbnail-blog-lies.svg

@@ -22,7 +22,7 @@ When facing questions about the Internet, Fiorina, who has an extensive albeit p
 
 “I think one of the things that will hurt the availability of the Internet is something the Obama administration has done this past year, which is to declare the Internet to be a Title II-regulated utility, which is going to end up driving up the cost and making the Internet more expensive,“ [Sen. Ted Cruz](https://www.youtube.com/watch?v=33dB5JKbiAw&feature=youtu.be) told another audience member on Friday.
 
-There’s one problem with that argument. The lack of competition among Internet access providers — not Net Neutrality — is the reason why prices in the United States are so much [higher than those in most other developed economies](http://www.theverge.com/2015/4/1/8321437/maps-show-why-internet-is-more-expensive-us-europe-competition). 
+There’s one problem with that argument. The lack of competition among Internet access providers — *not* Net Neutrality — is the reason why prices in the United States are so much [higher than those in most other developed economies](http://www.theverge.com/2015/4/1/8321437/maps-show-why-internet-is-more-expensive-us-europe-competition). 
 
 To his credit, FCC Chairman Tom Wheeler says boosting competition is a top priority. He has [blamed a lack of choices](http://arstechnica.com/business/2014/09/most-of-the-us-has-no-broadband-competition-at-25mbps-fcc-chair-says/) for driving costs for broadband beyond the reach of many lower-income communities.
 
@@ -38,11 +38,11 @@ If the Net Neutrality rules were actually inhibiting investment that would indee
 
 Earlier this month, Comcast reported that its fourth-quarter 2015 expenditures on its broadband business exceeded those of all previous quarters. And Comcast spent more in 2015 ($7.034 billion, up 14 percent over 2014’s investments) on its cable-communications business than it had in any other year — this despite the FCC’s Net Neutrality ruling back in February 2015.
 
-Last month, Time Warner Cable reported that its capital expenditures were up 9 percent in 2015 over 2014’s numbers. Meanwhile AT&T’s chief executive told investors that the company plans $22 billion in capital expenditures in 2016, which would be its highest-ever annual capital investment.
+Last month, Time Warner Cable reported that its capital expenditures were up 9 percent in 2015 over 2014’s numbers. Meanwhile, AT&T’s chief executive told investors that the company plans $22 billion in capital expenditures in 2016, which would be its highest-ever annual capital investment.
 
 The candidates are making up stories about smaller providers, too. “You know what happened as a result of [the Net Neutrality rules]?” [Fiorina responded](https://www.youtube.com/watch?v=khX9VbIFB9A&feature=youtu.be) to a question in New Hampshire. “A whole bunch of electric power co-ops have gone out of business. And they were getting ready to wire up rural communities and small businesses, their market niche.”
 
-No, they didn’t, Ms. Fiorina. We checked and couldn’t find a single instance where the new rules shuttered operations of an electricity co-op. 
+Not true, Ms. Fiorina. We checked and couldn’t find a single instance where the new rules shuttered operations of an electricity co-op. 
 
 <h3>The Go-To Answer for the Misinformed</h3>
 

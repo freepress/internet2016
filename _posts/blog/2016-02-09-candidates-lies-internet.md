@@ -28,7 +28,7 @@ To his credit, FCC Chairman Tom Wheeler says boosting competition is a top prior
 
 A recent [Pew Research Center](http://www.pewinternet.org/2015/12/21/home-broadband-2015/) report shows that things are heading in the wrong direction. In the past two years, the percentage of adults with wired-line broadband at home has declined from 70 percent to 67 percent. Those declines were more pronounced among African Americans, rural residents and low-income families. This drop in connectivity is happening amid nearly unanimous political support for universal access.
 
-**Net Neutrality ≠ Investment Shortfall**
+<h3>Net Neutrality ≠ Investment Shortfall</h3>
 
 If politicians could just agree on the problem, we could implement policies that would get more people connected at affordable prices.
 
@@ -44,7 +44,7 @@ The candidates are making up stories about smaller providers, too. “You know w
 
 No, they didn’t, Ms. Fiorina. We checked and couldn’t find a single instance where the new rules shuttered operations of an electricity co-op. 
 
-**The Go-To Answer for the Misinformed**
+<h3>The Go-To Answer for the Misinformed</h3>
 
 Why are candidates like Fiorina, Cruz and Bush getting this and [other Internet issues](https://internet2016.net/blog/candidates-internet-fact-check.html) so wrong? 
 

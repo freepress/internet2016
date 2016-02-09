@@ -18,7 +18,7 @@ That’s when Fiorina fishtailed into a ditch. “The first thing I would do, ho
 
 When facing questions about the Internet, Fiorina, who has an extensive albeit pot-holed history in Silicon Valley, routinely gets her answers wrong. And she’s not alone. [Across New Hampshire](https://storify.com/timkarr/bird-dogging-for-the-internet) last weekend, candidates were blaming Net Neutrality protections for a hypochondriac’s list of ailments. 
 
-**Net Neutrality ≠ Higher Prices** 
+<h3>Net Neutrality ≠ Higher Prices</h3>
 
 “I think one of the things that will hurt the availability of the Internet is something the Obama administration has done this past year, which is to declare the Internet to be a Title II-regulated utility, which is going to end up driving up the cost and making the Internet more expensive,“ [Sen. Ted Cruz](https://www.youtube.com/watch?v=33dB5JKbiAw&feature=youtu.be) told another audience member on Friday.
 

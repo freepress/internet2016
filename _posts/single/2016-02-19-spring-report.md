@@ -12,7 +12,7 @@ categories:
 <p><h3>Cable mergers threaten to crush competition, hike prices and hurt communities of color.</h3></p>
  
 <p><h3>Comcast, AT&T and Verizon are <em>still</em> trying to mess with Net Neutrality.</h3></p>
-
+<br>
 <p>There's a lot at stake in the fight to keep the Internet free, open and accessible to everyone. That's why the Free Press Action Fund  launched our <strong>Internet 2016</strong> campaign: to push candidates from all parties to respect the principles of free speech, access, choice, privacy and openness online.</p>
 
 <p>At the Free Press Action Fund, we don't endorse or oppose candidates for public office. But we do pay close attention to what they're saying about Internet policy. And we believe in holding candidates accountable to the millions of people of every political stripe who want the Internet to remain free and open.</p>

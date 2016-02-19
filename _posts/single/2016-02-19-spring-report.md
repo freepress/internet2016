@@ -11,7 +11,7 @@ categories:
 
 <p><h3>Cable mergers threaten to crush competition, hike prices and hurt communities of color.</h3></p>
  
-<p><h3>Comcast, AT&T and Verizon are *still* trying to mess with Net Neutrality.</h3></p>
+<p><h3>Comcast, AT&T and Verizon are <em>still</em> trying to mess with Net Neutrality.</h3></p>
 
 <p>There's a lot at stake in the fight to keep the Internet free, open and accessible to everyone. That's why the Free Press Action Fund  launched our <strong>Internet 2016</strong> campaign: to push candidates from all parties to respect the principles of free speech, access, choice, privacy and openness online.</p>
 

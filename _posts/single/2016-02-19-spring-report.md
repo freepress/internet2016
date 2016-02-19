@@ -24,15 +24,15 @@ categories:
 <p><strong><h3>Bird-Dogging the Presidential Candidates</h3></strong></p>
 <p>In the months leading up to the Iowa caucus and the New Hampshire primary, we connected with nearly all of the candidates at close to 40 campaign events. We followed the various contenders to diners, VFW halls, auto shops, wineries, community centers, fire stations, churches and colleges.</p>
 
-<img src="https://internet2016.net/assets/img/blog-body-clinton-sticker.jpg" alt="Hillary Clinton taking questions from crowd" width="300" height="400" />
-
+<img src="https://internet2016.net/assets/img/blog-campaign-trail-nh.jpg" alt="Bird-dogging in New Hampshire" width="400" height="300" /> [Meeting Rand Paul](https://internet2016.net/assets/img/blog-body-rand.jpg)  <img src="https://internet2016.net/assets/img/blog-body-purple-team2.jpg" alt="Free Press team at town hall event" width="500" height="312" />
 <img src="https://internet2016.net/assets/img/blog-omalley-fuchs.jpg" alt="Katherine with O'Malley" width="400" height="300" />
 
 <p>Along the way we became skilled at cutting through crowds and getting into one-on-one interactions with the candidates. We asked some tough questions in conversations with Jeb Bush, Chris Christie, Hillary Clinton, Ted Cruz, Carly Fiorina, Bobby Jindal, John Kasich, Martin O'Malley, Rand Paul and Marco Rubio. We staged visibility actions at events for Bernie Sanders and Donald Trump. We also held bird-dogging workshops in Des Moines, Iowa, and Manchester, N.H., to teach local Free Press Action Fund members how to push candidates to stand up for the open Internet.</p>
 
-<img src="https://internet2016.net/assets/img/blog-body-ia-workshop.jpg" alt="Iowa bird-dogging" width="500" height="362" />  ![New Hampshire bird-dogging workshop](https://internet2016.net/assets/img/blog-body-nh-workshop.jpg)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLprVE3RVOWm26kKygCOKoL_c7UdQM3-R2" frameborder="0" allowfullscreen></iframe>
+
+
+<img src="https://internet2016.net/assets/img/blog-body-ia-workshop.jpg" alt="Iowa bird-dogging" width="500" height="362" />  ![New Hampshire bird-dogging workshop](https://internet2016.net/assets/img/blog-body-nh-workshop.jpg)
 
 <p><strong><h3>Tools in Our Campaign</h3></strong></p>
 <p>We created a new website and campaign-specific Facebook and Twitter pages to launch this effort. We've published more than 30 blog posts that chronicle our bird-dogging activities and fact-check candidates' claims about our issues.</p>

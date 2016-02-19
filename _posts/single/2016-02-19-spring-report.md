@@ -5,7 +5,7 @@ categories:
 - single
 ---
 
-<h4>Millions of Americans struggle to pay for Internet service.</h4>
+<h4><strong>Millions of Americans struggle to pay for Internet service.</strong></h4>
  
 <h4>The government is spying on our online communications.</h4>
 

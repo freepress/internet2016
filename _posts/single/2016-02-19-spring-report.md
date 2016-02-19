@@ -33,16 +33,16 @@ categories:
 
 <p><strong><h3>The Internet 2016 Platform</h3></strong></p>
 <p>The foundation of our campaign, our platform is rooted in five essential principles:
-<strong><h4>Free Speech</strong></h4><br />
-Companies like Comcast often try to restrict or outright block our ability to speak freely. Lawmakers must support policies that protect online openness and guard against censorship.
-<strong><h4>Access</strong></h4><br />
-Too many Americans are stranded on the wrong side of the digital divide. Lawmakers need to make affordable access to high-speed Internet a reality for everyone.
-<strong><h4>Choice</strong></h4><br />
-In the absence of competition the big Internet service providers can get away with offering subpar service at sky-high prices. Lawmakers must ensure that consumers in all communities have a range of options.
-<strong><h4>Privacy</strong></h4><br />
-Mass government surveillance threatens our basic rights to connect, communicate and organize online. Lawmakers must curb unchecked spying and protect our civil liberties.
-<strong><h4>Openness</strong></h4><br />
-ISPs and their friends in Congress are trying to overturn the FCC's strong Net Neutrality rules. Lawmakers need to do whatever it takes to safeguard the free and open Internet.
+<p><strong>Free Speech</strong><br />
+Companies like Comcast often try to restrict or outright block our ability to speak freely. Lawmakers must support policies that protect online openness and guard against censorship.</p>
+<p><strong>Access</strong><br />
+Too many Americans are stranded on the wrong side of the digital divide. Lawmakers need to make affordable access to high-speed Internet a reality for everyone.</p>
+<p><strong>Choice</strong><br />
+In the absence of competition the big Internet service providers can get away with offering subpar service at sky-high prices. Lawmakers must ensure that consumers in all communities have a range of options.</p>
+<p><strong>Privacy</strong><br />
+Mass government surveillance threatens our basic rights to connect, communicate and organize online. Lawmakers must curb unchecked spying and protect our civil liberties.</p>
+<p><strong>Openness</strong><br />
+ISPs and their friends in Congress are trying to overturn the FCC's strong Net Neutrality rules. Lawmakers need to do whatever it takes to safeguard the free and open Internet.</p>
 
 <p><strong><h3>What's Ahead</h3></strong></p>
 In the months ahead we'll hit the campaign trail in Massachusetts, New York, Pennsylvania, Virginia and other states — and keep elevating Internet issues in the presidential race.</p>

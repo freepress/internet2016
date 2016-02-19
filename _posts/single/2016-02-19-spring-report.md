@@ -17,7 +17,7 @@ There's a lot at stake in the fight to keep the Internet free, open and accessib
 
 At the Free Press Action Fund, we don't endorse or oppose candidates for public office. But we do pay close attention to what they're saying about Internet policy. And we believe in holding candidates accountable to the millions of people of every political stripe who want the Internet to remain free and open.
 
-Right now we're focused on the presidential race, because whoever wins the White House will have the power to shape the future of the Internet. Here's what we're doing to ensure the next president stands with us Ñ and not with the companies trying to violate our rights to connect and communicate.
+Right now we're focused on the presidential race, because whoever wins the White House will have the power to shape the future of the Internet. Here's what we're doing to ensure the next president stands with us Ã‘ and not with the companies trying to violate our rights to connect and communicate.
 
 #####Bird-Dogging the Presidential Candidates#####
 In the months leading up to the Iowa caucus and the New Hampshire primary, we connected with nearly all of the candidates at close to 40 campaign events. We followed the various contenders to diners, VFW halls, auto shops, wineries, community centers, fire stations, churches and colleges.
@@ -35,16 +35,20 @@ We're also speaking out at public events: Free Press Action Fund President and C
 The foundation of our campaign, our platform is rooted in five essential principles:
 **Free Speech**
 Companies like Comcast often try to restrict or outright block our ability to speak freely. Lawmakers must support policies that protect online openness and guard against censorship.
+
 **Access**
 Too many Americans are stranded on the wrong side of the digital divide. Lawmakers need to make affordable access to high-speed Internet a reality for everyone.
+
 **Choice**
 In the absence of competition the big Internet service providers can get away with offering subpar service at sky-high prices. Lawmakers must ensure that consumers in all communities have a range of options.
+
 **Privacy**
 Mass government surveillance threatens our basic rights to connect, communicate and organize online. Lawmakers must curb unchecked spying and protect our civil liberties. 
+
 **Openness**
 ISPs and their friends in Congress are trying to overturn the FCC's strong Net Neutrality rules. Lawmakers need to do whatever it takes to safeguard the free and open Internet.
 
 #####What's Ahead#####
-In the months ahead we'll hit the campaign trail in Massachusetts, New York, Pennsylvania, Virginia and other states Ñ and keep elevating Internet issues in the presidential race.
+In the months ahead we'll hit the campaign trail in Massachusetts, New York, Pennsylvania, Virginia and other states Ã‘ and keep elevating Internet issues in the presidential race.
 
 Millions of open Internet advocates expect our elected leaders to fight for our rights to connect and communicate. Our Internet 2016 campaign aims to ensure they do just that.

@@ -17,7 +17,7 @@ categories:
 
 <p>At the Free Press Action Fund, we don't endorse or oppose candidates for public office. But we do pay close attention to what they're saying about Internet policy. And we believe in holding candidates accountable to the millions of people of every political stripe who want the Internet to remain free and open.</p>
 
-<img src="https://internet2016.net/assets/img/single-spring-bird-dog-nh.jpg" alt="Bird-dogging in New Hampshire" width="400" height="250" /> <img src="https://internet2016.net/assets/img/single-spring-signs.jpg" alt="Bird-dogging in New Hampshire" width="" height="" /> <img src="https://internet2016.net/assets/img/single-spring-theo-misty.jpg" alt="Bernie Sanders Rally" width="400" height="250" /> 
+<img src="https://internet2016.net/assets/img/single-spring-bird-dog-nh.jpg" alt="Bird-dogging in New Hampshire" width="400" height="250" /> <img src="https://internet2016.net/assets/img/single-spring-signs.jpg" alt="Bird-dogging in New Hampshire" width="400" height="250" /> <img src="https://internet2016.net/assets/img/single-spring-theo-misty.jpg" alt="Bernie Sanders Rally" width="400" height="250" /> 
 
 <p>Right now we're focused on the presidential race, because whoever wins the White House will have the power to shape the future of the Internet. Here's what we're doing to ensure the next president stands with us — and not with the companies trying to violate our rights to connect and communicate.</p>
 

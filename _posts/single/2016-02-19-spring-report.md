@@ -31,9 +31,6 @@ categories:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLprVE3RVOWm26kKygCOKoL_c7UdQM3-R2" frameborder="0" allowfullscreen></iframe>
 
-
-<img src="https://internet2016.net/assets/img/blog-body-ia-workshop.jpg" alt="Iowa bird-dogging" width="500" height="362" /> <img src="https://internet2016.net/assets/img/blog-body-nh-workshop.jpg" alt="New Hampshire bird-dogging" width="500" height="362" />
-
 <p><strong><h3>Tools in Our Campaign</h3></strong></p>
 <p>We created a new website and campaign-specific Facebook and Twitter pages to launch this effort. We've published more than 30 blog posts that chronicle our bird-dogging activities and fact-check candidates' claims about our issues.</p>
 

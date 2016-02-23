@@ -338,7 +338,7 @@ footer h1 {
 }
 
 .blog-post-single-body {
-  text-align: justify;
+  //text-align: justify;
 }
 
 .list-of-tags {
@@ -347,7 +347,7 @@ footer h1 {
 }
 
 .featured-teaser {
-  text-align: justify;
+  //text-align: justify;
   min-height: 4em;
 }
 
@@ -376,7 +376,7 @@ footer h1 {
 }
 
 .policy-body {
-  text-align: justify;
+  //text-align: justify;
 }
 
 

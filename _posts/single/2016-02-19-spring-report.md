@@ -16,7 +16,7 @@ categories:
 <p>There's a lot at stake in the fight to keep the Internet free, open and accessible to everyone. That's why the Free Press Action Fund  launched our <strong>Internet 2016</strong> campaign: to push candidates from all parties to respect the principles of free speech, access, choice, privacy and openness online.</p>
 
 <p>At the Free Press Action Fund, we don't endorse or oppose candidates for public office. But we do pay close attention to what they're saying about Internet policy. And we believe in holding candidates accountable to the millions of people of every political stripe who want the Internet to remain free and open.</p>
-
+<br />
 <div class='img-container'>
 <img src="https://internet2016.net/assets/img/single-spring-bird-dog-nh.jpg" alt="Bird-dogging in New Hampshire" width="400" height="250" />
 <img src="https://internet2016.net/assets/img/single-spring-theo-misty.jpg" alt="Bernie Sanders Rally" width="400" height="250" /> 
@@ -26,7 +26,7 @@ categories:
 
 <p><strong><h3>Bird-Dogging the Presidential Candidates</h3></strong></p>
 <p>In the months leading up to the Iowa caucus and the New Hampshire primary, we connected with nearly all of the candidates at close to 40 campaign events. We followed the various contenders to diners, VFW halls, auto shops, wineries, community centers, fire stations, churches and colleges.</p>
-
+<br />
 <div class='img-container'>
 <img src="https://internet2016.net/assets/img/single-hillary-nh.jpg" alt="Internet 2016 sticker and Hillary Clinton" width="250" height="250" />
 <img src="https://internet2016.net/assets/img/single-spring-kf-rand.jpg" alt="Meeting Rand Paul" width="400" height="250" />

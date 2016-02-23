@@ -28,7 +28,6 @@ categories:
 <p>In the months leading up to the Iowa caucus and the New Hampshire primary, we connected with nearly all of the candidates at close to 40 campaign events. We followed the various contenders to diners, VFW halls, auto shops, wineries, community centers, fire stations, churches and colleges.</p>
 
 <div class='img-container'>
-
 <img src="https://internet2016.net/assets/img/single-spring-kf-rand.jpg" alt="Meeting Rand Paul" width="400" height="250" /> 
 <img src="https://internet2016.net/assets/img/single-hillary-nh.jpg" alt="Internet 2016 sticker and Hillary Clinton" width="250" height="250" /> 
 <img src="https://internet2016.net/assets/img/single-spring-report.jpg" alt="Internet 2016 at Bernie rally" width="400" height="250" />

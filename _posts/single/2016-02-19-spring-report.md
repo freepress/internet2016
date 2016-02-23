@@ -28,10 +28,8 @@ categories:
 <p>In the months leading up to the Iowa caucus and the New Hampshire primary, we connected with nearly all of the candidates at close to 40 campaign events. We followed the various contenders to diners, VFW halls, auto shops, wineries, community centers, fire stations, churches and colleges.</p>
 <p></p><p></p>
 <div class='img-container'>
-<img src="https://internet2016.net/assets/img/single-hillary-nh.jpg" alt="Internet 2016 sticker and Hillary Clinton" width="250" height="250" />
-<img src="https://internet2016.net/assets/img/single-spring-kf-rand.jpg" alt="Meeting Rand Paul" width="400" height="250" />
-<img src="https://internet2016.net/assets/img/single-spring-report.jpg" alt="Internet 2016 at Bernie rally" width="400" height="250" />
-<img src="https://internet2016.net/assets/img/single-rubio-nh.jpg" alt="Meeting Marco Rubio" width="250" height="250" />
+<img src="https://internet2016.net/assets/img/single-spring-double2.jpg" alt="Internet 2016 sticker and Hillary Clinton" width="" height="" />
+<img src="https://internet2016.net/assets/img/single-spring-double1.jpg" alt="Meeting Rand Paul" width="" height="" />
 </div>
 <p></p><p></p>
 <p>Along the way we became skilled at cutting through crowds and getting into one-on-one interactions with the candidates. We asked some tough questions in conversations with Jeb Bush, Chris Christie, Hillary Clinton, Ted Cruz, Carly Fiorina, Bobby Jindal, John Kasich, Martin O'Malley, Rand Paul and Marco Rubio. We staged visibility actions at events for Bernie Sanders and Donald Trump. We also held bird-dogging workshops in Des Moines, Iowa, and Manchester, N.H., to teach local Free Press Action Fund members how to push candidates to stand up for the open Internet.</p>

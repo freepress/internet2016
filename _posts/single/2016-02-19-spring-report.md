@@ -28,18 +28,21 @@ categories:
 <p>In the months leading up to the Iowa caucus and the New Hampshire primary, we connected with nearly all of the candidates at close to 40 campaign events. We followed the various contenders to diners, VFW halls, auto shops, wineries, community centers, fire stations, churches and colleges.</p>
 
 <div class='img-container'>
-<img src="https://internet2016.net/assets/img/single-spring-kf-rand.jpg" alt="Meeting Rand Paul" width="400" height="250" /> 
-<img src="https://internet2016.net/assets/img/single-hillary-nh.jpg" alt="Internet 2016 sticker and Hillary Clinton" width="250" height="250" /> 
+<img src="https://internet2016.net/assets/img/single-hillary-nh.jpg" alt="Internet 2016 sticker and Hillary Clinton" width="250" height="250" />
+<img src="https://internet2016.net/assets/img/single-spring-kf-rand.jpg" alt="Meeting Rand Paul" width="400" height="250" />
 <img src="https://internet2016.net/assets/img/single-spring-report.jpg" alt="Internet 2016 at Bernie rally" width="400" height="250" />
 <img src="https://internet2016.net/assets/img/single-rubio-nh.jpg" alt="Meeting Marco Rubio" width="250" height="250" />
-<img src="https://internet2016.net/assets/img/single-spring-omalley-fuchs.jpg" alt="Meeting Martin O'Malley" width="400" height="250" /> 
+<img src="https://internet2016.net/assets/img/single-spring-omalley-fuchs.jpg" alt="Meeting Martin O'Malley" width="400" height="250" />
 </div>
 
 <p>Along the way we became skilled at cutting through crowds and getting into one-on-one interactions with the candidates. We asked some tough questions in conversations with Jeb Bush, Chris Christie, Hillary Clinton, Ted Cruz, Carly Fiorina, Bobby Jindal, John Kasich, Martin O'Malley, Rand Paul and Marco Rubio. We staged visibility actions at events for Bernie Sanders and Donald Trump. We also held bird-dogging workshops in Des Moines, Iowa, and Manchester, N.H., to teach local Free Press Action Fund members how to push candidates to stand up for the open Internet.</p>
 
 <iframe width="560" height="350" src="https://www.youtube.com/embed/videoseries?list=PLprVE3RVOWm26kKygCOKoL_c7UdQM3-R2" frameborder="0" allowfullscreen></iframe>
 
-<img src="https://internet2016.net/assets/img/single-spring-nh-workshop.jpg" alt="Bird-dogging workshop in New Hampshire" width="" height="" /> <img src="https://internet2016.net/assets/img/single-spring-ia-workshop.jpg" alt="Bird-dogging workshop in Iowa" width="" height="" />
+<div class='img-container'>
+<img src="https://internet2016.net/assets/img/single-spring-nh-workshop.jpg" alt="Bird-dogging workshop in New Hampshire" width="" height="" />
+<img src="https://internet2016.net/assets/img/single-spring-ia-workshop.jpg" alt="Bird-dogging workshop in Iowa" width="" height="" />
+</div>
 
 <p><strong><h3>Tools in Our Campaign</h3></strong></p>
 <p>We created a new website and campaign-specific Facebook and Twitter pages to launch this effort. We've published more than 30 blog posts that chronicle our bird-dogging activities and fact-check candidates' claims about our issues.</p>

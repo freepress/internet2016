@@ -22,10 +22,10 @@ categories:
 <img src="https://internet2016.net/assets/img/single-spring-theo-misty.jpg" alt="Bernie Sanders Rally" width="400" height="250" /> 
 </div>
 <p></p><p></p>
-<p>Right now we're focused on the presidential race, because whoever wins the White House will have the power to shape the future of the Internet. Here's what we're doing to ensure the next president stands with us — and not with the companies trying to violate our rights to connect and communicate.</p>
+<p>Right now we're focused on the presidential race, because whoever wins the White House will have the power to shape the future of the Internet. Here's what we're doing to ensure the next president stands with us — and <em>not</em> with the companies trying to violate our rights to connect and communicate.</p>
 
 <p><strong><h3>Bird-Dogging the Presidential Candidates</h3></strong></p>
-<p>In the months leading up to the Iowa caucus and the New Hampshire primary, we connected with nearly all of the candidates at close to 40 campaign events. We followed the various contenders to diners, VFW halls, auto shops, wineries, community centers, fire stations, churches and colleges.</p>
+<p>In the months leading up to the Iowa caucus and the New Hampshire primary, we connected with nearly all of the candidates <strong>at close to 40 campaign events.</strong> We followed the various contenders to diners, VFW halls, auto shops, wineries, community centers, fire stations, churches and colleges.</p>
 <p></p><p></p>
 <div class='img-container'>
 <img src="https://internet2016.net/assets/img/single-spring-double2.png" alt="Internet 2016 sticker and Hillary Clinton" width="" height="" />
@@ -36,7 +36,7 @@ categories:
 
 <iframe width="560" height="350" src="https://www.youtube.com/embed/videoseries?list=PLprVE3RVOWm26kKygCOKoL_c7UdQM3-R2" frameborder="0" allowfullscreen></iframe>
 
-<p><strong><h3>Tools in Our Campaign</h3></strong></p>
+<p><strong><h3>Getting the Word Out</h3></strong></p>
 <p>We created a new website and campaign-specific Facebook and Twitter pages to launch this effort. We've published more than 30 blog posts that chronicle our bird-dogging activities and fact-check candidates' claims about our issues.</p>
 
 <p>We're also speaking out at public events: Free Press Action Fund President and CEO Craig Aaron promoted the campaign while giving the keynote speech at Personal Democracy Forum in New York and the Computers, Freedom and Privacy Conference in Washington, D.C.</p>

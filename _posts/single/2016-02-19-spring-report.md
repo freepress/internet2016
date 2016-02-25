@@ -15,7 +15,7 @@ categories:
 
 <p>There's a lot at stake in the fight to keep the Internet free, open and accessible to everyone. That's why the Free Press Action Fund  launched our <strong>Internet 2016</strong> campaign: to push candidates from all parties to respect the principles of free speech, access, choice, privacy and openness online.</p>
 
-<p>At the Free Press Action Fund, we don't endorse or oppose candidates for public office. But we do pay close attention to what they're saying about Internet policy. And we believe in holding candidates accountable to the millions of people of every political stripe who want the Internet to remain free and open.</p>
+<p>At the Free Press Action Fund, we don't support or oppose candidates for public office. But we do pay close attention to what they're saying about Internet policy. And we believe in holding candidates accountable to the millions of people of every political stripe who want the Internet to remain free and open.</p>
 <p></p><p></p>
 <div class='img-container'>
 <img src="https://internet2016.net/assets/img/single-spring-bird-dog-nh.jpg" alt="Bird-dogging in New Hampshire" width="400" height="250" />
@@ -55,6 +55,6 @@ Mass government surveillance threatens our basic rights to connect, communicate 
 ISPs and their friends in Congress are trying to overturn the FCC's strong Net Neutrality rules. Lawmakers need to do whatever it takes to safeguard the free and open Internet.</p>
 
 <p><strong><h3>What's Ahead</h3></strong></p>
-In the months ahead we'll hit the campaign trail in Massachusetts, New York, Pennsylvania, Virginia and other states — and keep elevating Internet issues in the presidential race.</p>
+In the months ahead we'll hit the campaign trail in Massachusetts, Michigan, New York, Pennsylvania, Virginia and other states — and keep elevating Internet issues in the presidential race.</p>
 
 <p>Millions of open Internet advocates expect our elected leaders to fight for our rights to connect and communicate. Our Internet 2016 campaign aims to ensure they do just that.</p>

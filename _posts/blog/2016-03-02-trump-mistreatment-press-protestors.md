@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-press-freedom.jpg
+headerimg: blog-trump-press.jpg
 title: "The Trump Campaign's Mistreatment of the Press and Protesters"
 teaser: "Media pens don’t make anyone safer. But they do make it difficult for journalists to document acts of racial profiling, harassment and conflict — and that makes everyone less safe."
 thumbnail: thumbnail-blog-mistreatment.svg

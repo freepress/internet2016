@@ -1,7 +1,7 @@
 ---
 layout: blogpost_single
 headerimg: blog-trump-press.jpg
-title: "The Trump Campaign's Mistreatment of the Press and Protesters"
+title: "The Trump Campaign's Mistreatment of the Press and People of Color"
 teaser: "Media pens don’t make anyone safer. But they do make it difficult for journalists to document acts of racial profiling, harassment and conflict — and that makes everyone less safe."
 thumbnail: thumbnail-blog-mistreatment.svg
 author: <strong>Katherine Fuchs</strong>
@@ -16,7 +16,7 @@ An agent “grabbed me by the neck and started choking me and slammed me to the 
 
 The activists Morris was attempting to document were ejected from the rally at Radford University for chanting “No more hate! No more hate! Let’s be equal, let’s be great!” 
 
-Later that same day, a group of about [30 Black students](http://link.brightcove.com/services/player/bcpid3700942850001?bckey=AQ~~,AAAABvaL8JE~,ufBHq_I6FnyEZUwdWYNYsWrjzDHq9v-S&bctid=4780439200001) were removed from a Trump rally at Valdosta State University in Georgia. The students forced out of the event had pre-registered to attend the event and sat silently as a group leading up to their removal.
+Later that same day, a group of about [30 Black students](http://link.brightcove.com/services/player/bcpid3700942850001?bckey=AQ~~,AAAABvaL8JE~,ufBHq_I6FnyEZUwdWYNYsWrjzDHq9v-S&bctid=4780439200001) were removed from a Trump rally at Valdosta State University in Georgia. The students forced out of the event had pre-registered to attend and sat silently as a group leading up to their removal.
 
 Several weeks ago, Rose Hamid, a [Muslim woman who stood in silent protest](http://www.cnn.com/2016/01/08/politics/donald-trump-muslim-woman-protesting-ejected/) at a Trump rally in South Carolina, was removed and heckled by the crowd. “This demonstrates how when you start dehumanizing the other it can turn people into very hateful, ugly people,” Hamid said. “It needs to be known.” 
 
@@ -31,3 +31,5 @@ The Trump campaign has mistreated journalists throughout this election season. A
 Media pens don’t make anyone safer. But they do make it difficult for journalists to document acts of racial profiling, harassment and conflict — and that makes everyone less safe.
 
 If you’re concerned about the treatment of the press, tell the Secret Service to [stop abusing reporters and start respecting the First Amendment](http://act.freepress.net/sign/press_freedom_secret_service/?source=FPblog).
+
+*Original image by Flickr user Gage Skidmore*

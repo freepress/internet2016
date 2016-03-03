@@ -10,7 +10,7 @@ tags: []
 categories:
 - blog
 ---
-Over the past six months the Free Press Action Fund has [asked almost all of the 2016 presidential candidates](https://internet2016.net/blog/bird-dog-iowa-internet-access.html) how they would connect more Americans to fast, affordable Internet. The responses we got were often half-baked — and in many cases candidates didn’t seem to recognize the need to bridge the digital divide. But this is hardly a fringe issue: Without Internet access people are cut off from all kinds of opportunities. It’s crucial that we know where all of the candidates stand.
+Over the past six months the Free Press Action Fund has [asked almost all of the 2016 presidential candidates](https://internet2016.net/blog/bird-dog-iowa-internet-access.html) how they would connect more Americans to fast, affordable Internet. The responses we got were often half-baked — and in many cases candidates didn’t seem to recognize the need to bridge the digital divide. But this is hardly a fringe issue: Without Internet access people are cut off from all kinds of opportunities. It’s essential that we know where all of the candidates stand.
 
 We aren’t the only ones who are curious about how the candidates would improve Internet infrastructure. This week almost 40 organizations, including ours, [sent a letter](http://thehill.com/sites/default/files/access_debate_letter_fox_20160302.pdf) urging moderators of tonight’s Republican debate to include a question about broadband access.
 
@@ -18,7 +18,7 @@ The letter emphasizes the crucial role that high-speed Internet plays in maintai
 
 A bipartisan majority of Americans — [64 percent](http://tfreedmanconsulting.com/documents/AccessPollingMemo_20151123.pdf) — think that expanding Internet access should be a priority for the next president. Let’s hope that the moderators at all upcoming debates agree.
 
-Read the full letter below:
+**Read the full letter below:**
 
 March 3, 2016
   

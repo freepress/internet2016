@@ -2,7 +2,7 @@
 layout: blogpost_single
 headerimg: blog-moderators.jpg
 title: "Nearly 40 Groups Urge Debate Moderators to Ask the Candidates About Internet Access"
-teaser: "Sen. Bernie Sanders made a stop at UMass Amherst to rally support in the runup to Super Tuesday."
+teaser: "This week almost 40 organizations sent a letter urging moderators of tonight's Republican debate to include a question about broadband access."
 thumbnail: thumbnail-blog-moderator.svg
 author: <strong>Katherine Fuchs</strong>
 publish_date: March 3, 2016
@@ -49,42 +49,79 @@ We look forward to a productive discussion, and hope that you will consider chal
 Respectfully,
 
 **18MillionRising.org
+
 Access Humboldt
+
 American Indian Policy Institute
+
 American Library Association
+
 Benton Foundation
+
 California Telehealth Network
+
 Center for Media Justice
+
 Color of Change
+
 Common Cause
+
 Common Sense Kids Action
+
 Communications Workers of America
+
 Daily Kos
+
 Demand Progress
+
 Electronic Frontier Foundation
+
 Engine
+
 EveryLibrary.org
+
 Fight for the Future
+
 Free Press
+
 Future of Music Coalition
+
 Greenlining Institute
+
 Harry Potter Alliance
+
 Institute for Local Self-Reliance
+
 Just Foreign Policy
+
 Media Alliance
+
 NAACP
+
 National Council of La Raza
+
 National Digital Inclusion Alliance
+
 National Hispanic Media Coalition
+
 Native Public Media
+
 New America's Open Technology Institute
+
 Next Century Cities
+
 Open MIC (Open Media and Information Companies Initiative)
+
 OpenMedia
+
 Popular Resistance
+
 Public Knowledge
+
 Schools, Health & Libraries Broadband (SHLB) Coalition
+
 The Media Consortium
+
 United Church of Christ, OC Inc.**
  
 

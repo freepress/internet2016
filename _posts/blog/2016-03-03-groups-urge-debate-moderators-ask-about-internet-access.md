@@ -36,9 +36,7 @@ In an election that has so heavily focused on equality of opportunity, there has
 
 We propose the following question:
 
-<em>"High-speed Internet access is increasingly becoming necessary for Americans to fulfill basic needs and responsibilities. Students need broadband to do homework, and the Internet is a critical resource for those seeking to enter the workforce or engage in our democracy. However, despite broadband’s importance, more than 34 million Americans still lack access to modern high-speed service, and nearly a third of the country does not have high-speed broadband connections to their homes. Incredibly, nearly
-
-60 percent of families earning less than $20,000 per year lack home access. If you are elected president, what will you do to ensure that all Americans have affordable access to this vital tool?"</em>
+<em>"High-speed Internet access is increasingly becoming necessary for Americans to fulfill basic needs and responsibilities. Students need broadband to do homework, and the Internet is a critical resource for those seeking to enter the workforce or engage in our democracy. However, despite broadband’s importance, more than 34 million Americans still lack access to modern high-speed service, and nearly a third of the country does not have high-speed broadband connections to their homes. Incredibly, nearly 60 percent of families earning less than $20,000 per year lack home access. If you are elected president, what will you do to ensure that all Americans have affordable access to this vital tool?"</em>
 
 A solution is needed, and the public agrees. Recent polling shows that a majority of Americans – 64 percent – feel that expanding Internet access should be a [priority for the next president](http://tfreedmanconsulting.com/documents/AccessPollingMemo_20151123.pdf). A majority also agree that the benefits of improving Internet access to help improve children’s education outweighs the potential costs to taxpayers.
 

@@ -48,7 +48,7 @@ We look forward to a productive discussion, and hope that you will consider chal
 
 Respectfully,
 
-**18MillionRising.org
+<strong>18MillionRising.org
 
 Access Humboldt
 
@@ -122,7 +122,7 @@ Schools, Health & Libraries Broadband (SHLB) Coalition
 
 The Media Consortium
 
-United Church of Christ, OC Inc.**
+United Church of Christ, OC Inc.</strong>
  
 
 *Original photo by Flickr user Gage Skidmore*

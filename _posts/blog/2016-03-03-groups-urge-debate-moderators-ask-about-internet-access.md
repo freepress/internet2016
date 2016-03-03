@@ -46,81 +46,81 @@ We look forward to a productive discussion, and hope that you will consider chal
 
 Respectfully,
 
-<strong>18MillionRising.org
+**18MillionRising.org**
 
-Access Humboldt
+**Access Humboldt**
 
-American Indian Policy Institute
+**American Indian Policy Institute**
 
-American Library Association
+**American Library Association**
 
-Benton Foundation
+**Benton Foundation**
 
-California Telehealth Network
+**California Telehealth Network**
 
-Center for Media Justice
+**Center for Media Justice**
 
-Color of Change
+**Color of Change**
 
-Common Cause
+**Common Cause**
 
-Common Sense Kids Action
+**Common Sense Kids Action**
 
-Communications Workers of America
+**Communications Workers of America**
 
-Daily Kos
+**Daily Kos**
 
-Demand Progress
+**Demand Progress**
 
-Electronic Frontier Foundation
+**Electronic Frontier Foundation**
 
-Engine
+**Engine**
 
-EveryLibrary.org
+**EveryLibrary.org**
 
-Fight for the Future
+**Fight for the Future**
 
-Free Press
+**Free Press**
 
-Future of Music Coalition
+**Future of Music Coalition**
 
-Greenlining Institute
+**Greenlining Institute**
 
-Harry Potter Alliance
+**Harry Potter Alliance**
 
-Institute for Local Self-Reliance
+**Institute for Local Self-Reliance**
 
-Just Foreign Policy
+**Just Foreign Policy**
 
-Media Alliance
+**Media Alliance**
 
-NAACP
+**NAACP**
 
-National Council of La Raza
+**National Council of La Raza**
 
-National Digital Inclusion Alliance
+**National Digital Inclusion Alliance**
 
-National Hispanic Media Coalition
+**National Hispanic Media Coalition**
 
-Native Public Media
+**Native Public Media**
 
-New America's Open Technology Institute
+**New America's Open Technology Institute**
 
-Next Century Cities
+**Next Century Cities**
 
-Open MIC (Open Media and Information Companies Initiative)
+**Open MIC (Open Media and Information Companies Initiative)**
 
-OpenMedia
+**OpenMedia**
 
-Popular Resistance
+**Popular Resistance**
 
-Public Knowledge
+**Public Knowledge**
 
-Schools, Health & Libraries Broadband (SHLB) Coalition
+**Schools, Health & Libraries Broadband (SHLB) Coalition**
 
-The Media Consortium
+**The Media Consortium**
 
-United Church of Christ, OC Inc.</strong>
+**United Church of Christ, OC Inc.**
  
 
 *Original photo by Flickr user Gage Skidmore*

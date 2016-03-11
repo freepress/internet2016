@@ -1,5 +1,5 @@
 ---
-title: "Encryption (FBI-Apple)"
+title: "Encryption (Apple-FBI)"
 icon: privacy
 label: Privacy
 categories:

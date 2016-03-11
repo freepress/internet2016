@@ -7,6 +7,7 @@ categories:
 candidates:
  - candidate: "HC"
    position: "Wrote that enforcing strong Net Neutrality rules will \"enable startups to challenge the status quo, and allow small businesses to thrive.\""
+lightbox: test
    level: 1
  - candidate: "TC"
    position: "Described Net Neutrality as \"Obamacare for the Internet,\" adding that overturning the FCC’s open Internet rules would be one of his earliest actions as president."

@@ -868,7 +868,7 @@ main {
   margin: 30px auto 0;
   font-style: italic;
   font-size: 14px;
-  line-height: 18px;
+  line-height: 18px; 
 }
 
 @media (max-width: 1200px ) {

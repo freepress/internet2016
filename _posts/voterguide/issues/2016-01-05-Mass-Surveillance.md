@@ -6,7 +6,7 @@ categories:
 - voterguideissue
 candidates:
  - candidate: "HC"
-   position: "While Sen. Clinton cast votes in 2001 and 2009 that enabled NSA mass surveillance, candidate Clinton has called on the NSA to be more transparent. "
+   position: "While Sen. Clinton cast votes in 2001 and 2006 that enabled NSA mass surveillance, candidate Clinton has called on the NSA to be more transparent. "
    level: 3
  - candidate: "TC"
    position: "Was one of only four Republicans to sponsor the USA Freedom Act, which reined in some of the government’s mass surveillance powers. "

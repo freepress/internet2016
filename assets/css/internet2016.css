@@ -338,7 +338,7 @@ footer h1 {
 }
 
 .blog-post-single-body {
-  //text-align: justify;
+  /*text-align: justify;*/
 }
 
 .list-of-tags {
@@ -347,7 +347,7 @@ footer h1 {
 }
 
 .featured-teaser {
-  //text-align: justify;
+  /*text-align: justify;*/
   min-height: 4em;
 }
 
@@ -376,7 +376,7 @@ footer h1 {
 }
 
 .policy-body {
-  //text-align: justify;
+  /*text-align: justify;*/
 }
 
 
@@ -551,4 +551,417 @@ main {
   height: auto;
   margin-right: auto;
   margin-left: auto;
+}
+
+
+
+/* classes for the voter guide page - /voterguide */
+
+
+.vg-share {
+  text-align: right;
+  margin-bottom: 10px;
+  margin-right: 3px;
+}
+
+.vg-shareBottom {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.vg-shareTitle {
+  margin-bottom: 10px;
+  font-size: 20px;
+  line-height: 25px;
+  display: inline-block;
+  margin-right: 3px;
+  position: relative;
+  top: 3px;
+}
+
+.vg-share a {
+  background: #663399;
+  color: #fff;
+  padding: 8px 13px 3px 10px;
+  display: inline-block;
+  margin-left: 8px;
+}
+
+.vg-share a:hover {
+  background: #663399;
+  color: #fff;
+  text-decoration: none;
+}
+
+.vg-share .vg-facebook:hover {
+  background: #3b5998;
+}
+
+.vg-share .vg-twitter:hover {
+  background: #55acee;
+}
+
+.vg-share .fb-icon:before {
+  background-image: url('../img/icons/facebook-white.svg');
+}
+
+.vg-share .twitter-icon:before {
+  background-image: url('../img/icons/twitter-white.svg');
+}
+
+.vg-shareIcon:before {
+  font-size: 30px;
+}
+
+.vg-shareLabel {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  position: relative;
+  top: 2px;
+  margin-left: 2px;
+}
+
+.vg-shareLabel,
+.vg-shareIcon {
+  display: inline-block;
+  vertical-align: top;
+}
+.vg .table {
+  table-layout: fixed;
+}
+
+.vg .table tr {
+  border: none;
+  padding: 0;
+}
+
+.vg .table th,
+.vg .table td {
+  padding: 2px;
+  border: 3px solid #fff;
+  position: relative;
+}
+
+.vg .table th {
+  position: relative;
+  padding: 0;
+}
+
+.vg .table td {
+  padding: 12px;
+  font-size: 14px;
+}
+
+.vg .table th:first-child {
+  width: 120px;
+  background: #fff;
+}
+
+.vg .table td:first-child {
+  color: #000;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.vg .table td:first-child,
+.vg .table th:first-child {
+  border-bottom-color: #ddd;
+  
+}
+
+.vg .table th .vg-image {
+  position: relative;
+  z-index: 0;
+  background:  #663399;
+}
+
+.vg .table th .vg-image img {
+  display: block;
+}
+.vg .table th .vg-image::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  z-index: 1;
+  background: #663399;
+  background: linear-gradient(rgba(102, 51, 153, 0),rgba(102, 51, 153, 1));
+}
+
+.vg .table th .vg-name{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  padding: 12px;
+  color: #fff;
+}
+
+.vg .single-page-title {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.vg-intro {
+  max-width: 860px;
+  margin: 0 auto 30px;
+}
+
+.vg-issueName {
+  font-weight: 600;
+  line-height: 18px;
+  font-size: 15px;
+  display: block;
+}
+
+.vg-issueLabel {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  border-bottom: 1px solid black;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.vg-issueIcon {
+  max-width: 70px;
+  margin: 0 auto 0;
+
+  img {
+    display: block;
+  }
+}
+
+.table>tbody>tr>td.level-0 {
+  text-align: center;
+}
+
+.level-0 { 
+  background: #eee;
+  color: #bbb;
+}
+
+.level-1 { 
+  background: #a8e7ff;
+}
+
+.level-2 { 
+  background: #e0c2ff; 
+  //color: #fff;
+}
+
+.level-3 { 
+  background: #ffbaa8;
+  //color: #fff;
+}
+
+.level-1 .vg-position:before, .level-2 .vg-position:before, .level-3 .vg-position:before, .level-0 .vg-position:before {
+  content: '';
+  display: block;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  opacity: .65;
+  margin: 0 auto 10px;
+}
+
+.level-0 .vg-position:before {
+  background-image: url('../img/emoji-question.svg');
+  opacity: .25;
+}
+
+.level-1 .vg-position:before {
+  background-image: url('../img/emoji-happy.svg');
+}
+
+.level-2 .vg-position:before {
+  background-image: url('../img/emoji-neutral.svg');
+}
+
+.level-3 .vg-position:before {
+  background-image: url('../img/emoji-sad.svg');
+}
+
+.vg-key {
+  padding: 0 10px 10px 0;
+}
+
+.vg-keyLabel {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.vg-keyItem {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.vg-keyItem span {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  margin-right: 5px;
+  vertical-align: top;
+  border: 2px solid black;
+  position: relative;
+  top: -5px;
+}
+
+.vg .modal-title br {
+  display: none;
+}
+
+.vg-positionLink {
+  border: 2px solid black;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  background: transparent;
+  font-weight: 600;
+  margin-top: 10px;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.vg-positionLink:hover {
+  background: black;
+  color: white;
+}
+
+
+.vg-image,
+.vg-key {
+  transition: height .5s ease;
+  overflow: hidden;
+  height: 209px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.vg-key {
+  transition: height .5s ease, opacity .5s ease;
+}
+
+.vg-image img {
+  transition: opacity .5s ease;
+}
+
+.js-smallTableHeader .vg-key,
+.js-smallTableHeader .vg-image {
+  height: 69px;
+}
+
+.js-smallTableHeader .vg-image img,
+.js-smallTableHeader .vg-key {
+  opacity: 0;
+}
+
+@media (max-width: 1200px ) {
+  .vg-image,
+  .vg-key {
+    height: 170px;
+  }
+
+  .vg-name {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17px;
+    display: block;
+  }
+}
+
+/* for smaller laptops */
+@media (max-width: 992px ) {
+  .vg .container {
+    width: 100%;
+  }
+
+  .vg-image,
+  .vg-key {
+    height: 120px;
+  }
+}
+
+/* for mobile */
+
+@media (max-width: 800px ) {
+
+  .vg .container {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .vg-keyLabel {
+    margin-bottom: 0;
+  }
+
+  .vg-keyItem { 
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .vg-issue {
+    text-align: center;
+    background: #ddd;
+    padding: 16px;
+    margin-top: 20px;
+  }
+
+  .vg-issueLabel {
+    display: inline-block;
+  }
+
+  .vg .table th:first-child {
+    width: auto;
+    padding: 0;
+  }
+
+  .vg .table td:first-child {
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .vg .table td {
+    vertical-align: middle;
+  }
+
+  .vg-name br {
+    display: none;
+  }
+
+  .vg-name {
+    font-weight: 600;
+  }
+
+  .vg .table {
+    table-layout: default;
+  }
+
+  .vg-image {
+    max-width: 200px;
+    margin: 0 auto 10px;
+  }
+
+  .vg-image,
+  .vg-key {
+    height: auto;
+  }
+}
+
+
+/* modal overrides */
+.modal-backdrop {
+  background: rgb(102, 51, 153);
+}
+
+.modal-content {
+  border-radius: 0;
 }

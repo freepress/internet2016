@@ -1,7 +1,7 @@
 ---
 title: "Internet Censorship"
 icon: speech
-label: Speech
+label: Free Speech
 categories:
 - voterguideissue
 candidates:

@@ -13,6 +13,7 @@ candidates:
    level: 3
  - candidate: "JK"
    position: "Unknown"
+   lightbox: test
    level: 0
  - candidate: "MR"
    position: "Along with Cruz, proposed the deceptively named \"Restoring Internet Freedom Act,\" which would reverse the Net Neutrality order and prohibit the FCC from passing similar rules. "

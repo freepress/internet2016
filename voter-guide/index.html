@@ -70,7 +70,7 @@ templateheader: subhead_image_Purple.png
                       {% if thing.candidate == item.short %}
                         <td class="level-{{ thing.level }}">
                           <div class="vg-position">{{ thing.position }}</div>
-                          {% if thing.position2 %}
+                          {% if thing.lightbox %}
                             <button type="button" class="vg-positionLink" data-toggle="modal" data-target="#myModal-{{ forloop.index }}">learn more</button>
                           {% endif %}
                         </td>
@@ -87,7 +87,7 @@ templateheader: subhead_image_Purple.png
             {% if item.active %}
               {% for thing in post.candidates %}
                 {% if thing.candidate == item.short %}
-                  {% if thing.position2 %}
+                  {% if thing.lightbox %}
                     <div class="modal fade" id="myModal-{{ forloop.index }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel-{{ forloop.index }}">
                       <div class="modal-dialog" role="document">
                         <div class="modal-content">
@@ -96,7 +96,7 @@ templateheader: subhead_image_Purple.png
                             <h4 class="modal-title" id="myModalLabel-{{ forloop.index }}">{{ item.title }}: {{ post.title }}</h4>
                           </div>
                           <div class="modal-body">
-                            {{ thing.position2 }}
+                            {{ thing.lightbox }}
                           </div>
                         </div>
                       </div>

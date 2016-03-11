@@ -7,11 +7,9 @@ categories:
 candidates:
  - candidate: "HC"
    position: "Called for government and social media platforms to block suspected terrorist communications. “We should work with host companies to shut them down,” she said in December. "
-   position2: "test"
    level: 3
  - candidate: "TC"
    position: "Cruz heralded the grassroots effort to defeat the Protect IP Act (PIPA), which would have blacked out parts of the Internet. But he mistakenly believes that Net Neutrality is censorship. "
-   position2: "test 2"
    level: 2
  - candidate: "JK"
    position: "Unknown"

@@ -954,6 +954,10 @@ main {
   .vg-key {
     height: auto;
   }
+
+  .vg-shareTitle {
+    display: block;
+  }
 }
 
 

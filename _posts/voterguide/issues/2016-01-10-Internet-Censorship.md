@@ -6,7 +6,7 @@ categories:
 - voterguideissue
 candidates:
  - candidate: "HC"
-   position: "Called for censoring social media: “... You’re going to hear all of the usual complaints, you know, freedom of speech, etc. But if we truly are in a war ... we’ve got to shut off their means of communicating,” she said in December. "
+   position: "Called for censoring social media: “You’re going to hear all of the usual complaints, you know, freedom of speech, etc. But if we truly are in a war ... we’ve got to shut off their means of communicating,” she said in December. "
    level: 3
  - candidate: "TC"
    position: "Cruz heralded the grassroots effort to defeat the Protect IP Act (PIPA), which would have blacked out parts of the Internet. But he mistakenly believes that Net Neutrality is censorship. "

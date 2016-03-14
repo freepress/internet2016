@@ -15,7 +15,7 @@ candidates:
    position: "Unknown"
    level: 0
  - candidate: "MR"
-   position: "In 2011, Rubio co-sponsored PIPA, which called for blacking out large portions of the Internet. He pulled his support after a massive public outcry."
+   position: "In 2011, Rubio co-sponsored PIPA, which called for blacking out large portions of the Internet. He <a href='https://www.facebook.com/SenatorMarcoRubio/posts/340889625936408' target='_blank'>pulled his support</a> after a massive public outcry."
    level: 2
  - candidate: "BS"
    position: "Sanders opposed PIPA, saying, “It is absolutely essential that the Internet remain open and free of censorship or the chilling effects that result in self-censorship.”"

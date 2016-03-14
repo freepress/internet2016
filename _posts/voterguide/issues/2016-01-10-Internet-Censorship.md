@@ -21,7 +21,7 @@ candidates:
    position: "Sanders  <a href='http://projects.propublica.org/sopa/S000033.html' target='_blank'>opposed PIPA</a>, saying, “It is absolutely essential that the Internet remain open and free of censorship or the chilling effects that result in self-censorship.”"
    level: 1
  - candidate: "DT"
-   position: "Believes the government needs to shut down the Internet to keep America safe. “I sure as hell don’t want to let people that want to kill us ... use our Internet.”"
+   position: "Believes the government needs to  <a href='http://time.com/4150891/republican-debate-donald-trump-internet/' target='_blank'>shut down the Internet</a> to keep America safe. “I sure as hell don’t want to let people that want to kill us ... use our Internet.”"
    level: 3
 ---
 

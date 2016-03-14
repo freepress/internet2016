@@ -21,6 +21,6 @@ candidates:
    position: "\"It's a very complicated issue,\" <a href='http://www.nbcnews.com/politics/2016-election/transcript-msnbc-telemundo-clinton-sanders-town-hall-n520781' target='_blank'>Sanders said</a> of the Apple-FBI dispute during an MSNBC town hall. \"I think there is a middle ground that can be reached.\" "
    level: 2
  - candidate: "DT"
-   position: "\"Who do they think they are?\" Trump said about Apple’s refusal to help the FBI break the encrypted communications of the San Bernardino shooters. "
+   position: "\"Who do they think they are?\" <a href='http://finance.yahoo.com/news/think-donald-trump-blasts-apple-133241253.html' target='_blank'>Trump said</a> about Apple’s refusal to help the FBI break the encrypted communications of the San Bernardino shooters. "
    level: 3
 ---

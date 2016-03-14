@@ -12,7 +12,7 @@ candidates:
    position: "Was one of only four Republicans to <a href='https://www.tedcruz.org/l/freedom-act/' target='_blank'>sponsor the USA Freedom Act</a>, which reined in some of the government’s mass surveillance powers. "
    level: 1
  - candidate: "JK"
-   position: "Said the USA Freedom Act was a \"step forward\" but is vague about how he'd restrain the NSA and other agencies that engage in mass surveillance. "
+   position: "Said the USA Freedom Act was a <a href='http://www.hughhewitt.com/ohio-governor-john-kasich-on-patriot-actusa-freedom-act-and-education-reform/' target='_blank'>\"step forward\"</a> but is vague about how he'd restrain the NSA and other agencies that engage in mass surveillance. "
    level: 2
  - candidate: "MR"
    position: "Supports expanded state surveillance and voted against the USA Freedom Act. \"The U.S. cannot afford to ignore another lesson of 9/11 and curtail intelligence-gathering capabilities.\" "

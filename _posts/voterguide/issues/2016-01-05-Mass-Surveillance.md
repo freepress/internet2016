@@ -15,7 +15,7 @@ candidates:
    position: "Said the USA Freedom Act was a <a href='http://www.hughhewitt.com/ohio-governor-john-kasich-on-patriot-actusa-freedom-act-and-education-reform/' target='_blank'>\"step forward\"</a> but is vague about how he'd restrain the NSA and other agencies that engage in mass surveillance. "
    level: 2
  - candidate: "MR"
-   position: "Supports expanded state surveillance and voted against the USA Freedom Act. \"The U.S. cannot afford to ignore another lesson of 9/11 and curtail intelligence-gathering capabilities.\" "
+   position: "Supports expanded state surveillance and  <a href='http://www.foxnews.com/opinion/2015/01/27/us-must-heed-lessons-11-to-defeat-enemies-in-terror-war.html' 'target='_blank'>voted against the USA Freedom Act</a>. \"The U.S. cannot afford to ignore another lesson of 9/11 and curtail intelligence-gathering capabilities.\" "
    level: 3
  - candidate: "BS"
    position: "Voted against the Patriot Act both times and said during a debate that he would \"absolutely\" end sweeping NSA surveillance. "

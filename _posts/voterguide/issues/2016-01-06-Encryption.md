@@ -9,7 +9,7 @@ candidates:
    position: "Called the Apple-FBI dispute a <a href='http://www.nbcnews.com/politics/2016-election/transcript-msnbc-telemundo-clinton-sanders-town-hall-n520781' target='_blank'> \"legitimate dilemma.\"</a> Urged tech companies to work with the government to solve the \"real-world problems that we face\" without offering specifics."
    level: 2
  - candidate: "TC"
-   position: "During a Feb. 17 town hall, Cruz said, \"law enforcement has the better argument\" and \"nobody has a right to defy a legal search warrant.\" "
+   position: "During a Feb. 17 town hall, <a href='http://transcripts.cnn.com/TRANSCRIPTS/1602/17/se.01.html' target'_blank'>Cruz said</a>, \"law enforcement has the better argument\" and \"nobody has a right to defy a legal search warrant.\" "
    level: 3
  - candidate: "JK"
    position: "\"You sit down in a back room, and you sit down with the parties, and you get this worked out,\"  <a href='http://money.cnn.com/2016/02/26/technology/republican-debate-apple/' target='_blank'>Kasich said</a> during the Telemundo debate without offering much more. "

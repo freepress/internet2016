@@ -18,7 +18,7 @@ candidates:
    position: "Along with Cruz, proposed the deceptively named <a href='http://www.lee.senate.gov/public/index.cfm/press-releases?ID=D0D20A8A-2983-41F2-87E9-ABCF14873A12' target='_blank'>\"Restoring Internet Freedom Act,\"</a> which would reverse the Net Neutrality order and prohibit the FCC from passing similar rules. "
    level: 3
  - candidate: "BS"
-   position: "Supports the FCC rules and believes Internet service providers should treat all data equally instead of prioritizing some customers' sites or services over others."
+   position: "<a href='http://www.sanders.senate.gov/legislation/issue/media-ownership-and-telecommunications' target='_blank'>Supports the FCC rules</a> and believes Internet service providers should treat all data equally instead of prioritizing some customers' sites or services over others."
    level: 1
  - candidate: "DT"
    position: "Mistakenly believes the FCC’s Net Neutrality protections are an \"attack on the Internet\" that would \"target conservative media.\""

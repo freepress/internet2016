@@ -18,7 +18,7 @@ candidates:
    position: "<a href='http://www.theverge.com/2014/6/20/5828790/wi-fi-innovation-act-introduced-expand-us-wifi-rubio-booker' target='_blank'>Backs legislation</a> that would expand affordable Wi-Fi deployment and further the use of unlicensed spectrum for Internet access. "
    level: 1
  - candidate: "BS"
-   position: "In a 2015 letter, Sanders urged the FCC to further investigate the high cost of U.S. broadband, promote competition and “ensure fair prices for consumers.” "
+   position: "In a  <a href='http://www.sanders.senate.gov/download/071015fccletter/?inline=file' target='_blank'>2015 letter</a>, Sanders urged the FCC to further investigate the high cost of U.S. broadband, promote competition and “ensure fair prices for consumers.” "
    level: 1
  - candidate: "DT"
    position: "Unknown"

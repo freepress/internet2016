@@ -9,7 +9,7 @@ candidates:
    position: "Clinton wrote a  <a href='http://qz.com/529303/hillary-clinton-being-pro-business-doesnt-mean-hanging-consumers-out-to-dry'/ target='_blank'>2015 position piece</a> supporting FCC efforts to preempt state laws that “unfairly protect incumbent businesses” like the local cable monopoly against city-run networks."
    level: 1
  - candidate: "TC"
-   position: "In a 2014 letter to the FCC, Cruz claimed the agency would infringe on states' rights if it enabled communities to operate publicly built broadband networks. "
+   position: "In a  <a href='http://watchdog.wpengine.netdna-cdn.com/wp-content/blogs.dir/1/files/2014/06/LetterToFCCOnStatesRights.pdf' target='_blank'>2014 letter to the FCC</a>, Cruz claimed the agency would infringe on states' rights if it enabled communities to operate publicly built broadband networks. "
    level: 3
  - candidate: "JK"
    position: "Unknown"

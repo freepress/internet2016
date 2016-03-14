@@ -18,7 +18,7 @@ candidates:
    position: "Supports expanded state surveillance and  <a href='http://www.foxnews.com/opinion/2015/01/27/us-must-heed-lessons-11-to-defeat-enemies-in-terror-war.html' 'target='_blank'>voted against the USA Freedom Act</a>. \"The U.S. cannot afford to ignore another lesson of 9/11 and curtail intelligence-gathering capabilities.\" "
    level: 3
  - candidate: "BS"
-   position: "Voted against the Patriot Act both times and said during a debate that he would \"absolutely\" end sweeping NSA surveillance. "
+   position: "Voted against the Patriot Act both times and a href='http://thehill.com/policy/national-security/256865-sanders-would-absolutely-end-nsa-spying' target='_blank'>said during a debate</a> that he would \"absolutely\" end sweeping NSA surveillance. "
    level: 1
  - candidate: "DT"
    position: "Says he would \"err on the side of security\" and support maintaining the Patriot Act and continuing mass surveillance."

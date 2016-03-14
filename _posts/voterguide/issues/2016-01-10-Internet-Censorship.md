@@ -6,7 +6,7 @@ categories:
 - voterguideissue
 candidates:
  - candidate: "HC"
-   position: "Called for censoring social media to fight terrorism: “You’re going to hear all of the usual complaints, you know, freedom of speech, etc. But if we truly are in a war ... we’ve got to shut off their means of communicating.” "
+   position: "Called for <a href='http://www.brookings.edu/~/media/events/2015/12/04-saban-2015-israel-us-yesterday-today-tomorrow/transcripts/uncorrected-transcriptkeynote-addressformer-secretary-of-state-hillary-rodham-clinton.pdf'>censoring social media</a> to fight terrorism: “You’re going to hear all of the usual complaints, you know, freedom of speech, etc. But if we truly are in a war ... we’ve got to shut off their means of communicating.” "
    level: 3
  - candidate: "TC"
    position: "Cruz heralded the grassroots effort to defeat the Protect IP Act (PIPA), which would have blacked out parts of the Internet. But he mistakenly believes that Net Neutrality is censorship. "

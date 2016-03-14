@@ -9,7 +9,7 @@ candidates:
    position: "While Sen. Clinton cast votes in 2001 and 2006 that enabled NSA mass surveillance, candidate Clinton has <a href='https://youtu.be/hFA_vIsHJgI' target='_blank'>called on the NSA to be more transparent. "
    level: 3
  - candidate: "TC"
-   position: "Was one of only four Republicans to sponsor the USA Freedom Act, which reined in some of the government’s mass surveillance powers. "
+   position: "Was one of only four Republicans to <a href='https://www.tedcruz.org/l/freedom-act/' target='_blank'>sponsor the USA Freedom Act</a>, which reined in some of the government’s mass surveillance powers. "
    level: 1
  - candidate: "JK"
    position: "Said the USA Freedom Act was a \"step forward\" but is vague about how he'd restrain the NSA and other agencies that engage in mass surveillance. "

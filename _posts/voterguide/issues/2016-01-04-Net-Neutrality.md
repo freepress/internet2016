@@ -21,6 +21,6 @@ candidates:
    position: "<a href='http://www.sanders.senate.gov/legislation/issue/media-ownership-and-telecommunications' target='_blank'>Supports the FCC rules</a> and believes Internet service providers should treat all data equally instead of prioritizing some customers' sites or services over others."
    level: 1
  - candidate: "DT"
-   position: "Mistakenly believes the FCC’s Net Neutrality protections are an \"attack on the Internet\" that would \"target conservative media.\""
+   position: "Mistakenly believes the FCC’s Net Neutrality protections are an \"attack on the Internet\" that would <a href='https://www.facebook.com/DonaldTrump/posts/10154816848070725' target='_blank'>\"target conservative media.\"</a>"
    level: 3
 ---

@@ -15,7 +15,7 @@ candidates:
    position: "Unknown"
    level: 0
  - candidate: "MR"
-   position: "Along with Cruz, proposed the deceptively named \"Restoring Internet Freedom Act,\" which would reverse the Net Neutrality order and prohibit the FCC from passing similar rules. "
+   position: "Along with Cruz, proposed the deceptively named <a href='http://www.lee.senate.gov/public/index.cfm/press-releases?ID=D0D20A8A-2983-41F2-87E9-ABCF14873A12' target='_blank'>\"Restoring Internet Freedom Act,\"</a> which would reverse the Net Neutrality order and prohibit the FCC from passing similar rules. "
    level: 3
  - candidate: "BS"
    position: "Supports the FCC rules and believes Internet service providers should treat all data equally instead of prioritizing some customers' sites or services over others."

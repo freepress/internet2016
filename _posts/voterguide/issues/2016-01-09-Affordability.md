@@ -6,7 +6,7 @@ categories:
 - voterguideissue
 candidates:
  - candidate: "HC"
-   position: "Clinton’s policy platform includes a commitment to connect 100 percent of the nation’s households to affordable broadband services by 2020. "
+   position: "Clinton’s <a href='https://www.hillaryclinton.com/issues/infrastructure/' target='_blank'>policy platform</a> includes a commitment to connect 100 percent of the nation’s households to affordable broadband services by 2020. "
    level: 1
  - candidate: "TC"
    position: "Unknown"

@@ -18,7 +18,7 @@ candidates:
    position: "Unknown"
    level: 0
  - candidate: "BS"
-   position: "In February, Sanders signed a letter to the Justice Department and the FCC that expresses strong concerns about Charter's proposed takeover of Time Warner Cable. "
+   position: "In February, Sanders  <a href='http://www.markey.senate.gov/imo/media/doc/2016-02-25-TWC-Charter-Letter.pdf' target='_blank'>signed a letter</a> to the Justice Department and the FCC that expresses strong concerns about Charter's proposed takeover of Time Warner Cable. "
    level: 1
  - candidate: "DT"
    position: "Unknown"

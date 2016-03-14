@@ -12,7 +12,7 @@ candidates:
    position: "During a Feb. 17 town hall, Cruz said, \"law enforcement has the better argument\" and \"nobody has a right to defy a legal search warrant.\" "
    level: 3
  - candidate: "JK"
-   position: "\"You sit down in a back room, and you sit down with the parties, and you get this worked out,\" Kasich said during the Telemundo debate without offering much more. "
+   position: "\"You sit down in a back room, and you sit down with the parties, and you get this worked out,\"  <a href='http://money.cnn.com/2016/02/26/technology/republican-debate-apple/' target='_blank'>Kasich said</a> during the Telemundo debate without offering much more. "
    level: 2
  - candidate: "MR"
    position: "\"[Apple’s] brand is not superior to the national security of the United States of America,\" Rubio said during the Telemundo debate."

@@ -80,7 +80,7 @@ facebook_img: voter-guide.jpg
                     {% for thing in post.candidates %}
                       {% if thing.candidate == item.short %}
                         <td class="level-{{ thing.level }}">
-                          <div class="vg-position">{{ thing.position }}</div>
+                          <div class="vg-position">{{ thing.position|raw }}</div>
                           {% if thing.lightbox %}
                             <button type="button" class="vg-positionLink" data-toggle="modal" data-target="#myModal-{{ forloop.index }}">learn more</button>
                           {% endif %}

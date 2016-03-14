@@ -838,6 +838,10 @@ main {
   line-height: 14px;
 }
 
+.vg-position a {
+  text-decoration: underline;
+}
+
 .vg-positionLink:hover {
   background: black;
   color: white;

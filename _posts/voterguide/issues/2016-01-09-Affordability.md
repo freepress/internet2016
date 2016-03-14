@@ -12,7 +12,7 @@ candidates:
    position: "Unknown"
    level: 0
  - candidate: "JK"
-   position: "In response to a question at a New Hampshire campaign stop, Kasich suggested that consumers were to blame for higher broadband prices. "
+   position: "In  <a href='https://youtu.be/gdLQ-MjrezM' target='_blank'>response to a question</a> at a New Hampshire campaign stop, Kasich suggested that consumers were to blame for higher broadband prices. "
    level: 3
  - candidate: "MR"
    position: "Backs legislation that would expand affordable Wi-Fi deployment and further the use of unlicensed spectrum for Internet access. "

@@ -2,7 +2,7 @@
 layout: blogpost_single
 title: "Free Press Action Fund Releases the 2016 Internet Voter Guide on Presidential Candidates"
 logo: press/vice-logo-white.png
-publish_date: Mar. 14, 2016
+publish_date: March 14, 2016
 categories: [press]
 tags:
  - pressrelease

@@ -15,7 +15,7 @@ candidates:
    position: "In  <a href='https://youtu.be/gdLQ-MjrezM' target='_blank'>response to a question</a> at a New Hampshire campaign stop, Kasich suggested that consumers were to blame for higher broadband prices. "
    level: 3
  - candidate: "MR"
-   position: "Backs legislation that would expand affordable Wi-Fi deployment and further the use of unlicensed spectrum for Internet access. "
+   position: "<a href='http://www.theverge.com/2014/6/20/5828790/wi-fi-innovation-act-introduced-expand-us-wifi-rubio-booker' target='_blank'>Backs legislation</a> that would expand affordable Wi-Fi deployment and further the use of unlicensed spectrum for Internet access. "
    level: 1
  - candidate: "BS"
    position: "In a 2015 letter, Sanders urged the FCC to further investigate the high cost of U.S. broadband, promote competition and “ensure fair prices for consumers.” "

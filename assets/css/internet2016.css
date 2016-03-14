@@ -553,6 +553,15 @@ main {
   margin-left: auto;
 }
 
+.u-borderRight {
+  display: inline-block;
+  padding: 10px 20px 10px 0;
+  border-right: 1px solid #FFFF00;
+  margin-right: 10px;
+  position: relative;
+  margin-top: -10px;
+}
+
 
 
 /* classes for the voter guide page - /voterguide */

@@ -18,7 +18,7 @@ candidates:
    position: "\"[Apple’s] brand is not superior to the national security of the United States of America,\" <a href='http://mashable.com/2016/02/25/gop-candidates-weigh-in-on-apple-fbi-case/#KvTWRO9_V5qD' target='_blank'>Rubio said</a> during the Telemundo debate."
    level: 3
  - candidate: "BS"
-   position: "\"It's a very complicated issue,\" Sanders said of the Apple-FBI dispute during an MSNBC town hall. \"I think there is a middle ground that can be reached.\" "
+   position: "\"It's a very complicated issue,\" <a href='http://www.nbcnews.com/politics/2016-election/transcript-msnbc-telemundo-clinton-sanders-town-hall-n520781' target='_blank'>Sanders said</a> of the Apple-FBI dispute during an MSNBC town hall. \"I think there is a middle ground that can be reached.\" "
    level: 2
  - candidate: "DT"
    position: "\"Who do they think they are?\" Trump said about Apple’s refusal to help the FBI break the encrypted communications of the San Bernardino shooters. "

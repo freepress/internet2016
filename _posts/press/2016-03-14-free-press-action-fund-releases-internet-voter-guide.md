@@ -16,7 +16,7 @@ Over the past decade, tens of millions of people across the United States have d
 
 Read the 2016 Internet Voter Guide here: [internet2016.net/voter-guide/](https://internet2016.net/voter-guide/).
 
-Free Press Action Fund President and CEO Craig Aaron said:
+Free Press Action Fund President and CEO <strong>Craig Aaron</strong> said:
 
 “The Internet Voter Guide shows that some presidential candidates care more about their campaigns’ digital operations than about the digital rights and needs of Americans across the country. Internet voters are small-business owners who want to reach a larger market, parents and educators fighting for children who don’t have the Internet access they need to do their homework, and people who are struggling to stay connected, apply for jobs online and fully participate in the political process. By ignoring these voters, candidates are missing the opportunity to reach millions of Americans who care about these issues.
 

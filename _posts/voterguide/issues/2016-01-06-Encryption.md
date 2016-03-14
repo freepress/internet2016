@@ -15,7 +15,7 @@ candidates:
    position: "\"You sit down in a back room, and you sit down with the parties, and you get this worked out,\"  <a href='http://money.cnn.com/2016/02/26/technology/republican-debate-apple/' target='_blank'>Kasich said</a> during the Telemundo debate without offering much more. "
    level: 2
  - candidate: "MR"
-   position: "\"[Apple’s] brand is not superior to the national security of the United States of America,\" Rubio said during the Telemundo debate."
+   position: "\"[Apple’s] brand is not superior to the national security of the United States of America,\" <a href='http://mashable.com/2016/02/25/gop-candidates-weigh-in-on-apple-fbi-case/#KvTWRO9_V5qD' target='_blank'>Rubio said</a> during the Telemundo debate."
    level: 3
  - candidate: "BS"
    position: "\"It's a very complicated issue,\" Sanders said of the Apple-FBI dispute during an MSNBC town hall. \"I think there is a middle ground that can be reached.\" "

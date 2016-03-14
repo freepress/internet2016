@@ -6,7 +6,7 @@ categories:
 - voterguideissue
 candidates:
  - candidate: "HC"
-   position: "Called the Apple-FBI dispute a <a href='http://www.nbcnews.com/politics/2016-election/transcript-msnbc-telemundo-clinton-sanders-town-hall-n520781' target='_blank'> \"legitimate dilemma.</a>\"" Urged tech companies to work with the government to solve the \"real-world problems that we face\" without offering specifics."
+   position: "Called the Apple-FBI dispute a <a href='http://www.nbcnews.com/politics/2016-election/transcript-msnbc-telemundo-clinton-sanders-town-hall-n520781' target='_blank'> \"legitimate dilemma</a>.\"" Urged tech companies to work with the government to solve the \"real-world problems that we face\" without offering specifics."
    level: 2
  - candidate: "TC"
    position: "During a Feb. 17 town hall, <a href='http://transcripts.cnn.com/TRANSCRIPTS/1602/17/se.01.html' target'_blank'>Cruz said</a>, \"law enforcement has the better argument\" and \"nobody has a right to defy a legal search warrant.\" "

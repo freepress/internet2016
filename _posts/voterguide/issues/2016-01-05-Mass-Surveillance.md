@@ -21,6 +21,6 @@ candidates:
    position: "Voted against the Patriot Act both times and <a href='http://thehill.com/policy/national-security/256865-sanders-would-absolutely-end-nsa-spying' target='_blank'>said during a debate</a> that he would \"absolutely\" end sweeping NSA surveillance. "
    level: 1
  - candidate: "DT"
-   position: "Says he would \"err on the side of security\" and support maintaining the Patriot Act and continuing mass surveillance."
+   position: "Says he would <a href='http://www.cnn.com/2015/12/01/politics/donald-trump-nsa-surveillance/' target='_blank'>\"err on the side of security\"</a> and support maintaining the Patriot Act and continuing mass surveillance."
    level: 3
 ---

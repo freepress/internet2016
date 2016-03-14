@@ -9,7 +9,7 @@ candidates:
    position: "Wrote that <a href='http://qz.com/529303/hillary-clinton-being-pro-business-doesnt-mean-hanging-consumers-out-to-dry/' target='_blank'>enforcing strong Net Neutrality rules</a> will \"enable startups to challenge the status quo, and allow small businesses to thrive.\""
    level: 1
  - candidate: "TC"
-   position: "Described Net Neutrality as \"Obamacare for the Internet,\" adding that overturning the FCC’s open Internet rules would be one of his earliest actions as president."
+   position: "Described Net Neutrality as <a href='https://twitter.com/sentedcruz/status/531834493922189313' target='_blank'>\"Obamacare for the Internet,\"</a> adding that overturning the FCC’s open Internet rules would be one of his earliest actions as president."
    level: 3
  - candidate: "JK"
    position: "Unknown"

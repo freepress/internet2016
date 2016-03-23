@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-surveillance-cruz.jpg  
+headerimg: blog-surveillance-Cruz.jpg  
 title: "Cruz’s Response to the Brussels Attacks Threatens Our Civil Liberties — and Doesn’t Make Us Safer"
 teaser: "Ted Cruz wants law enforcement to target Muslim communities. And his position is just the most recent example of how politicians exploit crises to justify surveillance."
 thumbnail: thumbnail-blog-surveillance-cruz.svg

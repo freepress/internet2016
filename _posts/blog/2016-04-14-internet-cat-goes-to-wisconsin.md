@@ -16,7 +16,7 @@ Internet Cat has always wanted to achieve online fame. This is why she’s worki
 
 At a town hall for Sen. Bernie Sanders in Sheboygan, Internet Cat talked with attendees and handed out #InternetVoter stickers that read “I <3 the Internet + I Vote.” About 30 attendees at the town hall showed their love for the Internet by taking photos with Internet Cat, and an overwhelming majority of the folks she spoke with identified as #InternetVoters by the end of these conversations.
 
-<img src="https://internet2016.net/assets/img/blog-internet-cat.jpg" width="180" height="240" /> <img src="https://internet2016.net/assets/img/blog-internet-cat2.jpg" width="180" height="240" /> <img src="https://internet2016.net/assets/img/blog-internet-cat3.jpg" width="180" height="240" />
+<img src="https://internet2016.net/assets/img/blog-internet-cat.jpg" width="250" height="335" /> <img src="https://internet2016.net/assets/img/blog-internet-cat2.jpg" width="250" height="335" /> <img src="https://internet2016.net/assets/img/blog-internet-cat3.jpg" width="250" height="335" />
 
 It’s clear that Internet freedom issues transcend the partisan divide. Folks attending Sen. Ted Cruz’s town hall in Madison also gave Internet Cat a warm reception. About 300 people took Internet 2016 stickers and spoke with our feline friend. Most of these attendees agreed that increasing competition among broadband providers and connecting more Americans at affordable rates are important issues for candidates to address.
 

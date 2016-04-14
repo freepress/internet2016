@@ -18,8 +18,8 @@ At a town hall for Sen. Bernie Sanders in Sheboygan, Internet Cat talked with at
 
 <img src="https://internet2016.net/assets/img/blog-internet-cat.jpg" width="250" height="335" /> <img src="https://internet2016.net/assets/img/blog-internet-cat2.jpg" width="250" height="335" /> <img src="https://internet2016.net/assets/img/blog-internet-cat3.jpg" width="250" height="335" />
 
-It’s clear that Internet freedom issues transcend the partisan divide. Folks attending Sen. Ted Cruz’s town hall in Madison also gave Internet Cat a warm reception. About 300 people took Internet 2016 stickers and spoke with our feline friend. Most of these attendees agreed that increasing competition among broadband providers and connecting more Americans at affordable rates are important issues for candidates to address.
+It’s clear that people on both sides of the partisan divide care about Internet freedom issues. Folks attending Sen. Ted Cruz’s town hall in Madison also gave Internet Cat a warm reception. About 300 people took Internet 2016 stickers and spoke with our feline friend. Most of these attendees agreed that increasing competition among broadband providers and connecting more Americans at affordable rates are important issues for candidates to address.
 
-This issue has been a dominant one throughout the Internet 2016 campaign. People we’ve talked to in Iowa, New Hampshire and other states agree that the cost of broadband is way too high. Voters want presidential candidates from all parties to develop plans to make high-speed Internet access more affordable for everyone.
+This issue has been a dominant one throughout the Internet 2016 campaign. People we’ve talked to in Iowa, New Hampshire and other states say that the cost of broadband is way too high. Voters want presidential candidates from all parties to develop plans to make high-speed Internet access more affordable for everyone.
 
 We’re going to keep hitting the campaign trail in the months ahead. Follow the Internet 2016 campaign on Twitter @freepressaction for updates.

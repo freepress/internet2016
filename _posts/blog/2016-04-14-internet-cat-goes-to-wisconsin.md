@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-internet-cat.jpg
+headerimg: blog-internet-cat-state-house.jpg
 title: "Internet Cat Goes to Wisconsin"
 teaser: "A human-sized Internet Cat greeted about 1,000 Wisconsinites in the run-up to the state’s recent primary."
 thumbnail: thumbnail-blog-cat.svg

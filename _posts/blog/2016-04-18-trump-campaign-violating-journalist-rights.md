@@ -12,7 +12,7 @@ categories:
 ---
 After initially charging Donald Trump’s campaign manager, Corey Lewandowski, with battery for assaulting journalist Michelle Fields, Florida prosecutors announced last Thursday that they will [drop the charge](http://www.nytimes.com/2016/04/15/us/politics/corey-lewandowski-trump-campaign-manager.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0).
 
-This case is yet another example of how the Trump campaign has violated journalists’ constitutional rights. From the beginning the campaign and those affiliated with it have displayed a pattern of hostility and abuse toward journalists.
+This case is yet another example of how the Trump campaign has violated journalists’ constitutional rights. From the beginning, the campaign and those affiliated with it have displayed a pattern of hostility and abuse toward journalists.
 
 Given this pattern, this needs to be said unequivocally: The Trump campaign is an enemy of press freedom. 
 

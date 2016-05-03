@@ -56,3 +56,4 @@ As strong supporters of the free and open Internet, we encourage you to use it t
 
 Yes, we got your message. Real human beings read our inbox. You can go here to <a href='http://act.freepress.net/unsubscribe/unsubscribe_freepress/'>unsubscribe</a>.
 
+<em>Image: ColorOfChange Managing Director Arisha Michelle Hatch delivers petitions to Google.</em>

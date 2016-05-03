@@ -55,4 +55,4 @@ As strong supporters of the free and open Internet, we encourage you to use it t
 
 Yes, we got your message. Real human beings read our inbox. You can go here to <a href='http://act.freepress.net/unsubscribe/unsubscribe_freepress/' target='_blank'>unsubscribe</a>.
 
-Original photo by Flickr user Gage Skidmore
+<em>Original photo by Flickr user Gage Skidmore</em>

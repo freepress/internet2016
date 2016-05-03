@@ -26,7 +26,7 @@ We’ve gotten a few questions from our members about this work. Below are some 
 
 The Free Press Action Fund is a 501(c)(4) organization, but we don’t work for the election or defeat of any candidates. However, we do pay close attention to what they’re doing or saying about Internet freedom and press freedom. We critique Democrats and Republicans alike based on their positions on the issues.
 
-We’re following all of the major-party candidates as part of our Internet 2016 campaign. Check out our <a href='https://internet2016.net/blog/'>blog</a> and <a href='https://internet2016.net/policyplatform/'>Internet policy platform</a> for info on our activities and policy priorities and read our <a href'https://internet2016.net/voter-guide/'>2016 Internet Voter Guide</a> to see where the candidates stand on issues like privacy and the steep cost of Internet access.
+We’re following all of the major-party candidates as part of our Internet 2016 campaign. Check out our <a href='https://internet2016.net/blog/'>blog</a> and <a href='https://internet2016.net/policyplatform/'>Internet policy platform</a> for info on our activities and policy priorities and read our <a href='https://internet2016.net/voter-guide/'>2016 Internet Voter Guide</a> to see where the candidates stand on issues like privacy and the steep cost of Internet access.
 
 As Rashad Robinson of ColorOfChange has said, this campaign “isn’t about left or right, but about right and wrong.” We stand with our allies in denouncing Donald Trump’s violent rhetoric targeting people of color, immigrants, refugees, Muslims and women. And we’re calling on companies like Google, Microsoft and AT&T to demonstrate that they don’t condone racism and misogyny.
 

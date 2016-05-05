@@ -1,5 +1,5 @@
 ---
-title: "Sen.</br> Bernie Sanders"
+title: "Sen. Bernie Sanders"
 short: "BS"
 short2: bs
 active: true

@@ -1,5 +1,5 @@
 ---
-title: "Sec.</br> Hillary Clinton"
+title: "Sec. Hillary Clinton"
 short: "HC"
 short2: hc
 active: "true"

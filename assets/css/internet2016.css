@@ -658,7 +658,6 @@ main {
 }
 
 .vg .table td {
-  padding: 12px;
   font-size: 14px;
 }
 
@@ -682,7 +681,8 @@ main {
 .vg .table th .vg-image {
   position: relative;
   z-index: 0;
-  background:  #663399;
+  background: #ddd;
+  padding: 20px;
 }
 
 .vg .table th .vg-image img {
@@ -698,6 +698,12 @@ main {
   z-index: 1;
   background: #663399;
   background: linear-gradient(rgba(102, 51, 153, 0),rgba(102, 51, 153, 1));
+  display: none;
+}
+
+.vg .table td,
+.vg .table th .vg-name {
+  padding: 20px;
 }
 
 .vg .table th .vg-name{
@@ -705,8 +711,12 @@ main {
   width: 100%;
   bottom: 0;
   left: 0;
-  padding: 12px;
-  color: #fff;
+  color: #444;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+    font-size: 20px;
+    line-height: 1.2em;
 }
 
 .vg .single-page-title {
@@ -852,7 +862,7 @@ main {
 .vg-key {
   transition: height .5s ease;
   overflow: hidden;
-  height: 209px;
+  height: 250px;
   position: relative;
   top: 0;
   left: 0;
@@ -864,11 +874,13 @@ main {
 
 .vg-image img {
   transition: opacity .5s ease;
+  max-height: 180px;
+  margin: 0 auto;
 }
 
 .js-smallTableHeader .vg-key,
 .js-smallTableHeader .vg-image {
-  height: 69px;
+  height: 48px;
 }
 
 .js-smallTableHeader .vg-image img,
@@ -885,14 +897,9 @@ main {
 }
 
 @media (max-width: 1200px ) {
-  .vg-image,
-  .vg-key {
-    height: 170px;
-  }
 
   .vg-name {
     font-size: 15px;
-    font-weight: 400;
     line-height: 17px;
     display: block;
   }
@@ -902,11 +909,6 @@ main {
 @media (max-width: 992px ) {
   .vg .container {
     width: 100%;
-  }
-
-  .vg-image,
-  .vg-key {
-    height: 120px;
   }
 }
 
@@ -971,6 +973,10 @@ main {
     margin: 0 auto 10px;
   }
 
+  .vg-image img {
+    max-width: 100%;
+  }
+
   .vg-image,
   .vg-key {
     height: auto;
@@ -978,6 +984,11 @@ main {
 
   .vg-shareTitle {
     display: block;
+  }
+
+  .vg .table td,
+  .vg .table th .vg-name {
+    padding: 12px;
   }
 }
 

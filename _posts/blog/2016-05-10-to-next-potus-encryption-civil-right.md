@@ -4,7 +4,7 @@ headerimg: blog-freedom.jpg
 title: "To the Next POTUS: For Communities of Color, Encryption Is a Civil Right"
 teaser: "From San Bernardino to Brooklyn to Capitol Hill, the fight over encryption has boiled over this past month. But who's paying attention?"
 thumbnail: thumbnail-blog-encryption.svg
-author: <strong>Steven Renderos, Mark Tseng Putterman </strong>
+author: <strong>Steven Renderos and Mark Tseng Putterman </strong>
 publish_date: May 10, 2016
 tags: []
 categories:

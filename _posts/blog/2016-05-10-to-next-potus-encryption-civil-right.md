@@ -46,7 +46,7 @@ Reactionary anti-encryption measures like the proposed Feinstein-Burr bill show 
 
 But there are some on the Hill approaching encryption with a nuanced understanding both of the technology and the implications for our civil rights.
 
-For instance, Rep. Ted Lieu (D-CA) has worked across party lines to develop and introduce the [ENCRYPT Act](https://www.congress.gov/bill/114th-congress/house-bill/4528), which would prohibit state governments from making laws to mandate backdoors or otherwise weaken encryption. The White House, and those vying to next occupy it, would be wise to take a cue from Rep. Lieu.
+For instance, Rep. Ted Lieu has worked across party lines to develop and introduce the [ENCRYPT Act](https://www.congress.gov/bill/114th-congress/house-bill/4528), which would prohibit state governments from making laws to mandate backdoors or otherwise weaken encryption. The White House, and those vying to next occupy it, would be wise to take a cue from Rep. Lieu.
 
 Facing an unprecedented scale of targeted surveillance, the right to encryption is more crucial than ever for communities of color. The Obama administration has remained tight-lipped regarding its stance on encryption.
 

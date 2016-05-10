@@ -10,7 +10,7 @@ tags: []
 categories:
 - blog
 ---
-**This piece originally appeared in [TechCrunch](http://techcrunch.com/2016/05/06/to-the-next-potus-for-communities-of-color-encryption-is-a-civil-right/).**
+*This piece originally appeared in [TechCrunch](http://techcrunch.com/2016/05/06/to-the-next-potus-for-communities-of-color-encryption-is-a-civil-right/).*
 
 From San Bernardino to Brooklyn to Capitol Hill, the fight over encryption has boiled over this past month. But who's paying attention?
 

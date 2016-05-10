@@ -51,3 +51,7 @@ For instance, Rep. Ted Lieu has worked across party lines to develop and introdu
 Facing an unprecedented scale of targeted surveillance, the right to encryption is more crucial than ever for communities of color. The Obama administration has remained tight-lipped regarding its stance on encryption.
 
 But those candidates courting our votes should be clear: We need our next president to do more — to shape encryption policies based not on fear and misinformation, but on the realities of our technological and political climate, understanding what’s at stake for all of our communities’ ability to live and thrive in safety.
+
+*Steven Renderos is a national organizer at the Center for Media Justice and Mark Tseng Putterman is a media justice campaigner at 18 Million Rising.*
+
+*Image by Flickr user The unnamed*

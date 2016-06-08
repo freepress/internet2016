@@ -10,6 +10,8 @@ tags: []
 categories:
 - blog
 ---
+*This post originally appeared in [OtherWords](http://otherwords.org/tech-companies-need-to-stop-bankrolling-hate/).*
+
 It's common for major corporations to sponsor political conventions to buy favor with political parties. But what about when the convention nominates a presidential candidate who’s an out-and-out racist?
 
 That’s a deal breaker, right?
@@ -28,7 +30,7 @@ If that weren’t enough, Trump’s also threatened to shut down the open intern
 
 In short, Trump’s campaign isn’t “business as usual” — and corporations shouldn’t treat it as such. That’s why the racial justice group ColorOfChange has launched a campaign called Divest from Hate.
 
-They’re urging major tech companies not to bankroll a platform for hate while Trump continues to incite violence against marginalized communities. Other groups, including my own, have joined the effort to push tech companies to pull their support from the Republican convention, including both direct financial donations and in-kind contributions.
+They’re urging major tech companies not to bankroll a platform for hate while Trump continues to incite violence against marginalized communities. Other groups, including the Free Press Action Fund, have joined the effort to push tech companies to pull their support from the Republican convention, including both direct financial donations and in-kind contributions.
 
 This isn’t about left or right, but right and wrong. People of color make up a [large portion of the users](http://www.pewinternet.org/2010/09/17/technology-trends-among-people-of-color/) of services like YouTube and Facebook. These companies are essentially profiting off the very communities that Trump’s rallying against.
 
@@ -39,3 +41,5 @@ It’s important to note that these companies *have* taken stands on other polit
 Both Google and Facebook recently [spoke out against](http://www.newsweek.com/north-carolina-hb2-google-facebook-oppose-440722) North Carolina’s transphobic “bathroom bill.” And earlier this year, Facebook CEO Mark Zuckerberg circulated an internal memo [calling out employees](http://gizmodo.com/mark-zuckerberg-asks-racist-facebook-employees-to-stop-1761272768) who crossed out the words “Black Lives Matter” on the signature wall at the company’s headquarters. He called the behavior “malicious” and “unacceptable.”
 
 Now it’s time for Facebook and Google to take another stand against hate — and to join companies like Coca-Cola, Hewlett-Packard, and Microsoft that have already scaled back or cut their support to the Republican convention.
+
+*Original photo by Flickr user Gage Skidmore*

@@ -1,4 +1,3 @@
----
 layout: blogpost_single
 headerimg: blog-dfh-trump.jpeg
 title: "Tech Companies Need to Stop Bankrolling Hate"

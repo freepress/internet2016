@@ -2,7 +2,7 @@
 layout: blogpost_single
 headerimg: blog-dfh-trump.jpeg
 title: "Tech Companies Need to Stop Bankrolling Hate"
-teaser: "Donald Trump's campaign isn't "business as usual" — and the corporations supporting the Republican convention shouldn't treat it as such."
+teaser: "Donald Trump's campaign isn't "business as usual" and the corporations supporting the Republican convention shouldn't treat it as such."
 thumbnail: thumbnail-blog-piggy-bank.svg
 author: <strong>Lucia Martinez</strong>
 publish_date: June 8, 2016

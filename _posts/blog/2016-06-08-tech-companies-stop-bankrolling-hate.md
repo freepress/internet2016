@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-dfh-trump.jpeg
+headerimg: blog-dfh-trump.jpg
 title: "Tech Companies Need to Stop Bankrolling Hate"
 teaser: "Donald Trump's campaign isn't "business as usual" and the corporations supporting the Republican convention shouldn't treat it as such."
 thumbnail: thumbnail-blog-piggy-bank.svg
@@ -11,7 +11,7 @@ categories:
 - blog
 ---
 
-It’s common for major corporations to sponsor political conventions to buy favor with political parties. But what about when the convention nominates a presidential candidate who’s an out-and-out racist?
+It's common for major corporations to sponsor political conventions to buy favor with political parties. But what about when the convention nominates a presidential candidate who’s an out-and-out racist?
 
 That’s a deal breaker, right?
 

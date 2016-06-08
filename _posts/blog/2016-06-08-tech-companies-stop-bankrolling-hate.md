@@ -34,7 +34,7 @@ This isn’t about left or right, but right and wrong. People of color make up a
 
 Erin Egan, a Facebook vice president for publicity, [claims](http://gizmodo.com/facebook-will-support-the-republican-national-conventio-1775099117) that the company’s involvement in the convention will “facilitate an open dialogue among voters, candidates, and elected officials.” But throwing a coronation ball for Trump and his white supremacist supporters has nothing to do with democracy.
 
-It’s important to note that these companies **have** taken stands on other political issues.
+It’s important to note that these companies *have* taken stands on other political issues.
 
 Both Google and Facebook recently [spoke out against](http://www.newsweek.com/north-carolina-hb2-google-facebook-oppose-440722) North Carolina’s transphobic “bathroom bill.” And earlier this year, Facebook CEO Mark Zuckerberg circulated an internal memo [calling out employees](http://gizmodo.com/mark-zuckerberg-asks-racist-facebook-employees-to-stop-1761272768) who crossed out the words “Black Lives Matter” on the signature wall at the company’s headquarters. He called the behavior “malicious” and “unacceptable.”
 

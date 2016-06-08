@@ -10,6 +10,7 @@ tags: []
 categories:
 - blog
 ---
+
 It’s common for major corporations to sponsor political conventions to buy favor with political parties. But what about when the convention nominates a presidential candidate who’s an out-and-out racist?
 
 That’s a deal breaker, right?

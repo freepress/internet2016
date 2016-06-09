@@ -28,7 +28,7 @@ Trump has also [incited actual physical violence](https://theintercept.com/2016/
 
 If that weren’t enough, Trump’s also threatened to shut down the open internet, censoring the dissident voices standing up against his hate and racism. He’s called for greater surveillance of communities of color, and has encouraged violence against protesters and journalists.
 
-In short, Trump’s campaign isn’t “business as usual” — and corporations shouldn’t treat it as such. That’s why the racial justice group ColorOfChange has launched a campaign called Divest from Hate.
+In short, Trump’s campaign isn’t “business as usual” — and corporations shouldn’t treat it as such. That’s why the racial justice group ColorOfChange PAC has launched a campaign called Divest from Hate.
 
 They’re urging major tech companies not to bankroll a platform for hate while Trump continues to incite violence against marginalized communities. Other groups, including the Free Press Action Fund, have joined the effort to push tech companies to pull their support from the Republican convention, including both direct financial donations and in-kind contributions.
 

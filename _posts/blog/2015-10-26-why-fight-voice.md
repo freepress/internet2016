@@ -22,7 +22,7 @@ Without access to mainstream media outlets, the alternative is to create our own
 
 Having access to the Internet and the tools we need to tell our own stories gives us access to power. There's a reason #BlackLivesMatter began as a hashtag and then transformed into a movement &mdash; because the Internet allows black activists to speak their truth to power in a way the mainstream media does not. 
 
-This is why I'm an organizer for the [Internet 2016 campaign](https://internet2016.net). The Free Press Action Fund launched this effort to push presidential candidates to protect the open Internet. We need candidates to stand up to the big phone and cable companies and fight for the principles of [free speech, access, choice, privacy and openness online](https://internet2016.net/policyplatform/). Where can these candidates start? By making broadband affordable to all.
+This is why I'm an organizer for the [Internet 2016 campaign](https://internet2016.net). The Free Press Action Fund launched this effort to push presidential candidates to protect the open Internet. We need candidates to stand up to the big phone and cable companies and fight for the principles of free speech, access, choice, privacy and openness online. Where can these candidates start? By making broadband affordable to all.
 
 I fight so that people of color, youth, women, immigrants, queer and trans communities, differently abled people, those who are undocumented &mdash; as well as everyone who lies at the many intersections of these identities &mdash; can have access to a mic and run with it. 
 

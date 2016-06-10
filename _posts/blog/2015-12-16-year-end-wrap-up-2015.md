@@ -35,8 +35,6 @@ Check out what we've done so far:
 
 **Developed an [advocacy toolkit](https://internet2016.net/toolkits/).** It includes how-to's and tips for getting active and showing love for the Internet in an election year.
 
-**Rolled out a proactive [policy platform](https://internet2016.net/policyplatform/)** that reflects the principles and priorities of millions of Internet voters. We're working with allies to plan a comprehensive launch and roll-out of the platform to journalists and the candidates themselves. 
-
 **Asked pointed questions online both before and during presidential debates.** Watch Craig Aaron [ask his question](https://www.youtube.com/watch?v=lsgBv57cKew), which we submitted to one of the GOP debates. And check out the video organizer Lucia Martínez submitted to MoveOn.org's Democratic Presidential Candidate Forum. Allies like the Center for Media Justice and Demand Progress joined social media actions promoting Internet freedom before and during debates. We also submitted questions for Gov. Martin O'Malley and Carly Fiorina via Twitter during the Iowa Presidential Tech Town Hall. 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We have a right to privacy online. What will you do to end unchecked spying &amp; surveillance? <a href="https://twitter.com/hashtag/CNNDebate?src=hash">#CNNDebate</a> <a href="https://twitter.com/hashtag/Internet2016?src=hash">#Internet2016</a> <a href="https://twitter.com/hashtag/InternetVoter?src=hash">#InternetVoter</a> <a href="https://twitter.com/CNN">@CNN</a></p>&mdash; Demand Progress (@demandprogress) <a href="https://twitter.com/demandprogress/status/644128316077834240">September 16, 2015</a></blockquote>

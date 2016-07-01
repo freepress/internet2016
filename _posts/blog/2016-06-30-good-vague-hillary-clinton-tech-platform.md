@@ -2,7 +2,7 @@
 layout: blogpost_single
 headerimg: blog-hillary-clinton.jpeg
 title: "The Good and the Vague in Hillary Clinton's Tech Platform"
-teaser: "Donald Trump's campaign isn't 'business as usual' and the corporations supporting the Republican convention shouldn't treat it as such."
+teaser: "The highlights of Clinton's initiative include a promise to defend the FCC’s Net Neutrality rules and a desire to close the digital divide. But her plan lacks substance on other issues."
 thumbnail: thumbnail-blog-hillary-clinton.svg
 author: <strong>Heather Franklin</strong>
 publish_date: June 30, 2016
@@ -24,7 +24,7 @@ Clinton supports an Obama administration [executive order](https://www.whitehous
 
 According to Free Press’ analysis of FCC broadband-deployment data, as of December 2014, only 12 percent of the U.S. population had access to three or more wired broadband providers at speeds above 3 Mbps. That means the rest of us are trapped in a duopoly at best when it comes to getting truly high-speed access at home.
 
-When there’s little to no competition in a given market, prices soar. This may be great for companies selling that product but it’s terrible for the people and the businesses who buy it. Right now tens of millions of Americans can’t afford to access the internet at home to look for jobs, do homework, seek educational opportunities and participate fully in our democracy. We need a president who will promote broadband affordability and choice.
+When there’s little to no competition in a given market, prices soar. This may be great for companies selling a product but it’s terrible for the people and the businesses who buy it. Right now tens of millions of Americans can’t afford to access the internet at home to look for jobs, do homework, seek educational opportunities and participate fully in our democracy. We need a president who will promote broadband affordability and choice.
 
 On the surveillance front, Clinton’s tech initiative provides little detail on whether she would work to curb unchecked government surveillance. While she supports the [USA Freedom Act](http://www.freepress.net/blog/2015/06/03/usa-freedom-act-passed-now-what), which reined in some NSA surveillance programs but didn’t halt all mass collection of personal data, she provides only the most general sense of how her administration would approach, among other things, cross-border data requests.
 

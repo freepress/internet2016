@@ -1,6 +1,6 @@
 ---
 layout: blogpost_single
-headerimg: blog-voter-vox.png
+headerimg: 18mr_net.png
 title: "Fighting (and Voting) for the Internet Asian Americans Know, Love and Need"
 teaser: "Of the 225 million Americans eligible to head to the polls in November will be some 9 million Asian Americans. It’s a segment of the electorate that’s hard to categorize."
 thumbnail: thumbnail-blog-polling-place.svg
@@ -22,8 +22,6 @@ So it’s no coincidence that Asian Americans are consistently reported as the U
 But the internet we know, love, and rely on is under attack.
 
 Internet service providers are consolidating their market shares through mergers like the Charter-Time Warner Cable deal that threaten competition and our already limited consumer choices. Net Neutrality principles that mean that all information on the web is treated equally are being thwarted by zero-rating programs that give companies the ability to choose winners and losers online. Big Cable lobbyists and their allies in Congress are trying to crack down on [new policies](http://18millionrising.org/2016/05/set-top-box-AAPI-representation.html) that would make it easier to stream video content on your television — policies that could expand opportunities for Asian American creators to reach new and broader audiences. Lifeline modernization, a necessity for Asian Americans who are low-income and/or limited English proficient, is facing vehement opposition in Congress. Meanwhile, anti-encryption measures threaten our ability to communicate, consume and organize in private.
-
-<img src="https://internet2016.net/assets/img/18mr_net.png">
 
 It’s up to us to make the internet a place where Asian Americans — and all Americans — can reap the full benefits of the digital age. An open, affordable and accessible internet means students across the country can do their homework, unemployed people can search for jobs and benefits, and elders in our communities can access news and entertainment in their language of choice. It also gives us the opportunity to develop tools to make our democracy more representative, like with the crowd-sourced ballot-translation app [VoterVOX](http://www.votervox.org/) that’s currently in development at my organization, 18MillionRising.org. 
 

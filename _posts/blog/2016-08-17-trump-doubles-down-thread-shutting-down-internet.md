@@ -1,7 +1,7 @@
 ---
 layout: blogpost_single
 headerimg: blog-trump.jpg
-title: "Trump Doubles Down on Threat to "Shut Down" the Internet"
+title: "Trump Threatens to Shut Down the Internet ... Again"
 teaser: "Of the 225 million Americans eligible to head to the polls in November will be some 9 million Asian Americans. It’s a segment of the electorate that’s hard to categorize."
 thumbnail: thumbnail-blog-trump.svg
 author: <strong>Katherine Fuchs</strong>

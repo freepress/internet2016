@@ -2,7 +2,7 @@
 layout: blogpost_single
 headerimg: blog-trump.jpg
 title: "Trump Threatens to Shut Down the Internet ... Again"
-teaser: "Of the 225 million Americans eligible to head to the polls in November will be some 9 million Asian Americans. It’s a segment of the electorate that’s hard to categorize."
+teaser: "Donald Trump has just doubled down on plans to “shut down” access to the internet."
 thumbnail: thumbnail-blog-trump.svg
 author: <strong>Katherine Fuchs</strong>
 publish_date: August 17, 2016
@@ -30,3 +30,5 @@ While [Hillary Clinton](https://internet2016.net/voter-guide/) has repudiated Tr
 During the Democratic primary, she called for censoring social media in service of the defeating “jihadists.” As with Trump, Clinton is short on specifics.
 
 Suppressing the free exchange of ideas and targeting people based on their religion or ethnic background are patently un-American. As the election year moves into the home stretch, more Americans need to stand up for our rights to privacy and to freely express ourselves on the open internet.
+
+*Original image by Gage Skidmore*

@@ -31,4 +31,4 @@ During the Democratic primary, she called for censoring social media in service 
 
 Suppressing the free exchange of ideas and targeting people based on their religion or ethnic background are patently un-American. As the election year moves into the home stretch, more Americans need to stand up for our rights to privacy and to freely express ourselves on the open internet.
 
-*Original image by Gage Skidmore*
+*Original photo by Flickr user Gage Skidmore*
